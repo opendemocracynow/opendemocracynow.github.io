@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="847px" height="479px" viewBox="0 0 847 479" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>logo3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <text id="text-1" font-family="ProximaNova-Bold, Proxima Nova" font-size="510" font-weight="bold" fill="#1A89C5">
+            <tspan x="543" y="475">N</tspan>
+        </text>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-15" dy="15" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-3" font-family="ProximaNova-Bold, Proxima Nova" font-size="510" font-weight="bold" fill="#1A89C5">
+            <tspan x="300" y="475">D</tspan>
+        </text>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="-15" dy="15" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-5" font-family="ProximaNova-Bold, Proxima Nova" font-size="510" font-weight="bold" fill="#1A89C5">
+            <tspan x="33" y="469">O</tspan>
+        </text>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="-15" dy="15" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="versions-2" transform="translate(-35.000000, -845.000000)">
+            <g id="logo3" transform="translate(0.000000, 722.000000)">
+                <text id="Open-Democracy-Now-!" font-family="ProximaNova-Bold, Proxima Nova" font-size="90" font-weight="bold" letter-spacing="-6.98000002" fill="#EA544C">
+                    <tspan x="57" y="584">Open Democracy Now </tspan>
+                    <tspan x="863.17" y="584">!</tspan>
+                </text>
+                <g id="N" opacity="0.70469916" fill-opacity="1" fill="#1A89C5">
+                    <use filter="url(#filter-2)" xlink:href="#text-1"></use>
+                    <use xlink:href="#text-1"></use>
+                </g>
+                <g id="D" opacity="0.70469916" fill-opacity="1" fill="#1A89C5">
+                    <use filter="url(#filter-4)" xlink:href="#text-3"></use>
+                    <use xlink:href="#text-3"></use>
+                </g>
+                <g id="O" opacity="0.70469916" fill-opacity="1" fill="#1A89C5">
+                    <use filter="url(#filter-6)" xlink:href="#text-5"></use>
+                    <use xlink:href="#text-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
