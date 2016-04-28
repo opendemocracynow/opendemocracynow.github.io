@@ -872,7 +872,7 @@ a:focus, a:active {
 
 .landing-page .parallax {
   width: 100%;
-  height: 630px;
+  height: 690px;
   overflow: hidden;
   display: block;
   background-size: 100%;
@@ -1005,7 +1005,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
 }
 
 .landing-page .parallax .description{
-  margin-top: 200px;
+  margin-top: 165px;
   color: black;
   padding: 5px;
 }
@@ -1089,7 +1089,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     position: relative;
     overflow: hidden;
     width: 100%;
-    height: 600px;
+    height: 630px;
     text-align: center;
    }
  
