@@ -671,27 +671,27 @@ a:focus, a:active {
   opacity: 1;
 }
 
-.btn-pinterest {
-  border-color: #cc2127;
-  color: #cc2127;
+.btn-github {
+  border-color: #666;
+  color: #666;
 }
-.btn-pinterest:hover, .btn-pinterest:focus, .btn-pinterest:active, .btn-pinterest.active, .open > .btn-pinterest.dropdown-toggle {
+.btn-github:hover, .btn-github:focus, .btn-github:active, .btn-github.active, .open > .btn-github.dropdown-toggle {
   background-color: transparent;
-  color: #cc2127;
-  border-color: #cc2127;
+  color: #666;
+  border-color: #666;
   opacity: 1;
 }
-.btn-pinterest:disabled, .btn-pinterest[disabled], .btn-pinterest.disabled {
+.btn-github:disabled, .btn-github[disabled], .btn-github.disabled {
   background-color: transparent;
-  border-color: #cc2127;
+  border-color: #666;
 }
-.btn-pinterest.btn-fill {
+.btn-github.btn-fill {
   color: white;
-  background-color: #cc2127;
+  background-color: #666;
   opacity: 0.9;
 }
-.btn-pinterest.btn-fill:hover, .btn-pinterest.btn-fill:focus, .btn-pinterest.btn-fill:active, .btn-pinterest.btn-fill.active, .open > .btn-pinterest.btn-fill.dropdown-toggle {
-  background-color: #cc2127;
+.btn-github.btn-fill:hover, .btn-github.btn-fill:focus, .btn-github.btn-fill:active, .btn-github.btn-fill.active, .open > .btn-github.btn-fill.dropdown-toggle {
+  background-color: #666;
   color: white;
   opacity: 1;
 }
@@ -903,7 +903,7 @@ a:focus, a:active {
     display: block;
     z-index: 1;
     content: "";
-    opacity: .2;
+    opacity: .05;
 }
 .filter-gradient.gray:after{
 /* IE9 SVG, needs conditional override of 'filter' to 'none' */
@@ -1163,12 +1163,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
 
 .card{
   text-align:center;
-  background-color: rgba(45, 45, 45, 0.6);
+  background-color: rgba(10, 10, 10, 0.5);
   border-radius: 10px;
   padding-bottom: 50px;
   min-height: 300px;
   padding-top:20px;
-  max-width: 700px;
+  max-width: 650px;
   margin: 0 auto;
   float: none;
 }
