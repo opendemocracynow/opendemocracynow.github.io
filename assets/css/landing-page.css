@@ -1163,7 +1163,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
 
 .card{
   text-align:center;
-  background-color: rgba(10, 10, 10, 0.5);
+  background-color: rgba(10, 10, 10, 0.4);
   border-radius: 10px;
   padding-bottom: 50px;
   min-height: 300px;
