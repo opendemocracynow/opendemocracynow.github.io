@@ -14,7 +14,7 @@
 
         $(window).on('scroll', function() {
             responsive = $(window).width();
-            if (responsive >= 200) {
+            if (responsive >= 600) {
                 parallax();
             }
         });
