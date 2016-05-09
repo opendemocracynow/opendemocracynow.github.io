@@ -1818,4 +1818,19 @@ opacity: 1;
 max-width: 70%;
 }
 
+.title_hack{
+  font-size: 50px;
+  color:white;
+  font-weight: 600;
+  padding-top: 50px;
+}
 
+@media(max-width: 992px){
+  .title_hack{
+    font-size:40px;
+  }
+
+  @media(max-width: 768px){
+  .title_hack{
+    font-size:30px;
+  }

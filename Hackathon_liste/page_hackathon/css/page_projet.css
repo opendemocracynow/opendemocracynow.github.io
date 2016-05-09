@@ -1834,4 +1834,8 @@ color: rgb(51,51,51);
           box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
 }
 
-
+@media(min-width: 992px){
+  .well_list {
+    margin-top:105px;
+    margin-bottom:-60px;
+  }
