@@ -987,7 +987,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
 }
 
 .landing-page .parallax .parallax-image img.phone{
-  width: 100%;
+  width: 80%;
   float: right;
 }
 
@@ -1006,7 +1006,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
 }
 
 .landing-page .parallax .description{
-  margin-top: 90px;
+  margin-top: 100px;
   color: white;
   padding: 5px;
 }
@@ -1654,15 +1654,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
   .landing-page .navbar-top{
     background: rgba(250, 250, 250, 0.15);
   }
-  .landing-page .parallax {
-    height: 550px;
-  }
+  
   .landing-page .parallax .parallax-background img {
-    width: auto;
-    height: 100%;
+    width: 100%;
+    height: auto;
   }
   .landing-page .parallax .description{
-    margin-top: 20px;  }
+    margin-top: 90px;  }
   .landing-page .parallax .buttons{
     margin: 20px 0;
   }
@@ -1674,7 +1672,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     padding-top: 20px;
   }
   .landing-page .section-presentation{
-    margin: 0;
+    margin:0;
   }
   .landing-page .section-presentation{
     height: auto;
@@ -1833,3 +1831,4 @@ max-width: 70%;
   .title_hack{
     font-size:30px;
   }
+
