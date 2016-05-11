@@ -1,4 +1,4 @@
-# Site officiel de Open Democracy Now
+# Official website: Open Democracy Now
 
 Thanks: 
 
@@ -9,6 +9,8 @@ Templates/code: </br>
 
 Images:
 NASA Goddard Space Flight Center (flickr: https://www.flickr.com/photos/gsfc)
+
+Feel free to duplicate/modify for your own use!
 
 
 
