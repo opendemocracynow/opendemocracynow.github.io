@@ -1,17 +1,18 @@
 # Official website: Open Democracy Now
 
-Thanks: 
+<h3>Thanks: </h3>
 
-Templates/code: </br>
+<h4>Templates/code: </h4>
 <a href="http://www.creative-tim.com/" target="_blank">Creative Tim</a></br>
 <a href="https://github.com/blackrockdigital/startbootstrap/" target="_blank">Start Bootstrap</a></br>
 <a href="https://github.com/cferdinandi/smooth-scroll" target="_blank">Smooth Scroll</a>
 
-Images:</br>
+<h4>Forms:</h4>
+<a href="https://www.jotform.com/" target="_blank">Jotform</a>
+
+<h4>Images:</h4>
 NASA Goddard Space Flight Center (flickr: https://www.flickr.com/photos/gsfc)</br>
 NASA Marshall Space Flight Center (flickr: https://www.flickr.com/photos/nasamarshall/albums)
-
-Feel free to duplicate/modify for your own use!
 
 
 
