@@ -1,6 +1,6 @@
 
 /*           Font Smoothing      */
-h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, .navbar, .btn-simple, a, .td-name, td {
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, .navbar, .btn-simple, a, .td-name, td, ul {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   font-family: "Source Sans Pro","Open Sans",Arial,sans-serif;
@@ -873,7 +873,7 @@ a:focus, a:active {
 
 .landing-page .parallax {
   width: 100%;
-  height: 690px;
+  height: 1200px;
   overflow: hidden;
   display: block;
   background-size: 100%;
@@ -1815,20 +1815,15 @@ opacity: 1;
 max-width: 70%;
 }
 
-.title_hack{
-  font-size: 50px;
-  color:white;
-  font-weight: 600;
-  padding-top: 50px;
+
+.form-contact{
+margin-top:200px;
+z-index: 2000;
+position:absolute;
+top: 0;
+margin-left: auto;
+margin-right: auto;
+left: 0;
+right: 0;
 }
-
-@media(max-width: 992px){
-  .title_hack{
-    font-size:40px;
-  }
-
-  @media(max-width: 768px){
-  .title_hack{
-    font-size:30px;
-  }
 
