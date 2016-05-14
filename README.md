@@ -8,9 +8,6 @@
 <a href="https://github.com/blackrockdigital/startbootstrap/" target="_blank">Start Bootstrap</a></br>
 <a href="https://github.com/cferdinandi/smooth-scroll" target="_blank">Smooth Scroll</a>
 
-<h4>Forms:</h4>
-<a href="https://www.jotform.com/" target="_blank">Jotform</a>
-
 <h4>Images:</h4>
 NASA Goddard Space Flight Center (flickr: https://www.flickr.com/photos/gsfc)</br>
 NASA Marshall Space Flight Center (flickr: https://www.flickr.com/photos/nasamarshall/albums)
