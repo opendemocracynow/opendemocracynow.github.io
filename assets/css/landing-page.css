@@ -1817,9 +1817,8 @@ opacity: 1;
 max-width: 70%;
 }
 
-.title_hack{
+.title_hack a{
   font-size: 50px;
-  color:white;
   font-weight: 600;
   padding-top: 50px;
 }
