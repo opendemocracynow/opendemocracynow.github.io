@@ -415,7 +415,7 @@ a:focus, a:active {
 }
 
 .section {
-  padding: 30px 0;
+  padding: 50px 0;
   position: relative;
   background-color: #FFFFFF;
 }
@@ -423,6 +423,99 @@ a:focus, a:active {
 .section-gray {
   background-color: #EEEEEE;
 }
+
+.section-red {
+  background-color: #E14848;
+}
+
+.section-red h2{
+  color: #FFFFFF;
+  font-weight:800;
+  font-size:90px;
+  text-shadow: 6px 4px 0px #313131;
+  padding-bottom: 20px;
+  padding-top:60px;
+}
+
+.section-red {
+  background-color: #E14848;
+}
+
+.section-red h2{
+  color: #FFFFFF;
+  font-weight:800;
+  font-size:110px;
+  text-shadow: 6px 4px 0px #313131;
+  padding-bottom: 40px;
+}
+
+.section-red h3{
+  color: #FFFFFF;
+  font-weight:600;
+  font-size:30px;
+  padding-bottom: 20px;
+}
+
+.section-red h4{
+  color: #FFFFFF;
+  text-align: left;
+  font-weight:600;
+  font-size:30px;
+}
+
+.section-red p{
+  color: #FFFFFF;
+  text-align: left;
+}
+
+@media (max-width:768px){
+  .section-red h2{
+  font-size:90px;
+  text-shadow: 5px 3px 0px #313131;
+    }
+  }
+
+@media (max-width:768px){
+    .section-red h3{
+        font-size: 20px;
+    }
+  }
+
+@media (max-width:510px){
+.section-red h2{
+    font-size: 50px;
+    text-shadow: 4px 2px 0px #313131;
+     padding-bottom:10px;
+  }
+}
+
+@media (min-width:992px){
+  .section-red h4 {
+ padding-left: 75px;
+ padding-right: 75px;
+    }
+  }
+
+@media (min-width:1200px){
+  .section-red h4{
+ padding-left: 187px;
+ padding-right: 187px;
+    }
+  }
+
+  @media (min-width:992px){
+  .section-red p{
+ padding-left: 75px;
+ padding-right: 75px;
+    }
+  }
+
+@media (min-width:1200px){
+  .section-red p {
+ padding-left: 187px;
+ padding-right: 187px;
+    }
+  }
 
 .section-white {
   background-color: #FFFFFF;
