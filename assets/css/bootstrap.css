@@ -5624,7 +5624,7 @@ button.close {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-size: 12px;
+  font-size: 18px;
   line-height: 1.4;
   visibility: visible;
   filter: alpha(opacity=0);
@@ -5651,7 +5651,7 @@ button.close {
   margin-left: -3px;
 }
 .tooltip-inner {
-  max-width: 200px;
+  max-width: 250px;
   padding: 3px 8px;
   color: #fff;
   text-align: center;
