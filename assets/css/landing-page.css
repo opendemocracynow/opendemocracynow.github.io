@@ -1824,12 +1824,14 @@ max-width: 70%;
 }
 
 @media(max-width: 992px){
-  .title_hack{
+  .title_hack a{
     font-size:40px;
   }
+}
 
   @media(max-width: 768px){
-  .title_hack{
+  .title_hack a{
     font-size:30px;
   }
+}
 
