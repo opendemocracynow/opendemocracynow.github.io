@@ -1920,3 +1920,10 @@ left: 0;
 right: 0;
 }
 
+.form-contact .container {
+  max-width:600px;
+  background:white;
+  border-radius:5px;
+  padding:30px 30px 30px 30px;
+}
+

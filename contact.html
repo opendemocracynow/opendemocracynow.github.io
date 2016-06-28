@@ -4,7 +4,7 @@
         <meta charset="utf-8" />
         <link rel="icon" type="image/png" href="assets/img/odn_square2.ico">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-        <title>Open Democracy Now</title>
+        <title>Contact</title>
         <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
         <meta name="viewport" content="width=device-width" />
 
@@ -64,12 +64,36 @@
                     </div>
                 </div>
                     
-                                            
-                        <div class="form-contact">
-                        
-                             <iframe id="JotFormIFrame" onload="window.parent.scrollTo(0,0)" allowtransparency="true" src="https://form.jotformeu.com/61303475851353" frameborder="0" style="width:100%; height:auto; border:none;" scrolling="no"> </iframe> <script type="text/javascript"> window.handleIFrameMessage = function(e) { var args = e.data.split(":"); var iframe = document.getElementById("JotFormIFrame"); if (!iframe) return; switch (args[0]) { case "scrollIntoView": iframe.scrollIntoView(); break; case "setHeight": iframe.style.height = args[1] + "px"; break; case "collapseErrorPage": if (iframe.clientHeight > window.innerHeight) { iframe.style.height = window.innerHeight + "px"; } break; case "reloadPage": window.location.reload(); break; } var isJotForm = (e.origin.indexOf("jotform") > -1) ? true : false; if(isJotForm && "contentWindow" in iframe && "postMessage" in iframe.contentWindow) { var urls = {"docurl":encodeURIComponent(document.URL),"referrer":encodeURIComponent(document.referrer)}; iframe.contentWindow.postMessage(JSON.stringify({"type":"urls","value":urls}), "*"); } }; if (window.addEventListener) { window.addEventListener("message", handleIFrameMessage, false); } else if (window.attachEvent) { window.attachEvent("onmessage", handleIFrameMessage); } if(window.location.href && window.location.href.indexOf("?") > -1) { var ifr = document.getElementById("JotFormIFrame"); var get = window.location.href.substr(window.location.href.indexOf("?") + 1); if(ifr && get.length > 0) { var src = ifr.src; src = src.indexOf("?") > -1 ? src + "&" + get : src + "?" + get; ifr.src = src; } } </script>
-                        </div>
+                    <div class="form-contact">
+                        <div class="container">
+    <form action="https://formspree.io/arthur@democracyos.eu"
+      method="POST">
+  <fieldset class="form-group">
+    <label for="exampleInputPassword1">Nom</label>
+    <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Prénom et nom de famille" name="nom">
+  </fieldset>
+  <fieldset class="form-group">
+    <label for="exampleInputEmail1">Adresse email</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="exemple@mail.com" name="email">
+  </fieldset>
+  <fieldset class="form-group">
+    <label for="exampleSelect1">Type de projet</label>
+    <select class="form-control" id="exampleSelect1" name="type de projet">
+      <option>création/développement d'application</option>
+      <option>atelier de réflexion</option>
+      <option>autre...</option>
+    </select>
+  </fieldset>
+  <fieldset class="form-group">
+    <label for="exampleTextarea">Votre projet</label>
+    <textarea class="form-control" id="exampleTextarea" rows="3" name="description du projet"></textarea>
+  </fieldset>
+  <button type="submit" class="btn btn-primary" value="Send">Submit</button>
+  <input type="hidden" name="_next" value="http://opendemocracynow.net/" />
+</form>
 
+</div>
+</div>
 
 
     <footer class="footer">
