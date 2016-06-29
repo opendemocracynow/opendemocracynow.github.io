@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+        
+          {{ content }}
+
+		 <hr>
+  
+    {% include footer.html %}
+   
+  {% if page.customjs %}
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+{% for js in page.customjs %}<script type="text/javascript" src="{{ js }}"></script>{% endfor %}
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" type="text/javascript"></script>
+
+
+  {% endif %}
+	
+	{% if page.search %}
+  {% include searchjs.html %}
+  {% endif %}
+
+  {% if page.timeline %}
+  {% include timelinejs.html %}
+  {% endif %}
+
+  {% if page.form %}
+  {% include fileupload.html %}
+  {% endif %}
+
+
+  {% if page.smoothscroll %}
+  <script>
+    smoothScroll.init();
+  </script>
+  {% endif %}
+
+  </body>
+</html>

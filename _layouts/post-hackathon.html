@@ -1,0 +1,38 @@
+---
+layout: default
+
+---
+
+ <div class="container">
+
+		<h1>{{ page.title }}</h1>
+
+		<hr>
+
+		<!-- Date/Time -->
+		<p> <i class="fa fa-calendar"> </i> {{page.moment}} <i class="fa fa-map-marker" aria-hidden="true" style="padding-left:20px"></i> {{page.place}} </p>
+
+		<hr>
+
+		<div class="row">
+            
+    		<div class="col-md-9">
+
+				<!-- Preview Image -->
+					<img class="img-responsive" src="/img/hackathons/{{ page.img }}" alt="{{ page.title }}">
+
+<br>
+					<br>
+					<br>
+
+
+				{{ content }}
+
+
+				</div>
+				
+		{% include sidebar.html %}
+
+</div>
+
+	

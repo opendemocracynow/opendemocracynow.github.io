@@ -1,0 +1,60 @@
+
+   
+       
+  <div class="col-md-3 hidden-sm hidden-xs">
+
+    {% if page.search %}
+
+    <div class="recherche">
+    <input type="text" id="search-input" class="form-control2" placeholder="rechercher un projet..."><i class="fa fa-search"></i>
+    <ul style="font-weight:600" id="results-container"></ul>
+    </div> 
+
+  {% endif %}
+
+     
+
+    <div class="well_list">
+
+      <div class="well_list-nav">
+
+      
+           <li><h4><a href="{{ site.baseurl }}/projets/">Projets</a></h4></li>
+       
+
+         
+          {% capture posts %}
+          {% for post in site.posts %}
+            |{{ post.title }}#{{ post.url }}
+          {% endfor %}
+        {% endcapture %}
+        {% assign sortedposts = posts | split: '|' | sort %}
+        {% for post in sortedposts %}
+            {% assign postitems = post | split: '#' %}
+            <li><a href="{{  postitems[1]  }}">{{  postitems[0]  }}</a></li>
+        {% endfor %}
+      
+
+       
+           <li><h4><a href="{{ site.baseurl }}/hackathons/">Hackathons</a></h4></li>
+   
+
+      {% capture posts %}
+          {% for post in site.hackathons %}
+            |{{ post.title }}#{{ post.url }}
+          {% endfor %}
+        {% endcapture %}
+        {% assign sortedposts = posts | split: '|' | sort %}
+        {% for post in sortedposts %}
+            {% assign postitems = post | split: '#' %}
+             <li><a href="{{ postitems[1] }}">{{ postitems[0] }}</a></li>
+        {% endfor %}
+      
+      </ul>
+
+    </div>
+    </div>
+
+  </div>
+
+  </div>

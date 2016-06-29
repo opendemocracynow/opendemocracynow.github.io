@@ -1,0 +1,21 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+ 
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "/css/main.min.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/bootstrap-social.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+  <link rel="stylesheet" href="{{ "/css/fileinput.min.css" | prepend: site.baseurl }}">
+
+
+  {% for css in page.customcss %}
+  <link rel="stylesheet" href="{{ css }}">
+  {% endfor %}
+
+</head>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Democracy Now</title>
+    <description>Développer ensemble des solutions open source* pour la démocratie.
+</description>
+    <link>http://opendemocracynow.net//</link>
+    <atom:link href="http://opendemocracynow.net//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 29 Jun 2016 22:08:34 +0200</pubDate>
+    <lastBuildDate>Wed, 29 Jun 2016 22:08:34 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Civic Test</title>
+        <description>&lt;p&gt;Annuaire des outils civic tech présenté sous forme d’un quiz ludique visant à promouvoir les valeurs de l’open source dans la civic tech.&lt;/p&gt;
+
+&lt;p&gt;Il est bien souvent difficile pour le grand public de savoir si une application est open source ou non. Les liens vers le code ne sont pas toujours affichés et il n’est pas évident de connaître les implications des licences utilisées par les différents projets. Le principe du Civic Test est d’accéder à ce type d’information de manière ludique en répondant seulement à quelques questions.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;latelier-dans-le-cadre-de-odn&quot;&gt;L’atelier dans le cadre de ODN&lt;/h5&gt;
+
+&lt;p&gt;Membres de l’équipe : Emmanuel Raviart, Paula Forteza, Pierre-Louis Rolle, Virgile Deville, Joachim et Pacome.&lt;br /&gt;
+À la base, Civic Test est une exploitation ludique des données récoltées par l’annuaire de logiciel code.gouv2.fr créé par des membres de l’équipe d’Etalab. Lors du second hackathon Open Democracy Now nous avons pu enrichir la page d’outils crowdsourcée par des membres Nuit Debout en rajoutant les colonnes licences et communautés. Sur cette base de travail nous avons pu remplir quelques quiz et créer une première version du site. Un plaidoyer pour l’open source dans les civic tech a été rédigé et rajouté à la page d’accueil. Ce qu’il nous reste à faire c’est le code permettant d’automatiser la génération de quiz depuis la base de donnée générée par le parser qui moissonne la liste d’outils de Nuit Debout. Pour cela il faudrait qu’un développeur se penche sur le problème.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 21 Jun 2016 14:13:29 +0200</pubDate>
+        <link>http://opendemocracynow.net//Civictest</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//Civictest</guid>
+        
+        <category>Logiciels</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Usages associés: boîte à outils open gov</title>
+        <description>&lt;p&gt;L’objectif de cet atelier est d’accompagner la constitution du Usages associés: boîte à outils open gov réalisé dans le cadre de la préparation du sommet du PGO et listant un certain nombre d’usages renforçant la dynamique de gouvernement ouvert.&lt;/p&gt;
+
+&lt;p&gt;L’objectif de cet atelier est d’accompagner la constitution du Usages associés: boîte à outils open gov réalisé dans le cadre de la préparation du sommet du PGO.&lt;/p&gt;
+
+&lt;p&gt;Il liste un certain nombre d’usages structurant pour la démarche de gouvernement ouvert au travers d’un prisme à trois facettes : 
+- les objectifs
+- les usagers
+- les services proposés.
+Il imagine différentes plates-formes ou services susceptibles d’être utiles à l’appropriation et l’exploitation du catalogue et promeut des logiques de mutualisation et coconstruction entre les acteurs intéressés par cette dynamique inclusive et ouverte. Il a pour vocation à inspirer différentes initiatives concourant à l’exploitation du catalogue.&lt;/p&gt;
+
+&lt;p&gt;L’atelier dans le cadre de ODN&lt;/p&gt;
+
+&lt;p&gt;Ce projet a été initié dans le cadre du lancement du PGO (https://www.etalab.gouv.fr/retour-sur-le-lancement-du-sommet-pgo) le 20 avril 2016 comme soutien au hackathon officiel qui vise à construire d’ici au Sommet de décembre une boîte à outils du gouvernement ouvert, à travers un catalogue recensant les logiciels et solutions techniques pouvant outiller le PGO ainsi que les administrations et la société civile du monde entier dans la mise en œuvre de leurs engagements.&lt;/p&gt;
+
+&lt;p&gt;Complémentaire à l’atelier technique qui permet d’aboutir à la conception de ce catalogue de la Civic Tech, cet atelier dédié aux usages réunit tous les acteurs de la Civic Tech afin d’imaginer des réappropriations possibles de la ressource qui sera ainsi accessible. Il rejoint Open Democracy Now lors de sa troisième étape lors de Future en Seine.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Jun 2016 12:13:29 +0200</pubDate>
+        <link>http://opendemocracynow.net//usages-associes</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//usages-associes</guid>
+        
+        <category>Ateliers</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Charte éthique en matière d&#39;outils numériques pour la confiance dans un gouvernement ouvert et participatif</title>
+        <description>&lt;p&gt;L’objectif de cette charte est d’accompagner la démarche de gouvernement ouvert en renforçant la confiance dans les processus démocratiques mis en œuvre par des outils numériques.&lt;/p&gt;
+
+&lt;p&gt;L’objectif de cette charte est d’accompagner la démarche de gouvernement ouvert en renforçant la confiance dans les processus démocratiques mis en œuvre par des outils numériques. Elle propose une série de critères plus ou moins contraignants auxquels s’engagent le prestataire, l’initiateur de la démarche et l’utilisateur des outils numériques.&lt;/p&gt;
+
+&lt;p&gt;Servant de référentiel communautaire, elle aura pour vocation d’inspirer les démarches de gouvernements ouverts s’appuyant sur des outils numériques en guidant les initiateurs quant aux atteintes inhérentes à ces consultations et en outillant les utilisateurs pour préserver leur confiance dans le processus ouvert.&lt;/p&gt;
+
+&lt;p&gt;Elle a vocation à s’appliquer autant aux projets initiés par les gouvernements qu’à ceux nés de besoins collectifs.&lt;/p&gt;
+
+&lt;p&gt;L’atelier dans le cadre de ODN&lt;/p&gt;
+
+&lt;p&gt;Complémentaires aux réflexions menées en matière d’outils et de méthodologie, il est très tôt apparu comme nécessaire de définir une charte destinée à assurer la confiance dans l’usage des outils numériques utilisés pour un mouvement ouvert (et en premier lieu les outils de consultation en ligne et de cocréation de la Loi).&lt;/p&gt;
+
+&lt;p&gt;Ce projet a ainsi été initié à l’occasion du second point d’étape Open Democracy Now! et une première carte heuristique a été réalisée pour représenter les droits et obligations susceptibles de porter sur les prestataires, initiateurs ou encore utilisateurs de telles solutions.&lt;/p&gt;
+
+&lt;p&gt;Il s’agit dorénavant de peaufiner le travail qui a été réalisé (toute aide est bienvenue) et de faciliter la diffusion de cette charte en travaillant sur une iconographie qui représente simplement (et sur le modèle des licences Creative Commons) les principales dimensions éthiques devant accompagner les démarches de gouvernement ouvert. Pour ce dernier point, l’aide d’un graphiste serait particulièrement utile.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 21 Jun 2016 11:30:29 +0200</pubDate>
+        <link>http://opendemocracynow.net//charte</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//charte</guid>
+        
+        <category>Ateliers</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Nuances</title>
+        <description>&lt;p&gt;Construire, comprendre et comparer son positionnement politique pour ouvrir une nouvelle fenêtre sur le débat et l’engagement.&lt;/p&gt;
+
+&lt;p&gt;La multiplication des courants et des chapelles plus ou moins réduites au sein des partis ou familles politiques traditionnelles tend à brouiller la perception que chacun a du positionnement du personnel politique et de son propre positionnement sur l’échiquier politique. Nuances, c’est repartir de l’individu pour lui permettre de déterminer ses propres convictions avant de découvrir comment elles se situent par rapport aux autre.&lt;/p&gt;
+
+&lt;p&gt;L’atelier dans le cadre de ODN&lt;/p&gt;
+
+&lt;p&gt;La crise de la démocratie représentative n’est pas récente, mais elle revêt aujourd’hui une signification toute nouvelle face à la démocratisation d’un nouveau rapport à l’espace public à travers l’usage du web. Les valeurs de liberté et d’égalité a priori, portées par les pionniers d’internet, doivent et peuvent aujourd’hui être associées à la massification des usages pour permettre la construction d’une nouvelle façon d’envisager la décision et le débat politique à l’échelle de populations diverses tant en nombre qu’en hétérogénéité. Il y a donc un double enjeu à la participation à des projets comme Open Democracy Now : penser la démocratie dans un contexte numérique et penser les caractéristiques du numérique dans un contexte d’hétérogénéité sociale.&lt;/p&gt;
+
+&lt;p&gt;Les objectifs de l’atelier&lt;/p&gt;
+
+&lt;p&gt;Proposer un outil à tout-un-chacun pour décider par soi-même quelles sont ses convictions afin de comprendre son propre positionnement avant de le comparer à celui des autres (amis et/ou personnalités politiques) et de déterminer avec eux des points de convergence et de divergence. Mettre le positionnement individuel au centre de la conviction politique et souligner les différences pour renforcer l’esprit critique et le débat des idées.&lt;/p&gt;
+
+&lt;p&gt;Les étapes franchies&lt;/p&gt;
+
+&lt;p&gt;Scope global du projet, objectifs pour MVP, parcours et expérience utilisateurs&lt;/p&gt;
+
+&lt;p&gt;Les besoins&lt;/p&gt;
+
+&lt;p&gt;Pousser la réflexion et la méthodologie mathématique précise pour une représentation du positionnement de l’ensemble des utilisateurs sur des plans à deux dimensions, à partir d’un nombre virtuellement illimité de dimensions de positionnement.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Jun 2016 09:41:29 +0200</pubDate>
+        <link>http://opendemocracynow.net//nuances</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//nuances</guid>
+        
+        <category>Logiciels</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>A Project Has No Name</title>
+        <description>&lt;p&gt;HOWTO: auto-héberger wordpress, discourse, loomio, mediawiki, gitlab et mattermost via docker et sur OpenStack pour moins de 5 euros par mois.&lt;/p&gt;
+
+&lt;p&gt;Quand un collectif se constitue, il prend ce qu’il a sous la main, gratuit ou presque, GAFAM ou anti-GAFAM. Et puis arrive le moment où ça gène aux entournures, on voudrait être indépendants, avoir un service qui n’est pas disponible gratuitement. Chacun se lance dans des recherches et débat sur les mérites comparés de centaines d’outils, des tarifs des hébergeurs. Quelqu’un finit par appeler de ses voeux un outil qui répondrait à tout les besoins mais qui n’existe pas encore, les plus courageux font un cahier des charge de l’outil rêvé. Trop souvent la discussion s’épuise et le résultat est frustrant.&lt;/p&gt;
+
+&lt;p&gt;Et s’il suffisait d’avoir un mode d’emploi (HOWTO) bien fait pour auto-héberger un ensemble d’outils ? Une boîte a outil préremplie, sans autre forme d’intégration. Un tout qui puisse se déployer, se sauvegarder et se restaurer dans les nuages, sur une seule machine. Rien de bien compliqué, alors pourquoi pas le faire pendant un hackaton et le donner à des collectifs pour voir ce que ça donne ? Si ça peut leur éviter de chercher pour la millième fois le logiciel magique qui n’existe pas, ce serait formidable.&lt;/p&gt;
+
+&lt;p&gt;L’atelier dans le cadre de ODN&lt;/p&gt;
+
+&lt;p&gt;Quand et pourquoi avez-vous rejoint ce projet?&lt;/p&gt;
+
+&lt;p&gt;C’est la première fois que je participe (Hackathon #3). Pour y trouver d’autre hackers astucieux et découvrir le plus court chemin pour faire voter une nouvelle constitution qui donne le pouvoir aux électeurs.&lt;/p&gt;
+
+&lt;p&gt;Quels sont vos objectifs ?&lt;/p&gt;
+
+&lt;p&gt;Rédiger la HOWTO et la tester, pour qu’elle puisse être un moyen fiable de refaire la même chose.&lt;/p&gt;
+
+&lt;p&gt;Quelles étapes avez-vous déjà franchies?&lt;/p&gt;
+
+&lt;p&gt;J’ai identifié les outils à agréger en observant ce que les collectifs utilisent et en proposant à des collectifs des outils pour répondre à leurs besoins (qui sont parfois exprimés de façon difficile à comprendre).&lt;/p&gt;
+
+&lt;p&gt;Quels sont vos besoins pour la suite?&lt;/p&gt;
+
+&lt;p&gt;Des hackers et des membres de collectifs qui souhaitent s’auto-héberger et utiliser ces outils.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Jun 2016 08:41:29 +0200</pubDate>
+        <link>http://opendemocracynow.net//noname</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//noname</guid>
+        
+        <category>Ateliers</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>OpenBudget.fr</title>
+        <description>&lt;p&gt;OpenBudget.fr permet à tout un chacun de visualiser comment sont dépensés ses impôts par les collectivités, de s’exprimer simplement sur la répartition effectuée, de visualiser la moyenne des répartitions des autres citoyens.&lt;/p&gt;
+
+&lt;p&gt;Les budgets des collectivités et leur utilisation sont actuellement très difficiles d’accès et présentés sous des formes très peu accessibles pour la majorité des citoyens. Les informations et l’éducation citoyenne autour de la gestion de ce budget sont aussi très faibles voir quasi-nulles. Ensuite, les citoyens n’ont aujourd’hui aucun moyen simple et démocratique de s’exprimer sur la répartition des budgets et leur suivi.&lt;/p&gt;
+
+&lt;p&gt;Certaines mairies (Paris par exemple), s’engagent timidement dans une voie d’ouverture en donnant accès au citoyen à un très faible pourcentage du budget. OpenBudget.fr va plus beaucoup plus loin en offrant un moyen d’accès à l’ensemble des éléments financiers. La transparence et l’implication citoyenne ne peut se résumer à quelques % !&lt;/p&gt;
+
+&lt;p&gt;OpenBudget.fr apporte sa pierre à la gestion démocratique du budget en permettant à tout un chacun de : 
+1) Visualiser simplement les répartitions budgétaires effectuées par les élus au cours des dernières années
+2) S’exprimer simplement sur ces répartitions via des montant représentatifs pour lui car correspondant à son montant d’impôt
+3) Disposer d’une moyenne des répartitions effectués par tous les autres citoyens utilisateurs de la plateforme.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;entretien-avec-florent-andr-reprsentant-du-projet&quot;&gt;Entretien avec Florent André, représentant du projet.&lt;/h5&gt;
+
+&lt;h6 id=&quot;quand-et-pourquoi-avez-vous-rejoint-ce-projet&quot;&gt;Quand et pourquoi avez-vous rejoint ce projet?&lt;/h6&gt;
+
+&lt;p&gt;Dès le début, ayant aussi la casquette de CTO d’OpenLaw, je mets à disposition de tous les projet d’OpenDemocracyNow des capacités importantes de machines pour réaliser des calculs, héberger des produits… Je l’ai rejoint car la loi et le budget ouverts sont des constituants importants d’une démocratie réellement ouverte, mais sûrement pas les seuls, et il est important de mettre en synergie toutes les belles initiatives issues de ce grand projet de démocratie ouverte !&lt;/p&gt;
+
+&lt;h6 id=&quot;quels-sont-vos-objectifs-&quot;&gt;Quels sont vos objectifs ?&lt;/h6&gt;
+
+&lt;p&gt;Dans le cadre de ce projet, je souhaiterais arriver à la mise en place d’un outil citoyen de suivi des budgets publics transparent, en temps réel et démocratique.&lt;/p&gt;
+
+&lt;h6 id=&quot;quelles-tapes-avez-vous-dj-franchies&quot;&gt;Quelles étapes avez-vous déjà franchies?&lt;/h6&gt;
+
+&lt;p&gt;Réalisation d’un premier prototype, finaliste au concours dataconnexion 2014, idnetification d’une petite communauté.&lt;/p&gt;
+
+&lt;h6 id=&quot;quels-sont-vos-besoins-pour-la-suite&quot;&gt;Quels sont vos besoins pour la suite?&lt;/h6&gt;
+
+&lt;p&gt;Développeur, spécialistes financiers, férus de la data-viz, juristes, citoyens motivés, supporteur politiques, supporteurs financiers, agitateurs de communauté&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 May 2016 00:00:00 +0200</pubDate>
+        <link>http://opendemocracynow.net//openbudget</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//openbudget</guid>
+        
+        <category>Logiciels</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Grandma&#39; Votation</title>
+        <description>&lt;p&gt;Le droit est devenu une langue étrangère… On ne sait plus ce qu’on vote ou ce qu’on signe… Trop long, trop compliqué et mal écrit…Le poisson (parfois un piranha) est noyé, le but est de le retrouver et de le sortir du flan…par la visualisation, la gamification: une interface compréhensible y compris par Grand’Ma.&lt;/p&gt;
+
+&lt;p&gt;Entretien avec Jean-Baptiste Baraton, représentant du projet.&lt;/p&gt;
+
+&lt;p&gt;Quand et pourquoi avez-vous rejoint ce projet?&lt;/p&gt;
+
+&lt;p&gt;Il y a presque un an maintenant, un peu par hasard et parce que l’open source me plaisait par ses valeurs, son efficacité et ses principes (vitesse de partage de l’information et transparence; fiabilité), j’ai découvert l’open source par Firefox puis par de nombreux croyants et pratiquants car il s’agit d’un paradigme, d’une logique, d’une philosophie, basée sur la confiance et la libre adhésion et coopération. En outre l’open source est un de mes axes de réflexions et outil de travail. Votation correspond en outre à une brique essentielle d’un projet plus vaste qui nécessite une interface fiable, open source et simple à appréhender.&lt;/p&gt;
+
+&lt;p&gt;Quels sont vos objectifs ?&lt;/p&gt;
+
+&lt;p&gt;La simplification de la loi, des textes en général et du code informatique en particulier afin qu’un maximum de cerveaux soient en mesure au delà des barrières de langues de contribuer et comprendre a minima.&lt;/p&gt;
+
+&lt;p&gt;Quelles étapes avez-vous déjà franchies?&lt;/p&gt;
+
+&lt;p&gt;Le projet est défini, conceptualisé et porté auprès d’un certain nombre de développeurs (notamment certains nouveaux contacts récents à 42), de juristes et de citoyens, il existe une vidéo et bientôt il y aura une communauté dédiée (à venir).&lt;/p&gt;
+
+&lt;p&gt;Quels sont vos besoins pour la suite?&lt;/p&gt;
+
+&lt;p&gt;En priorité des graphistes, des développeurs, ergonomes (j’en ai quelques-uns), dans le domaine de l’IA et de la blockchain, des citoyens (en priorité les moins pointus en matières juridique et informatique, voire des personnes handicapées et malades) pour tester et rester proche des attentes concrètes y compris et surtout des plus faibles.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 May 2016 22:41:29 +0200</pubDate>
+        <link>http://opendemocracynow.net//votation</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//votation</guid>
+        
+        <category>Logiciels</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Blockchain &amp; Démocratie</title>
+        <description>&lt;p&gt;Explorer les enjeux croisés de la blockchain et de la gouvernance démocratique autour d’une discussion orientée vers la formulation de recommandations concrètes, adressées à des acteurs publics ou des administrations.&lt;/p&gt;
+
+&lt;p&gt;La discussion est nourrie par un intervenant qui recueille les contributions les plus pertinentes pour les formuler de manière à ce qu’elles puissent être entendues par des décideurs. Les grands thèmes abordés sont à la fois théoriques – les liens avec la théorie du droit, les possibilités ouvertes par la technologie pour les organisations – et pratiques – tour d’horizon des industries et des politiques formant l’écosystème de la blockchain, et principales opportunités ouvertes pour les institutions.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;latelier-dans-le-cadre-de-odn&quot;&gt;L’atelier dans le cadre de ODN&lt;/h5&gt;
+
+&lt;p&gt;“J’ai rejoint Open Democracy Now lors de la première édition en février dernier, après avoir été convaincu du potentiel « disrupteur » de la blockchain pour les organisations. Je suis aujourd’hui persuadé que son impact sera le plus important pour les institutions publiques, ce pourquoi Open Democracy Now, de par la variété des acteurs qu’il rassemble, semblait le lieu idéal pour creuser ces thématiques novatrices. Il s’agissait alors d’explorer comment la blockchain pouvait faciliter le vote en ligne. Après un premier atelier très concluant, nous avons choisi d’élargir les perspectives et d’aborder la révolution de la blockchain dans toute l’étendue de son potentiel politique. Nous souhaitons désormais développer des applications concrètes sur la blockchain d’Ethereum pour illustrer notre propos, ce pourquoi nous recherchons activement des développeurs, graphistes ou web designers qui seraient intéressés par le développement d’un prototype de blockchain d’État et le déploiement d’un site web expliquant son fonctionnement.”
+Louis Margot-Duclot&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 May 2016 00:00:00 +0200</pubDate>
+        <link>http://opendemocracynow.net//Blockchain</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//Blockchain</guid>
+        
+        <category>Ateliers</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Boîte à outils open gov</title>
+        <description>&lt;p&gt;Référencer les logiciels et les services numériques développés et utilisés par les administrations ou par la société civile à travers le monde, pour encourager leur partage et leur réutilisation.&lt;/p&gt;
+
+&lt;p&gt;“Portails d’open data, plateformes de consultation citoyenne, outils de suivi et d’élaboration collaborative de la loi, forums, civic-techs, plateformes en ligne d’évaluation des plans d’action nationaux… : il existe en effet de nombreux logiciels et services numériques à travers le monde, développés et utilisés par les administrations ou par la société civile, qui pourraient être référencés, partagés et réutilisés.&lt;/p&gt;
+
+&lt;p&gt;Cette « boîte à outils », qui sera agrémentée de cas d’usages et de critères permettant de se repérer dans les solutions disponibles, visera ainsi à la fois à faciliter la mise en œuvre des engagements pris par les gouvernements dans le cadre de leurs plans d’action nationaux, et à favoriser le partage de ressources et d’expériences, et les coopérations entre membres du partenariat.&lt;/p&gt;
+
+&lt;p&gt;Jusqu’à Décembre, des sprints de contribution verront des agents de l’administration, des représentants de la société civile, des entreprises, des start-ups et des membres de la communauté civic-tech co-construire cette « boîte à outils ». Le lancement de la plateforme aura lieu lors de la clôture du hackathon du Sommet Mondial du Partenariat pour un Gouvernement Ouvert, le 8 et 9 Décembre 2016.”&lt;/p&gt;
+
+&lt;p&gt;Paula Forteza, Étalab&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Apr 2016 22:41:29 +0200</pubDate>
+        <link>http://opendemocracynow.net//toolbox</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//toolbox</guid>
+        
+        <category>Logiciels</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Politique de contribution aux logiciels libres dans l’administration</title>
+        <description>&lt;p&gt;Faciliter et accompagner la contribution aux logiciels libres pour les développeurs qui travaillent pour l’administration, agents ou prestataires.&lt;/p&gt;
+
+&lt;p&gt;L’objectif de cette politique de contribution aux logiciels libres est d’apporter les bonnes pratiques et de définir le minimum de règles à respecter. A destination des développeurs, elle doit permettre de leur apporter reconnaissance nominative et valoriser les contributions, tant sur le plan personnel que professionnel. Le périmètre et les thèmes de cette politique de contribution restent à fixer et seront établis de manière collaborative en utilisant les discussions sur le forum Etalab.&lt;/p&gt;
+
+&lt;p&gt;L’atelier durant ODN&lt;/p&gt;
+
+&lt;p&gt;Dans le cadre du plan national du Partenariat pour un Gouvernement Ouvert (PGO) des engagements ont été pris pour faciliter la réutilisation des ressources numériques et pour ouvrir les administrations elles-mêmes. Un Etat est avant tout un système d’information, avec des données et des logiciels. Ouvrir les algorithmes passe concrètement par la publication du code source, idéalement en tant que logiciels libres pour permettre leur modification. Cette politique a pour objectif de lever les verrous dans l’administration en s’adressant directement aux développeurs tout en définissant les règles à respecter. Tout développeur, juriste, chef de projet, dans l’administration ou travaillant pour l’administration est invité à contribuer.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Apr 2016 22:41:29 +0200</pubDate>
+        <link>http://opendemocracynow.net//politique-de-contribution</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//politique-de-contribution</guid>
+        
+        <category>Logiciels</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

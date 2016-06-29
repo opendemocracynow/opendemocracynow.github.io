@@ -1,0 +1,35 @@
+<form action="http://mailthis.to/opendemocracynow" method="post">
+
+  <fieldset class="form-group">
+    <label for="exampleInputPassword1">Nom</label>
+    <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Prénom et nom de famille" name="name">
+  </fieldset>
+
+  <fieldset class="form-group">
+    <label for="exampleInputEmail1">Adresse email</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="exemple@mail.com" name="email">
+  </fieldset>
+
+  <fieldset class="form-group">
+    <label for="exampleSelect1">Type de projet</label>
+    <select class="form-control" id="exampleSelect1" name="type de projet">
+      <option>création/développement d'application</option>
+      <option>atelier de réflexion</option>
+      <option>autre...</option>
+    </select>
+  </fieldset>
+ 
+  <label class="control-label">Ajouter une image</label>
+<input id="input-23" type="file" name="file"  multiple class="file-loading">
+
+<br>
+
+  <fieldset class="form-group">
+    <label for="exampleTextarea">description de votre projet</label>
+    <textarea class="form-control" id="exampleTextarea" rows="5" name="message"></textarea>
+  </fieldset>
+
+  <button type="submit" class="btn btn-info btn-fill" value="Send">Envoyer</button>
+
+  <input type="hidden" name="_confirmation" value="<b>Thank you!</b> We have received your message and will get back to you asap.">
+</form>
