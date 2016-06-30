@@ -15,8 +15,8 @@ url: "http://opendemocracynow.net/" # the base hostname & protocol for your site
 twitter_username: ODN
 github_username:  opendemocracynow
 github:
- repo: opendemocracynow/opendemocracynow.github.io
- branch: master
+  repo: opendemocracynow/opendemocracynow.github.io
+  branch: master
 gems: [jekyll-paginate]
 paginate: 6
 paginate_path: "/projets/page:num/"
