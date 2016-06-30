@@ -26,7 +26,3 @@ collections:
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title
-
-github:
-  repo: opendemocracynow/opendemocracynow.github.io
-  branch: master
