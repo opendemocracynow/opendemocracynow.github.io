@@ -368,7 +368,7 @@ text-align:center;
     font-size:28px;
     text-transform: uppercase;
 }
-.parallax-container-top img{
+.parallax-container-top {
   height: 700px;
   width: 100%;
   margin-top:-150px;
