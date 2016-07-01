@@ -5,6 +5,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="/img/odn_square2.ico">
 
   <title>Open Democracy Now</title>
   <meta name="description" content="Développer ensemble des solutions open source* pour la démocratie.
@@ -12,10 +13,12 @@
 
  
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="/css/landing-page.css">
+  <link rel="stylesheet" href="/css/main.min.css">
   <link rel="stylesheet" href="/css/bootstrap-social.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
   <link rel="stylesheet" href="/css/fileinput.min.css">
+
+  
 
 
   
@@ -48,11 +51,7 @@
                  <h1 class="page-header2">Projets
                     <small>Logiciels et initiatives</small>
                 </h1>
-               
-                   
-                    <br>
             </div>
-
 
             
             <div class="col-md-9">
@@ -182,7 +181,9 @@
                                     <h5>
                                         <a href="/openbudget">OpenBudget.fr</a>
                                     </h5>
-                                    <p> OpenBudget.fr permet à tout un chacun </p>
+                                    <p> <p>OpenBudget.fr permet à tout un chacun de visualiser comment sont dépensés ses impôts par les collectivités, de s’exprimer simplement sur la répartition effectuée, de visualiser la moyenne des répartitions des autres citoyens.</p>
+
+ </p>
                                 </div>
 
                             </div>
@@ -246,21 +247,21 @@ specified separately) -->
         <h4 class="modal-title">Proposer un projet</h4>
       </div>
       <div class="modal-body">
-       <form action="http://mailthis.to/opendemocracynow" method="post">
+       <form enctype="multipart/form-data" action="http://mailthis.to/opendemocracynow" method="post">
 
   <fieldset class="form-group">
-    <label for="exampleInputPassword1">Nom</label>
-    <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Prénom et nom de famille" name="name">
+    <label for="exampleInputPassword1">Nom*</label>
+    <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Prénom et nom de famille" name="name" required>
   </fieldset>
 
   <fieldset class="form-group">
-    <label for="exampleInputEmail1">Adresse email</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="exemple@mail.com" name="email">
+    <label for="exampleInputEmail1">Adresse email*</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="exemple@mail.com" name="email" required>
   </fieldset>
 
   <fieldset class="form-group">
-    <label for="exampleSelect1">Type de projet</label>
-    <select class="form-control" id="exampleSelect1" name="type de projet">
+    <label for="exampleSelect1">Type de projet*</label>
+    <select class="form-control" id="exampleSelect1" name="type de projet" required>
       <option>création/développement d'application</option>
       <option>atelier de réflexion</option>
       <option>autre...</option>
@@ -273,13 +274,16 @@ specified separately) -->
 <br>
 
   <fieldset class="form-group">
-    <label for="exampleTextarea">description de votre projet</label>
-    <textarea class="form-control" id="exampleTextarea" rows="5" name="message"></textarea>
+    <label for="exampleTextarea">description de votre projet*</label>
+    <textarea class="form-control" id="exampleTextarea" rows="5" name="message" required></textarea>
   </fieldset>
 
   <button type="submit" class="btn btn-info btn-fill" value="Send">Envoyer</button>
 
-  <input type="hidden" name="_confirmation" value="<b>Thank you!</b> We have received your message and will get back to you asap.">
+  <input type="hidden" name="_confirmation" value="<b>Merci!</b> Nous avons bien reçu votre proposition, vous recevrez une réponse sous peu.">
+  <input type="hidden" name="cc[]" value="turkoenig@hotmail.com,arthur.koenig@hec.ca">
+  <input type="hidden" name="_replyto" value="%email">
+  <input type="hidden" name="_subject" value="Soumission de projet ODN!">
 </form>
       </div>
       <div class="modal-footer">
@@ -481,7 +485,7 @@ specified separately) -->
 
 <script type="text/javascript" src="/js/jekyll-search.min.js"></script><script type="text/javascript" src="/js/fileinput.min.js"></script><script type="text/javascript" src="/js/locales/fr.js"></script>
 
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" type="text/javascript" defer></script>
 
 
   
@@ -499,8 +503,6 @@ specified separately) -->
         exclude: ['Welcome']
       })
 </script>
-  
-
   
 
   
@@ -530,6 +532,14 @@ $(document).on('ready', function() {
 
 
   
+
+ <!-- Delay timeline javascript to avoid blocking page content -->
+
+  
+
+ <!-- End of timeline.js delay -->
+
+
 
   </body>
 </html>

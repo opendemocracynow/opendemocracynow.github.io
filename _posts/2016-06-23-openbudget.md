@@ -7,7 +7,6 @@ img: "openbudget.jpg"
 rep: "Florent André"
 repmail: "florent.andre@ooffee.eu"
 repimg:
-excerpt: "OpenBudget.fr permet à tout un chacun"
 socialmatter1: "home"
 sociallink1: "http://openbudget.fr/"
 socialtext1: "Site web du prototype"

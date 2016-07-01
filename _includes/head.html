@@ -14,6 +14,22 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
   <link rel="stylesheet" href="{{ "/css/fileinput.min.css" | prepend: site.baseurl }}">
 
+  {% if page.timeline %}
+  <!-- Delay timeline.css to avoid blocking page content -->
+  <script>
+  var cb = function() {
+  var l = document.createElement('link'); l.rel = 'stylesheet';
+  l.href = '/css/timeline.css';
+  var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+  };
+  var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+  webkitRequestAnimationFrame || msRequestAnimationFrame;
+  if (raf) raf(cb);
+  else window.addEventListener('load', cb);
+  </script>
+  <!-- End of timeline's css delay -->
+  {% endif %}
+
 
   {% for css in page.customcss %}
   <link rel="stylesheet" href="{{ css }}">

@@ -19,17 +19,13 @@
 
 {% for js in page.customjs %}<script type="text/javascript" src="{{ js }}"></script>{% endfor %}
 
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" type="text/javascript" defer></script>
 
 
   {% endif %}
 	
 	{% if page.search %}
   {% include searchjs.html %}
-  {% endif %}
-
-  {% if page.timeline %}
-  {% include timelinejs.html %}
   {% endif %}
 
   {% if page.form %}
@@ -42,6 +38,27 @@
     smoothScroll.init();
   </script>
   {% endif %}
+
+ <!-- Delay timeline javascript to avoid blocking page content -->
+
+  {% if page.timeline %}
+    <script type="text/javascript">
+  function downloadJSAtOnload() {
+  var element = document.createElement("script");
+  element.src = "/js/defertimeline.js";
+  document.body.appendChild(element);
+  }
+  if (window.addEventListener)
+  window.addEventListener("load", downloadJSAtOnload, false);
+  else if (window.attachEvent)
+  window.attachEvent("onload", downloadJSAtOnload);
+  else window.onload = downloadJSAtOnload;
+  </script>
+  {% endif %}
+
+ <!-- End of timeline.js delay -->
+
+
 
   </body>
 </html>
