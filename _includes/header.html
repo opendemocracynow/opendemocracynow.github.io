@@ -1,12 +1,24 @@
  <header>
 	
-	<div class="navbar">
+	<div class="navbar container">
 	   	<div class="brand">
-	      <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/logos/logo-odn2.png"></a>
+	      <a href="{{ site.baseurl }}/">{% include logo-odn.html %}</a>
 	    </div>
-	    <div class="social-area nav-icons">
+	    <div class="social-area nav-icons hidden-xxs">
 	    	<a href="https://github.com/opendemocracynow/opendemocracynow.github.io" target="_blank">
-            <i class="fa fa-github"></i>
+         
+			 {% include github-outline.html %}
+			
+    		</a>
+    		<a href="https://www.facebook.com/opendemnow/?fref=ts" target="_blank">
+        
+			  {% include fb-outline.html %}
+			
+    		</a>
+    		<a href="https://twitter.com/opendemnow" target="_blank">
+			  
+			  {% include twitter-outline.html %}
+			
     		</a>
 		</div>
 	</div>

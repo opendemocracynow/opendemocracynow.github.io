@@ -6,8 +6,8 @@
 </description>
     <link>http://opendemocracynow.net//</link>
     <atom:link href="http://opendemocracynow.net//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Jul 2016 12:26:02 +0200</pubDate>
-    <lastBuildDate>Fri, 01 Jul 2016 12:26:02 +0200</lastBuildDate>
+    <pubDate>Mon, 04 Jul 2016 16:25:58 +0200</pubDate>
+    <lastBuildDate>Mon, 04 Jul 2016 16:25:58 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -20,8 +20,8 @@
 
 &lt;h5 id=&quot;latelier-dans-le-cadre-de-odn&quot;&gt;L’atelier dans le cadre de ODN&lt;/h5&gt;
 
-&lt;p&gt;Membres de l’équipe : Emmanuel Raviart, Paula Forteza, Pierre-Louis Rolle, Virgile Deville, Joachim et Pacome.&lt;br /&gt;
-À la base, Civic Test est une exploitation ludique des données récoltées par l’annuaire de logiciel code.gouv2.fr créé par des membres de l’équipe d’Etalab. Lors du second hackathon Open Democracy Now nous avons pu enrichir la page d’outils crowdsourcée par des membres Nuit Debout en rajoutant les colonnes licences et communautés. Sur cette base de travail nous avons pu remplir quelques quiz et créer une première version du site. Un plaidoyer pour l’open source dans les civic tech a été rédigé et rajouté à la page d’accueil. Ce qu’il nous reste à faire c’est le code permettant d’automatiser la génération de quiz depuis la base de donnée générée par le parser qui moissonne la liste d’outils de Nuit Debout. Pour cela il faudrait qu’un développeur se penche sur le problème.&lt;/p&gt;
+&lt;h6 id=&quot;membres-de-lquipe--emmanuel-raviart-paula-forteza-pierre-louis-rolle-virgile-deville-joachim-et-pacomebr&quot;&gt;Membres de l’équipe : Emmanuel Raviart, Paula Forteza, Pierre-Louis Rolle, Virgile Deville, Joachim et Pacome.&lt;br /&gt;&lt;/h6&gt;
+&lt;p&gt;À la base, Civic Test est une exploitation ludique des données récoltées par l’annuaire de logiciel code.gouv2.fr créé par des membres de l’équipe d’Etalab. Lors du second hackathon Open Democracy Now nous avons pu enrichir la page d’outils crowdsourcée par des membres Nuit Debout en rajoutant les colonnes licences et communautés. Sur cette base de travail nous avons pu remplir quelques quiz et créer une première version du site. Un plaidoyer pour l’open source dans les civic tech a été rédigé et rajouté à la page d’accueil. Ce qu’il nous reste à faire c’est le code permettant d’automatiser la génération de quiz depuis la base de donnée générée par le parser qui moissonne la liste d’outils de Nuit Debout. Pour cela il faudrait qu’un développeur se penche sur le problème.&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 21 Jun 2016 14:13:29 +0200</pubDate>
@@ -39,13 +39,19 @@
 
 &lt;p&gt;L’objectif de cet atelier est d’accompagner la constitution du Usages associés: boîte à outils open gov réalisé dans le cadre de la préparation du sommet du PGO.&lt;/p&gt;
 
-&lt;p&gt;Il liste un certain nombre d’usages structurant pour la démarche de gouvernement ouvert au travers d’un prisme à trois facettes : 
-- les objectifs
-- les usagers
-- les services proposés.
-Il imagine différentes plates-formes ou services susceptibles d’être utiles à l’appropriation et l’exploitation du catalogue et promeut des logiques de mutualisation et coconstruction entre les acteurs intéressés par cette dynamique inclusive et ouverte. Il a pour vocation à inspirer différentes initiatives concourant à l’exploitation du catalogue.&lt;/p&gt;
+&lt;p&gt;Il liste un certain nombre d’usages structurant pour la démarche de gouvernement ouvert au travers d’un prisme à trois facettes :&lt;/p&gt;
 
-&lt;p&gt;L’atelier dans le cadre de ODN&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Les objectifs&lt;/li&gt;
+  &lt;li&gt;Les usagers&lt;/li&gt;
+  &lt;li&gt;Les services proposés.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Il imagine différentes plates-formes ou services susceptibles d’être utiles à l’appropriation et l’exploitation du catalogue et promeut des logiques de mutualisation et coconstruction entre les acteurs intéressés par cette dynamique inclusive et ouverte. Il a pour vocation à inspirer différentes initiatives concourant à l’exploitation du catalogue.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;latelier-dans-le-cadre-de-odn&quot;&gt;L’atelier dans le cadre de ODN&lt;/h5&gt;
 
 &lt;p&gt;Ce projet a été initié dans le cadre du lancement du PGO (https://www.etalab.gouv.fr/retour-sur-le-lancement-du-sommet-pgo) le 20 avril 2016 comme soutien au hackathon officiel qui vise à construire d’ici au Sommet de décembre une boîte à outils du gouvernement ouvert, à travers un catalogue recensant les logiciels et solutions techniques pouvant outiller le PGO ainsi que les administrations et la société civile du monde entier dans la mise en œuvre de leurs engagements.&lt;/p&gt;
 
@@ -94,19 +100,21 @@ Il imagine différentes plates-formes ou services susceptibles d’être utiles 
 
 &lt;p&gt;La multiplication des courants et des chapelles plus ou moins réduites au sein des partis ou familles politiques traditionnelles tend à brouiller la perception que chacun a du positionnement du personnel politique et de son propre positionnement sur l’échiquier politique. Nuances, c’est repartir de l’individu pour lui permettre de déterminer ses propres convictions avant de découvrir comment elles se situent par rapport aux autre.&lt;/p&gt;
 
-&lt;p&gt;L’atelier dans le cadre de ODN&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;latelier-dans-le-cadre-de-odn&quot;&gt;L’atelier dans le cadre de ODN&lt;/h5&gt;
 
 &lt;p&gt;La crise de la démocratie représentative n’est pas récente, mais elle revêt aujourd’hui une signification toute nouvelle face à la démocratisation d’un nouveau rapport à l’espace public à travers l’usage du web. Les valeurs de liberté et d’égalité a priori, portées par les pionniers d’internet, doivent et peuvent aujourd’hui être associées à la massification des usages pour permettre la construction d’une nouvelle façon d’envisager la décision et le débat politique à l’échelle de populations diverses tant en nombre qu’en hétérogénéité. Il y a donc un double enjeu à la participation à des projets comme Open Democracy Now : penser la démocratie dans un contexte numérique et penser les caractéristiques du numérique dans un contexte d’hétérogénéité sociale.&lt;/p&gt;
 
-&lt;p&gt;Les objectifs de l’atelier&lt;/p&gt;
+&lt;h6 id=&quot;les-objectifs-de-latelier&quot;&gt;Les objectifs de l’atelier&lt;/h6&gt;
 
 &lt;p&gt;Proposer un outil à tout-un-chacun pour décider par soi-même quelles sont ses convictions afin de comprendre son propre positionnement avant de le comparer à celui des autres (amis et/ou personnalités politiques) et de déterminer avec eux des points de convergence et de divergence. Mettre le positionnement individuel au centre de la conviction politique et souligner les différences pour renforcer l’esprit critique et le débat des idées.&lt;/p&gt;
 
-&lt;p&gt;Les étapes franchies&lt;/p&gt;
+&lt;h6 id=&quot;les-tapes-franchies&quot;&gt;Les étapes franchies&lt;/h6&gt;
 
 &lt;p&gt;Scope global du projet, objectifs pour MVP, parcours et expérience utilisateurs&lt;/p&gt;
 
-&lt;p&gt;Les besoins&lt;/p&gt;
+&lt;h6 id=&quot;les-besoins&quot;&gt;Les besoins&lt;/h6&gt;
 
 &lt;p&gt;Pousser la réflexion et la méthodologie mathématique précise pour une représentation du positionnement de l’ensemble des utilisateurs sur des plans à deux dimensions, à partir d’un nombre virtuellement illimité de dimensions de positionnement.&lt;/p&gt;
 </description>
@@ -276,7 +284,9 @@ Louis Margot-Duclot&lt;/p&gt;
 
 &lt;p&gt;L’objectif de cette politique de contribution aux logiciels libres est d’apporter les bonnes pratiques et de définir le minimum de règles à respecter. A destination des développeurs, elle doit permettre de leur apporter reconnaissance nominative et valoriser les contributions, tant sur le plan personnel que professionnel. Le périmètre et les thèmes de cette politique de contribution restent à fixer et seront établis de manière collaborative en utilisant les discussions sur le forum Etalab.&lt;/p&gt;
 
-&lt;p&gt;L’atelier durant ODN&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;latelier-dans-le-cadre-de-odn&quot;&gt;L’atelier dans le cadre de ODN&lt;/h5&gt;
 
 &lt;p&gt;Dans le cadre du plan national du Partenariat pour un Gouvernement Ouvert (PGO) des engagements ont été pris pour faciliter la réutilisation des ressources numériques et pour ouvrir les administrations elles-mêmes. Un Etat est avant tout un système d’information, avec des données et des logiciels. Ouvrir les algorithmes passe concrètement par la publication du code source, idéalement en tant que logiciels libres pour permettre leur modification. Cette politique a pour objectif de lever les verrous dans l’administration en s’adressant directement aux développeurs tout en définissant les règles à respecter. Tout développeur, juriste, chef de projet, dans l’administration ou travaillant pour l’administration est invité à contribuer.&lt;/p&gt;
 </description>

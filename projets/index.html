@@ -25,13 +25,13 @@ customjs:
             </div>
 
             
-            <div class="col-md-9">
+            <div class="col-md-9 col-sm-12">
                
                         {% for post in paginator.posts | sort_by: "post.title" %}
 
                             {% cycle 'add row' : '<div class="row">', nil %}
 
-                                <div class="col-sm-6 portfolio-item">
+                                <div class="col-sm-6">
                                     {% if post.img %}
                                     <a href="{{ post.url }}">
                                         <img class="img-responsive img-projets" src="{{ site.baseurl }}/img/projets/{{ post.img }}" alt="{{ post.title }}">
@@ -59,6 +59,8 @@ customjs:
 
 
                         {% include paginate.html %}
+
+                        <br>
 
                         {% include projet-modal.html %}
                     

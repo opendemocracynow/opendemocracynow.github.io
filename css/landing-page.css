@@ -5,11 +5,27 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, .navbar, a, .td-name, t
   -webkit-font-smoothing: antialiased;
   font-family: "Helvetica Neue","Open Sans",Arial,sans-serif;
 }
-
+@media (min-width: 769px) {
+  .col-sm-6{
+    float: left;
+  }
+  .col-sm-6 {
+    width: 50%;
+  }
+  .col-sm-pull-6 {
+    right: 50%;
+  }
+  .col-sm-push-6 {
+    left: 50%;
+  }
+  .col-sm-offset-6 {
+    margin-left: 50%;
+  }
+}
 .brand
 {
   float:left;
-  margin:40px 0px 0px 40px;
+  margin-top:40px;
 }
 
 h1, .h1, .h2, h3, .h3, h4, .h4 {
@@ -48,7 +64,7 @@ h6, .h6 {
 
 }
 
-p {
+p, ul{
   font-size: 16px;
   line-height: 1.5;
 }
@@ -122,7 +138,7 @@ a:focus, a:active {
   margin-bottom: 3px;
 }
 .footer nav > ul a:not(.btn):hover, .footer nav > ul a:not(.btn):focus {
-  color: #777777;
+  color: #444;
 }
 .footer .social-area {
   padding: 15px 0;
@@ -131,7 +147,6 @@ a:focus, a:active {
   padding-bottom: 15px;
 }
 .footer .social-area > a:not(.btn) {
-  color: #9a9a9a;
   display: inline-block;
   vertical-align: top;
   padding: 10px 5px;
@@ -139,9 +154,6 @@ a:focus, a:active {
   font-weight: normal;
   line-height: 20px;
   text-align: center;
-}
-.footer .social-area > a:not(.btn):hover, .footer .social-area > a:not(.btn):focus {
-  color: #777777;
 }
 .footer .copyright {
   color: #777777;
@@ -292,7 +304,7 @@ max-width: 70%;
 }
 .recherche {
   margin-left: 30px;
-  margin-right:-30px;
+  margin-right:-25px;
 }
 .center-title {
 font-size:28px;
@@ -393,11 +405,11 @@ h2 a{
 h2 a:hover{
   color:#FFF;
 }
-@media (min-width:768px){
+
 .btn-bottom{
   margin-top:100px;
   }
-}
+
 .ribbon {
   position: absolute;
   left: -5px; top: -5px;
@@ -690,22 +702,34 @@ text-shadow: 5px 3px 0px #313131;
 .img-projets{
   border:1px solid #eaeaea;
 }
-.social-area .fa-twitter{
-  color:#55acee;
-}
-.social-area .fa-github{
-  color:#666;
-}
-.social-area .fa-twitter:hover{
-  color:#2795e9;
-}
-.social-area .fa-github:hover{
-  color:#111;
-}
 .nav-icons{
   font-size:25px;
-  position:absolute;
-  top:50px;
-  right:80px;
+  float:right;
+  margin-top:70px;
+}
+.nav-icons a{
+  padding-left:30px;
+  width:40px;
+}
+@media (max-width:400px){
+  .hidden-xxs{
+    visibility: hidden;
+  }
+}
+.social-area i{
+  color:#666;
+  font-size: 22px;
+}
+.fa-twitter:hover{
+  color:#2795e9;
+}
+.fa-facebook:hover{
+  color:#38538f;
+}
+.fa-github:hover{
+  color:#111;
+}
+a svg:hover #fb-outline, a svg:hover #twitter-outline, a svg:hover #github-outline{
+  fill:#cecece;
 }
 

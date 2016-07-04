@@ -21,7 +21,9 @@ DroitDirect.fr est une plateforme numérique d’accès aux droits fondamentaux 
 
 DroitDirect.fr a pour vocation de devenir une base de données des connaissances acquises par les équipes de Droits d’urgence dans le cadre de leurs permanences juridiques, accessible à tous, en facilitant et simplifiant l’identification des problèmes juridiques rencontrés par la personne, les dispositions administratives et juridiques qui s’y rapportent, les acteurs et dispositifs susceptibles d’aider à la mise en œuvre des droits concernés, l’accès et l’aide à la constitution des formulaires et l’orientation de la personne vers toutes les ressources locales pertinentes.
 
-L'atelier dans le cadre de ODN
+<br>
+
+##### L'atelier dans le cadre de ODN
 
 Nous aimerions profiter de l’événement (Hackathon #3) pour prolonger les travaux sur la maquette réalisée en décembre 2015, dans le cadre du défi Open Law Europa, et développer des premières briques logicielles à partir des cas d’usage que nous avons identifiés et finaliser un cahier des charges, pour pouvoir réaliser un prototype que nous aimerions bêta-tester à la fin de l’année. Nous avons obtenu le prix Open Law AXA Protection Juridique en septembre 2015 et sollicité depuis des partenaires financiers et opérationnels qui ont marqué un réel intérêt pour nous fournir un premier financement et/ou des compétences (Ville Paris, AXA Protection Juridique, Ecole 42, Simplon, Comptoir de l’Innovation, grands cabinets d’avocats, fondations, …).
 

@@ -39,6 +39,14 @@
   </script>
   {% endif %}
 
+  {% if page.tooltip %}
+     <script>
+        $(document).ready(function(){
+            $('[data-toggle="tooltip"]').tooltip(); 
+        });
+    </script>
+  {% endif %}
+
  <!-- Delay timeline javascript to avoid blocking page content -->
 
   {% if page.timeline %}
