@@ -2,7 +2,6 @@
 layout: post
 comments: true
 title:  "DemocracyOS"
-date:   2016-01-18
 tag: Logiciels
 img: "dos_banner.png"
 rep: "Caroline Corbal"

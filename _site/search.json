@@ -1,51 +1,15 @@
 [
   
     {
-      "title"     : "Civic Test",
-      "url"       : "/Civictest",
-      "thumbnail" : "/img/projets/civictest.jpg"
-    } ,
-  
-    {
-      "title"     : "Usages associés: boîte à outils open gov",
-      "url"       : "/usages-associes",
-      "thumbnail" : "/img/projets/usages.jpg"
-    } ,
-  
-    {
-      "title"     : "Charte éthique en matière d&#39;outils numériques pour la confiance dans un gouvernement ouvert et participatif",
-      "url"       : "/charte",
-      "thumbnail" : "/img/projets/charte.jpg"
-    } ,
-  
-    {
-      "title"     : "Nuances",
-      "url"       : "/nuances",
-      "thumbnail" : "/img/projets/"
-    } ,
-  
-    {
-      "title"     : "A Project Has No Name",
-      "url"       : "/noname",
-      "thumbnail" : "/img/projets/noname.jpg"
-    } ,
-  
-    {
       "title"     : "OpenBudget.fr",
       "url"       : "/openbudget",
       "thumbnail" : "/img/projets/openbudget.jpg"
     } ,
   
     {
-      "title"     : "Grandma&#39; Votation",
-      "url"       : "/votation",
-      "thumbnail" : "/img/projets/"
-    } ,
-  
-    {
-      "title"     : "Blockchain &amp; Démocratie",
-      "url"       : "/Blockchain",
-      "thumbnail" : "/img/projets/blockchain.jpg"
+      "title"     : "Usages associés: boîte à outils open gov",
+      "url"       : "/usages-associes",
+      "thumbnail" : "/img/projets/usages.jpg"
     } ,
   
     {
@@ -79,15 +43,51 @@
     } ,
   
     {
+      "title"     : "Grandma&#39; Votation",
+      "url"       : "/votation",
+      "thumbnail" : "/img/projets/"
+    } ,
+  
+    {
+      "title"     : "Nuances",
+      "url"       : "/nuances",
+      "thumbnail" : "/img/projets/"
+    } ,
+  
+    {
+      "title"     : "A Project Has No Name",
+      "url"       : "/noname",
+      "thumbnail" : "/img/projets/noname.jpg"
+    } ,
+  
+    {
       "title"     : "MAVOIX",
       "url"       : "/mavoix",
       "thumbnail" : "/img/projets/mavoix.jpeg"
     } ,
   
     {
+      "title"     : "Charte éthique en matière d&#39;outils numériques pour la confiance dans un gouvernement ouvert et participatif",
+      "url"       : "/charte",
+      "thumbnail" : "/img/projets/charte.jpg"
+    } ,
+  
+    {
       "title"     : "Assembl",
       "url"       : "/assembl",
       "thumbnail" : "/img/projets/assembl.png"
+    } ,
+  
+    {
+      "title"     : "Civic Test",
+      "url"       : "/Civictest",
+      "thumbnail" : "/img/projets/civictest.jpg"
+    } ,
+  
+    {
+      "title"     : "Blockchain &amp; Démocratie",
+      "url"       : "/Blockchain",
+      "thumbnail" : "/img/projets/blockchain.jpg"
     } ,
   
     {

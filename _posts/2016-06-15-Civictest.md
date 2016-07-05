@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Civic Test"
-date:   2016-06-21 12:13:29
 tag: Logiciels
 img: "civictest.jpg"
 rep: "Virgile Deville"

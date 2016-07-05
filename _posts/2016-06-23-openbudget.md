@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "OpenBudget.fr"
-date:   2016-05-27
 tag: Logiciels
 img: "openbudget.jpg"
 rep: "Florent André"

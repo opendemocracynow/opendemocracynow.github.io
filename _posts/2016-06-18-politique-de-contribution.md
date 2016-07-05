@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Politique de contribution aux logiciels libres dans l’administration"
-date:   2016-04-27 22:41:29 +0200
 tag: Logiciels
 img: "logadmin.jpg"
 rep: "Laurent Joubert"

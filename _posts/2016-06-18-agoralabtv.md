@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "AgoraLabTV"
-date:   2016-04-27 22:41:29 +0200
 tag: Logiciels
 img: "agoralabtv.jpg"
 rep: "Julien Roirant"

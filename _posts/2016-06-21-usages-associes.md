@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Usages associés: boîte à outils open gov"
-date:   2016-06-21 10:13:29
 tag: Ateliers
 img: "usages.jpg"
 rep: "Benjamin Jean"

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "DroitDirect.fr"
-date:   2016-04-27 22:41:29 +0200
 tag: Logiciels
 img: "droitdirect.jpg"
 rep: "Antoine Bouvet, Responsable innovation et communication"

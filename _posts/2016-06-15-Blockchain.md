@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Blockchain & Démocratie"
-date:   2016-05-10
 tag: Ateliers
 img: "blockchain.jpg"
 rep: "Louis Margot-Duclot"

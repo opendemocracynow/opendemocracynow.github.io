@@ -34,7 +34,7 @@ customjs:
             
             <div class="col-md-9 col-sm-12">
                
-                        {% for post in paginator.posts | sort_by: "post.title" %}
+                        {% for post in paginator.posts %}
 
                             {% cycle 'add row' : '<div class="row">', nil %}
 
