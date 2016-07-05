@@ -40,7 +40,7 @@ Check out this example:
 - **img:** the project's image has to be placed in the "/img/projets" folder. If the variable doesn't exist or if nothing is specified, an image will be created, basically a rectangle filled with a specific color pattern and the name of the project in the middle. 
 - **rep-img:** Has to be placed in the "/img/people" folder and should be **150x150 pixels**. If the variable doesn't exist or if nothing is specified, an auto-fill will be used: placehold.it/150x150.
 
-- **socialmatter#:** Simply use the official name of the social media. Ex: twitter, facebook, vimeo, youtube etc... For a website, this name should be set to **"home"**. You can specify **up to 6** social medias: socialmatter2, socialmatter3 and so on. The same goes for the sociallink(#) and socialtext(#) variables. **_IMPORTANT!_** no capital letters: instead of ~~Facebook~~ use facebook.
+- **socialmatter#:** will diplay social button(s) on the page. Simply use the official name of the social media. Ex: twitter, facebook, vimeo, youtube etc... For a website, the value should be set to **"home"**. You can specify **up to 6** social medias: socialmatter2, socialmatter3 and so on. The same goes for the sociallink(#) and socialtext(#) variables. **_IMPORTANT!_** no capital letters: instead of ~~Facebook~~ use facebook.
 
 
 ### To add an event (hackathon)
