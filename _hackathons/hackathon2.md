@@ -6,6 +6,7 @@ place: "NUMA Paris"
 img: "hackathon2.jpg"
 objectif1: "Poursuivre les ateliers initiés."
 objectif2: "Réfléchir à la méthodologie et aux valeurs associées aux démarches de consultation en ligne."
+notes: "https://mypads.framapad.org/mypads/?/mypads/group/open-democracy-now-z42av7kt/pad/view/hackathon-opendemocracynow-2-j48a7lu"
 ---
 
 ### Objectifs:

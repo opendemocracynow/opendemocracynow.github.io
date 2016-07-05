@@ -4,11 +4,11 @@ title:  "Hackathon 3"
 moment:   "10 et 11 juin 2016"
 place: "Fondation Mozilla"
 img: "hackathon3.jpg"
-lastevent: "true"
-nextevent: 
 objectif1: "Rassembler une communauté d’acteurs intéressés par le développement de projets ouverts à portée démocratique."
 objectif2: "Identifier les outils existants et les besoins exprimés par les citoyens."
 objectif3: "Initier des groupes de travail pour répondre à ces enjeux."
+lastevent: "true"
+nextevent: 
 ---
 
 ### Objectifs:

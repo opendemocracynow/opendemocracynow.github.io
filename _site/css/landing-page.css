@@ -303,8 +303,14 @@ max-width: 70%;
   list-style: none;
 }
 .recherche {
+  margin-top:-214px;
   margin-left: 30px;
   margin-right:-25px;
+}
+@media(min-width: 1200px){
+.recherche {
+margin-top:-190px;
+  }
 }
 .center-title {
 font-size:28px;
@@ -383,7 +389,7 @@ text-align:center;
 .parallax-container-top {
   height: 700px;
   width: 100%;
-  margin-top:-150px;
+  margin-top:-155px;
 }
 .parallax-container {
   height: 700px;
@@ -705,7 +711,7 @@ text-shadow: 5px 3px 0px #313131;
 .nav-icons{
   font-size:25px;
   float:right;
-  margin-top:70px;
+  margin-top:50px;
 }
 .nav-icons a{
   padding-left:30px;
@@ -732,4 +738,12 @@ text-shadow: 5px 3px 0px #313131;
 a svg:hover #fb-outline, a svg:hover #twitter-outline, a svg:hover #github-outline{
   fill:#cecece;
 }
-
+.btn-hackathon{
+margin-top:15px;
+}
+@media (min-width:435px){
+  .btn-hackathon{
+margin-left:30px;
+margin-top:0;
+  }
+}
