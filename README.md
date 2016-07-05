@@ -15,6 +15,8 @@ For example, a new project could be named: <b>02-07-2016-awesome-project.md</b>
 Once you've created a project, before writing its content, you have to specify elements in the YAML front matter. All that means is that you have to give each project its own variables. Layout, title and date are **mandatory** all the other ones are optional, but highly recommended. Note that all tha variables have to be placed inside two lines of ---
 Check out this example:
 <code>
+
+`---`
 - **layout: post** --------------------------------------------------<i> this is the same for every project</i>
 - **title: "Awesome project with lots of tasks"** -------------------<i> the project's name</i>
 - **date: 2016-01-18** ----------------------------------------------<i> the actual day when the project was added</i>
@@ -25,6 +27,8 @@ Check out this example:
 - socialmatter1: "facebook" -------------------------------------<i> social media's name</i>
 - sociallink1: "link-to-social-page.com/"------------------------<i> http adress of the social media's page </i>
 - socialtext1: "Check out the facebook page of this project"-----<i> text to be displayed on the social button </i>
+
+`---`
 
 </code>
 
@@ -45,6 +49,7 @@ ex: hackathon6.md
 
 <code>
 
+`---`
 - **layout: post-hackathon** ----------------------------------------<i> this is the same for every event</i>
 - **title: "Hackathon 6"** ------------------------------------------<i> the event's name</i>
 - moment: "11 & 12 November 2016" -------------------------------<i> when the event is happening</i>
@@ -56,6 +61,8 @@ ex: hackathon6.md
 - objectif1: "Unite" --------------------------------------------<i> first objective of the event</i>
 - objectif2: "Work"----------------------------------------------<i> second objective </i>
 - objectif3: "Deploy"--------------------------------------------<i> third objective </i>
+
+`---`
 
 </code>
 
