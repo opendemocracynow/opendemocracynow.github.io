@@ -31,9 +31,7 @@ Check out this example:
 - socialtext1: "Check out the facebook page of this project"-----<i> text to be displayed on the social button </i>
 
 `---`
-
 </code>
-
 **How to use these variables:**
  
 - **layout:** should always be **post**
@@ -50,7 +48,6 @@ Inside the **_hackathons** folder, create a markdown file (.md), named after the
 ex: hackathon6.md
 
 <code>
-
 `---`
 - **layout: post-hackathon** ----------------------------------------<i> this is the same for every event</i>
 - **title: "Hackathon 6"** ------------------------------------------<i> the event's name</i>
@@ -65,10 +62,8 @@ ex: hackathon6.md
 - objectif3: "Deploy"--------------------------------------------<i> third objective </i>
 
 `---`
-
 </code>
-
-**important notes on these variables:**
+**How to use these variables:**
 - **layout**: should always be **post-hackathon**
 - **img**: the event's image should be placed in the "/img/hackathons" folder
 - **nextevent**: Can only be used **ONCE** within all events (will be displayed on homepage). If the variable doesn't exist or if nothing is specified, the homepage will display the most recent event. 
