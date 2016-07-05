@@ -53,9 +53,9 @@ ex: hackathon6.md
 - **layout: post-hackathon** ----------------------------------------<i> this is the same for every event</i>
 - **title: "Hackathon 6"** ------------------------------------------<i> the event's name</i>
 - moment: "11 & 12 November 2016" -------------------------------<i> when the event is happening</i>
-- place: "hackathon6.jpg" ---------------------------------------<i> where the event is taking place </i>
+- place: "Central Park, NY" -------------------------------------<i> where the event is taking place </i>
 - img: "hackathon6.jpg" -----------------------------------------<i> event's image.</i>
-- nextevent: "true" ---------------------------------------------<i> write "true" to specify this is a "coming up" event </i>
+- nextevent: "true" ---------------------------------------------<i> write "true" to specify this event is "coming up" </i>
 - eventurl: "buy-tickets-here.com" ------------------------------<i> link to register for the event </i>
 - notes: "framapad.org" -----------------------------------------<i> link to notes/report (compte-rendu)</i>
 - objectif1: "Unite" --------------------------------------------<i> first objective of the event</i>
@@ -69,3 +69,4 @@ ex: hackathon6.md
 **important notes on these variables:**
 - **layout**: should always be **post-hackathon**
 - **img**: the event's image should be placed in the "/img/hackathons" folder
+- **nextevent**: Can only be used **ONCE** within all events (will be displayed on homepage). If the variable doesn't exist or if nothing is specified, the homepage will display the most recent event. 
