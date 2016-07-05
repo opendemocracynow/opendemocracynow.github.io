@@ -12,7 +12,9 @@ For pagination to work, every new project has to be created as a "post". Therefo
 
 For example, a new project could be named: <b>02-07-2016-awesome-project.md</b>
 
-Once you've created a project, before writing its content, you have to specify elements in the YAML front matter. All that means is that you have to give each project its own variables. Layout, title and date are **mandatory** all the other ones are optional, but highly recommended. Note that all tha variables have to be placed inside two lines of ---
+Once you've created a project, before writing its content, you have to specify elements in the YAML front matter. All that means is that you have to give each project its own variables. Layout, title and date are **mandatory** all the other ones are optional, but highly recommended. 
+Note: that all the variables have to be placed inside two lines of ---
+
 Check out this example:
 <code>
 
