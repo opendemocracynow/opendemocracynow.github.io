@@ -37,19 +37,11 @@
 
        
            <li><h4><a href="{{ site.baseurl }}/hackathons/">Hackathons</a></h4></li>
-   
 
-      {% capture posts %}
-          {% for post in site.hackathons %}
-            |{{ post.title }}#{{ post.url }}
-          {% endfor %}
-        {% endcapture %}
-        {% assign sortedposts = posts | split: '|' | sort %}
-        {% for post in sortedposts %}
-            {% assign postitems = post | split: '#' %}
-             <li><a href="{{ postitems[1] }}">{{ postitems[0] }}</a></li>
+        {% for post in site.hackathons %}
+             <li><a href="{{ post.url }}">{{ post.title}}</a></li>
         {% endfor %}
-      
+        
       </ul>
 
     </div>

@@ -29,36 +29,39 @@ customjs:
             <div class="card">
                <div class="text_card">
 
-                 {% for post in site.hackathons %}
-                 {% if post.lastevent %}
-                  <div class="ribbon"><span>événement terminé</span></div>
-                   
-                        <p><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.moment }} <i class="fa fa-map-marker" aria-hidden="true" style="padding-left:20px"></i> {{ post.place }}</p>
-                    
-                    <div>
-                    <a href="{{ post.url }}"><img src="img/hackathons/{{post.img}}"> </img></a>
-                    </div>
-                    <br>
-                    <br>
-                    <a href="{{ post.url }}" class="btn2 btn-bs btn-lg">Détails et compte rendu</a>
-                    <br>
-                    <br>
-                    {% endif %}
+                 {% assign hackathons = site.hackathons | sort: 'title' | reverse %}
+                  {% for hackathon in hackathons limit:1 %}
 
-                    {% if post.nextevent %}
+                    {% if hackathon.nextevent %}
                     
                     <div class="ribbon-red"><span> Prochain événement</span></div>
                    
-                        <p><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.moment }} <i class="fa fa-map-marker" aria-hidden="true" style="padding-left:20px"></i> {{ post.place }}</p>
+                        <p><i class="fa fa-calendar" aria-hidden="true"></i> {{ hackathon.moment }} <i class="fa fa-map-marker" aria-hidden="true" style="padding-left:20px"></i> {{ hackathon.place }}</p>
                     
                     <div>
-                    <a href="{{ post.url }}"><img src="img/hackathons/{{post.img}}"> </img></a>
+                    <a href="{{ hackathon.url }}"><img src="img/hackathons/{{hackathon.img}}"> </img></a>
                     </div>
                     <br>
                     <br>
-                    <a href="{{ post.url }}" class="btn2 btn-bs btn-lg">Détails et inscription</a>
+                    <a href="{{ hackathon.url }}" class="btn2 btn-bs btn-lg">Détails et inscription</a>
                     <br>
                     <br>
+                    
+                    {% else %}
+
+                    <div class="ribbon"><span>événement terminé</span></div>
+                   
+                        <p><i class="fa fa-calendar" aria-hidden="true"></i> {{ hackathon.moment }} <i class="fa fa-map-marker" aria-hidden="true" style="padding-left:20px"></i> {{ hackathon.place }}</p>
+                    
+                    <div>
+                    <a href="{{ hackahton.url }}"><img src="img/hackathons/{{hackathon.img}}"> </img></a>
+                    </div>
+                    <br>
+                    <br>
+                    <a href="{{ hackathon.url }}" class="btn2 btn-bs btn-lg">Détails et compte rendu</a>
+                    <br>
+                    <br>
+
                     {% endif %}
 
                     {% endfor %}

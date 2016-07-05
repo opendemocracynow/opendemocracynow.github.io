@@ -4,8 +4,6 @@ title:  "Hackathon 1"
 moment: "22 et 23 janvier 2016"
 place: "NUMA Paris"
 img: "hackathon1.jpg"
-nextevent:
-lastevent:
 objectif1: "Rassembler une communauté d’acteurs intéressés par le développement de projets ouverts à portée démocratique."
 objectif2: "Identifier les outils existants et les besoins exprimés par les citoyens."
 objectif3: "Initier des groupes de travail pour répondre à ces enjeux."

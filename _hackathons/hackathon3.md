@@ -7,8 +7,6 @@ img: "hackathon3.jpg"
 objectif1: "Rassembler une communauté d’acteurs intéressés par le développement de projets ouverts à portée démocratique."
 objectif2: "Identifier les outils existants et les besoins exprimés par les citoyens."
 objectif3: "Initier des groupes de travail pour répondre à ces enjeux."
-lastevent: "true"
-nextevent: 
 ---
 
 ### Objectifs:
