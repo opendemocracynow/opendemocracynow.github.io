@@ -36,7 +36,7 @@ customjs:
                     
                     <div class="ribbon-red"><span> Prochain événement</span></div>
                    
-                        <p><i class="fa fa-calendar" aria-hidden="true"></i> {{ hackathon.moment }} <i class="fa fa-map-marker" aria-hidden="true" style="padding-left:20px"></i> {{ hackathon.place }}</p>
+                        <p><i class="fa fa-calendar" aria-hidden="true"></i> {{ hackathon.moment }} <i class="fa fa-map-marker" aria-hidden="true" style="padding-left:10px"></i> {{ hackathon.place }}</p>
                     
                     <div>
                     <a href="{{ hackathon.url }}"><img src="img/hackathons/{{hackathon.img}}"> </img></a>
@@ -208,7 +208,7 @@ customjs:
 
                 <div class= "container text-center">
 
-                    <div class="punchline">
+                    <div class="punchline punchline-bottom">
                                 <h2>Retrouvez les derniers événements ODN!</h2>
                             </br>
                         </br>
@@ -216,16 +216,36 @@ customjs:
                         </br>
                                 
                               
-                            </div>
+                    </div>
 
 
                         <div class="row">
 
-                            {% for post in site.hackathons reversed limit:3 %}
+                            {% for hackathon in hackathons limit:3 %}
 
-                           <div class="col-sm-4"-> 
-                            <h2><a href="{{post.url}}"> {{post.title}} </a></h2>
+                        <div class="col-md-4"> 
+
+                            <div class="card-bottom">
+                            
+                                    <h3> {{hackathon.title}} </h3>
+                                    
+                                    <i class="fa fa-calendar" aria-hidden="true"></i> {{ hackathon.moment }} <i class="fa fa-map-marker" aria-hidden="true" style="padding-left:10px"></i> {{ hackathon.place }}
+
+                                      <br>
+                                       <br>
+                                       
+
+                                    {% if hackathon.nextevent %} 
+                                    <a href="{{ hackathon.eventurl }}" class="btn btn-success btn-sm btn-fill" target="_blank"><b>Inscription</b></a>
+                                    {% endif %}
+
+                                    {% if hackathon.notes %} <a href="{{ hackathon.notes }}" style="float:center" class="btn btn-warning btn-sm btn-fill" target="_blank"><b>Compte rendu</b></a>
+                                    {% endif %}
+
+                                    <a href="{{ hackathon.url }}" class="btn btn-info btn-sm btn-fill"> <b>Détails</b> <i class="fa fa-chevron-right" style=" vertical-align: middle;"></i> </a>
                             </div>
+
+                        </div>
 
                             {% endfor %}
 

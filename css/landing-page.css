@@ -208,10 +208,18 @@ a:focus, a:active {
   position:relative;
   border:2px solid #FFF;
   border-radius:6px;
-  min-height: 300px;
   padding: 20px 10px 20px 10px;
   max-width: 550px;
   margin: 0 auto;
+  float: none;
+}
+.card-bottom{
+  border:2px solid #444;
+  border-radius:6px;
+  padding: 20px 10px 20px 10px;
+  max-width: 380px;
+  margin: auto;
+  margin-bottom:10px;
   float: none;
 }
 .card .img-responsive{
@@ -324,9 +332,6 @@ margin-top:10px;
 margin-bottom:70px;
 width:95%;
   }
-.punchline h2{
-font-size:25px;
-  }
 }
 @media(min-width: 768px){
 .hr-projet {
@@ -405,17 +410,36 @@ text-align:center;
   color:#FFF;
   font-weight:600;
 }
+@media(max-width: 991px){
+.punchline h2{
+font-size: 25px;
+  }
+}
+.punchline-bottom h2{
+  margin-top:-590px;
+  color:#FFF;
+  font-weight:600;
+}
+@media(max-width: 991px){
+.punchline-bottom h2{
+  margin-top:-670px;
+  margin-bottom:-50px;
+  } 
+}
 h2 a{
   color:#444;
 }
 h2 a:hover{
   color:#FFF;
 }
-
+.btn-bottom{
+  margin-top:10px;
+  }
+@media(min-width: 991px){
 .btn-bottom{
   margin-top:100px;
   }
-
+}
 .ribbon {
   position: absolute;
   left: -5px; top: -5px;
