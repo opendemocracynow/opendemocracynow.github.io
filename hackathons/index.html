@@ -22,9 +22,15 @@ title: Hackathons
 
                 <div class="row">
                         <div class="col-md-7">
+                            {% if hackathon.img %}
                             <a href="{{ hackathon.url }}">
                                 <img class="img-responsive" src="/img/hackathons/{{ hackathon.img }}" alt="{{ hackathon.title }}">
                             </a>
+                            {% else %}
+                            <div class='rectangle-box'>
+                              <div class='rectangle-content'><div><span>{{hackathon.title}}</span></div></div>
+                            </div>         
+                            {% endif %}   
                         </div>
 
                         <div class="col-md-5">

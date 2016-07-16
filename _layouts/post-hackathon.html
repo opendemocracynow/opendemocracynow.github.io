@@ -26,8 +26,17 @@ layout: default
             
     		<div class="col-md-9">
 
-				<!-- Preview Image -->
-					<img class="img-responsive" src="/img/hackathons/{{ page.img }}" alt="{{ page.title }}">
+				{% if page.img %}
+                    <img class="img-responsive" src="/img/hackathons/{{ page.img }}" alt="{{ page.title }}">
+                {% else %}
+                             
+                <div class='rectangle-box'>
+                	<div class='rectangle-content'><div><span>{{page.title}}</span></div></div>
+                </div>
+                               
+                {% endif %}
+
+					
 
 <br>
 					<br>

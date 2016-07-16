@@ -37,10 +37,15 @@ customjs:
                     <div class="ribbon-red"><span> Prochain événement</span></div>
                    
                         <p><i class="fa fa-calendar" aria-hidden="true"></i> {{ hackathon.moment }} <i class="fa fa-map-marker" aria-hidden="true" style="padding-left:10px"></i> {{ hackathon.place }}</p>
-                    
-                    <div>
-                    <a href="{{ hackathon.url }}"><img src="img/hackathons/{{hackathon.img}}"> </img></a>
-                    </div>
+
+                        {% if page.img %}
+                         <div><a href="{{ hackathon.url }}"><img src="img/hackathons/{{hackathon.img}}"> </img></a></div>
+                        {% else %}                
+                        <div class='rectangle-box'>
+                            <a href="{{ hackathon.url }}"><div class='rectangle-content'><div><span>{{hackathon.title}}</span></div></div></a>
+                        </div>
+                        {% endif %}
+
                     <br>
                     <br>
                     <a href="{{ hackathon.url }}" class="btn2 btn-bs btn-lg">Détails et inscription</a>
@@ -134,8 +139,7 @@ customjs:
                         Joignez-vous aux initiatives citoyennes pour l'Open Source<br>
                     </p>
                 </br>
-                </div>
-                        
+                </div> 
                         <div id='timeline-embed' style="width: 100%; height: 400px;">
                         </div>
                 </div>
