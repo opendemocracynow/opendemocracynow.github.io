@@ -8,16 +8,12 @@ repmail: "contact@agoralab.fr"
 repimg: "roirant.jpg"
 
 socialmatter1: "home"
-sociallink1: "http://www.mavoix.info/"
+sociallink1: "http://agoralab.fr/TV/"
 socialtext1: "Site web"
 
 socialmatter2: "facebook"
-sociallink2: "http://www.mavoix.info/"
+sociallink2: "https://www.facebook.com/AgoraLabTV/?ref=page_internal"
 socialtext2: "Page facebook"
-
-socialmatter3: "github"
-sociallink3: "http://www.mavoix.info/"
-socialtext3: "Code source sur Github"
 
 ---
 

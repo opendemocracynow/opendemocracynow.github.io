@@ -11,6 +11,10 @@ socialmatter5: "twitter"
 sociallink5: "https://twitter.com/lmargotduclot"
 socialtext5: Compte twitter
 
+socialmatter6: "file"
+sociallink6: "https://framadrop.org/r/AH4dj9Fotn#JeTrLYr4mft+JLaKxiTFqBvuKtu+EKZmKmDB7FQj3rA="
+socialtext6: Pad du projet
+
 ---
 
 Explorer les enjeux croisés de la blockchain et de la gouvernance démocratique autour d’une discussion orientée vers la formulation de recommandations concrètes, adressées à des acteurs publics ou des administrations.

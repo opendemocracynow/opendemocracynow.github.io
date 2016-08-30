@@ -29,7 +29,7 @@ sociallink5: "https://twitter.com/DemocracyOS_FR"
 socialtext5: Compte twitter
 
 socialmatter6: "file"
-sociallink6: ""
+sociallink6: "https://mypads.framapad.org/mypads/?/mypads/group/open-democracy-now-z42av7kt/pad/view/meetup-democracyos-odn3-y1iwu7th"
 socialtext6: Pad du projet
 ---
 
