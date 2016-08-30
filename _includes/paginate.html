@@ -1,0 +1,52 @@
+<!-- pagination (a page1 folder isn't created by Jekyll.
+To avoid 404s when going to the first page it must be
+specified separately) -->
+
+<div class="pagination">
+  <ul>
+    {% if paginator.previous_page %}
+      {% if paginator.previous_page == 1 %}
+        <li>
+          <a href="{{ site.baseurl }}/projets/">&laquo;</a>
+        </li>
+      {% else %}
+        <li>
+          <a href="{{ site.baseurl }}/projets/page{{paginator.previous_page}}">&laquo;</a>
+        </li>
+      {% endif %}
+    {% else %}
+      <li class="disabled">
+        <a href="#footer">&laquo;</a>
+      </li>
+    {% endif %}
+    {% if paginator.page == 1 %}
+      <li class="active">
+        <a href="#footer">1</a>
+      </li>
+    {% else %}
+      <li>
+        <a href="{{ site.baseurl }}/projets/">1</a>
+      </li>
+    {% endif %}
+    {% for count in (2..paginator.total_pages) %}
+      {% if count == paginator.page %}
+        <li class="active">
+          <a href="#footer">{{count}}</a>
+        </li>
+      {% else %}
+        <li>
+          <a href="{{ site.baseurl }}/projets/page{{count}}">{{count}}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+    {% if paginator.next_page %}
+      <li>
+        <a href="{{ site.baseurl }}/projets/page{{paginator.next_page}}">&raquo;</a>
+      </li>
+    {% else %}
+      <li class="disabled">
+        <a href="#footer">&raquo;</a>
+      </li>
+    {% endif %}
+  </ul>
+</div>

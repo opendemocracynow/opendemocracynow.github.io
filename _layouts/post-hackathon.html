@@ -1,0 +1,69 @@
+---
+layout: default
+
+---
+
+ <div class="container">
+
+		<h1>{{ page.title }}</h1>
+
+		<hr>
+
+		<!-- Date/Time -->
+		<p> <i class="fa fa-calendar"> </i> {{page.moment}} 
+			<i class="fa fa-map-marker" aria-hidden="true" style="padding-left:20px"></i> {{page.place }} 
+			{% if page.nextevent %}
+			<a href="{{ page.eventurl }}" class="btn btn-hackathon btn-success btn-md btn-fill" target="_blank"><b>Inscription</b></a>
+			{% endif %} 
+			{% if page.notes %}
+			<a href="{{ page.notes }}" class="btn btn-hackathon btn-hackathon btn-warning btn-md btn-fill" target="_blank"><b>Compte rendu</b></a>
+			{% endif %}
+		</p>
+
+		<hr>
+
+		<div class="row">
+            
+    		<div class="col-md-9">
+
+				{% if page.img %}
+                    <img class="img-responsive" src="/img/hackathons/{{ page.img }}" alt="{{ page.title }}">
+                {% else %}
+                             
+                <div class='rectangle-box'>
+                	<div class='rectangle-content'><div><span>{{page.title}}</span></div></div>
+                </div>
+                               
+                {% endif %}
+
+					
+
+<br>
+					<br>
+					<br>
+
+
+				{{ content }}
+
+				{% if page.notes %}
+
+				<br>
+				<p class="center-xs"><a href="{{ page.notes }}" class="btn btn-warning btn-lg btn-fill" target="_blank"><b>Compte rendu complet</b></a></p>
+
+				{% endif %}
+
+				{% if page.nextevent %}
+
+				<br>
+				<p class="center-xs"><a href="{{ page.eventurl }}" class="btn btn-success btn-lg btn-fill" target="_blank"><b>Inscription</b></a></p>
+
+				{% endif %}
+
+
+				</div>
+				
+		{% include sidebar.html %}
+
+</div>
+
+	

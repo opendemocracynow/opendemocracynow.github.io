@@ -1,0 +1,75 @@
+---
+layout: default
+title: Hackathons
+
+---
+
+<div class="container">
+
+        <div class="row">
+
+            <div class="col-md-12">
+
+                <h1>Hackathons
+                </h1>
+                <hr>
+            </div>
+
+        </div>
+                
+               
+        {% for hackathon in site.hackathons reversed %}
+
+                <div class="row">
+                        <div class="col-md-7">
+                            {% if hackathon.img %}
+                            <a href="{{ hackathon.url }}">
+                                <img class="img-responsive" src="/img/hackathons/{{ hackathon.img }}" alt="{{ hackathon.title }}">
+                            </a>
+                            {% else %}
+                            <div class='rectangle-box'>
+                              <div class='rectangle-content'><div><span>{{hackathon.title}}</span></div></div>
+                            </div>         
+                            {% endif %}   
+                        </div>
+
+                        <div class="col-md-5">
+                            <h3><a href="{{ hackathon.url }}">{{ hackathon.title }}</a></h3>
+
+                            <p> <i class="fa fa-calendar"> </i> {{hackathon.moment}} <i class="fa fa-map-marker" aria-hidden="true" style="padding-left:20px"></i> {{hackathon.place}} </p>
+
+                            <p><ul style="font-size:16px">
+                                {% if hackathon.objectif1 %}
+                                    <li> {{hackathon.objectif1}}</li>
+                                {% endif %}
+                                {% if hackathon.objectif2 %}
+                                    <li> {{hackathon.objectif2}}</li>
+                                {% endif %}
+                                {% if hackathon.objectif3 %}
+                                    <li> {{hackathon.objectif3}}</li>
+                                {% endif %}
+                                </ul>
+                            </p>
+                         {% if hackathon.nextevent %} 
+                         <a href="{{ hackathon.eventurl }}" class="btn btn-success btn-sm btn-fill" target="_blank"><b>Inscription</b></a>
+                         {% endif %}
+
+                         {% if hackathon.notes %} <a href="{{ hackathon.notes }}" class="btn btn-warning btn-sm btn-fill" target="_blank"><b>Compte rendu</b></a>
+                         {% endif %}
+
+                         <a href="{{ hackathon.url }}" class="btn btn-info btn-sm btn-fill"> <b>Détails</b> <i class="fa fa-chevron-right" style=" vertical-align: middle;"></i> </a>
+
+                        </div>
+                </div>
+
+                 {% if forloop.last == false %}
+                  <hr>
+                {% endif %}
+
+
+
+            {% endfor %}    
+                    
+          </div>
+      </div>
+</div>

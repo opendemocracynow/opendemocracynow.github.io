@@ -1,0 +1,22 @@
+<!-- File upload js -->
+
+<script>
+$(document).on('ready', function() {
+    $("#input-23").fileinput({
+        showUpload: false,
+        language: "fr",
+        layoutTemplates: {
+            main1: "{preview}\n" +
+            "<div class=\'input-group {class}\'>\n" +
+            "   <div class=\'input-group-btn\'>\n" +
+            "       {browse}\n" +
+            "       {upload}\n" +
+            "       {remove}\n" +
+            "   </div>\n" +
+            "   {caption}\n" +
+            "</div>"
+        }
+
+    });
+});
+</script>
