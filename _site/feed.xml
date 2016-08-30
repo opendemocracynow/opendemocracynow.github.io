@@ -7,13 +7,22 @@
     <link>http://opendemocracynow.net//</link>
     <atom:link href="http://opendemocracynow.net//feed.xml" rel="self" type="application/rss+xml"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <pubDate>Tue, 30 Aug 2016 16:13:51 +0200</pubDate>
     <lastBuildDate>Tue, 30 Aug 2016 16:13:51 +0200</lastBuildDate>
 =======
+=======
+<<<<<<< Updated upstream
+>>>>>>> origin/dev-virgile
     <pubDate>Tue, 30 Aug 2016 16:14:24 +0200</pubDate>
     <lastBuildDate>Tue, 30 Aug 2016 16:14:24 +0200</lastBuildDate>
 >>>>>>> dev-virgile
     <generator>Jekyll v3.2.1</generator>
+=======
+    <pubDate>Tue, 30 Aug 2016 16:20:59 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Aug 2016 16:20:59 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+>>>>>>> Stashed changes
     
       <item>
         <title>OpenBudget.fr</title>
@@ -199,7 +208,7 @@
       </item>
     
       <item>
-        <title>Grandma' Votation</title>
+        <title>Grandma&#39; Votation</title>
         <description>&lt;p&gt;Le droit est devenu une langue étrangère… On ne sait plus ce qu’on vote ou ce qu’on signe… Trop long, trop compliqué et mal écrit…Le poisson (parfois un piranha) est noyé, le but est de le retrouver et de le sortir du flan…par la visualisation, la gamification: une interface compréhensible y compris par Grand’Ma.&lt;/p&gt;
 
 &lt;p&gt;Entretien avec Jean-Baptiste Baraton, représentant du projet.&lt;/p&gt;
