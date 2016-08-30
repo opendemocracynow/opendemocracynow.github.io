@@ -16,8 +16,8 @@ title: Hackathons
             </div>
 
         </div>
-                
-               
+
+
         {% for hackathon in site.hackathons reversed %}
 
                 <div class="row">
@@ -29,8 +29,8 @@ title: Hackathons
                             {% else %}
                             <div class='rectangle-box'>
                               <div class='rectangle-content'><div><span>{{hackathon.title}}</span></div></div>
-                            </div>         
-                            {% endif %}   
+                            </div>
+                            {% endif %}
                         </div>
 
                         <div class="col-md-5">
@@ -50,7 +50,7 @@ title: Hackathons
                                 {% endif %}
                                 </ul>
                             </p>
-                         {% if hackathon.nextevent %} 
+                         {% if hackathon.nextevent %}
                          <a href="{{ hackathon.eventurl }}" class="btn btn-success btn-sm btn-fill" target="_blank"><b>Inscription</b></a>
                          {% endif %}
 
@@ -68,8 +68,8 @@ title: Hackathons
 
 
 
-            {% endfor %}    
-                    
+            {% endfor %}
+
           </div>
       </div>
 </div>
