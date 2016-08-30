@@ -33,7 +33,7 @@ published: true
 
                         <p><i class="fa fa-calendar" aria-hidden="true"></i> {{ hackathon.moment }} <i class="fa fa-map-marker" aria-hidden="true" style="padding-left:10px"></i> {{ hackathon.place }}</p>
 
-                        {% if page.img %}
+                        {% if hackathon.img %}
                          <div><a href="{{ hackathon.url }}"><img src="img/hackathons/{{hackathon.img}}"> </img></a></div>
                         {% else %}
                         <div class='rectangle-box'>
