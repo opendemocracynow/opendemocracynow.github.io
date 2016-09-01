@@ -6,6 +6,7 @@ img: "agoralabtv.jpg"
 rep: "Julien Roirant"
 repmail: "contact@agoralab.fr"
 repimg: "roirant.jpg"
+ended: "true"
 
 socialmatter1: "home"
 sociallink1: "http://agoralab.fr/TV/"
