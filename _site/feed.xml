@@ -6,9 +6,15 @@
 </description>
     <link>http://opendemocracynow.net//</link>
     <atom:link href="http://opendemocracynow.net//feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< HEAD
+    <pubDate>Thu, 01 Sep 2016 12:27:04 +0200</pubDate>
+    <lastBuildDate>Thu, 01 Sep 2016 12:27:04 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+=======
     <pubDate>Tue, 30 Aug 2016 18:06:51 +0200</pubDate>
     <lastBuildDate>Tue, 30 Aug 2016 18:06:51 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+>>>>>>> origin/master
     
       <item>
         <title>OpenBudget.fr</title>

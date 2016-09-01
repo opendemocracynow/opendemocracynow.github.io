@@ -771,3 +771,13 @@ margin-left:30px;
 margin-top:0;
   }
 }
+.btn-terminated {
+  color: #fff;
+  background-color: #777;
+  border-color: #888;
+}
+.btn-terminated:hover {
+  color: #fff;
+  background-color: #777;
+  border-color: #888;
+}
