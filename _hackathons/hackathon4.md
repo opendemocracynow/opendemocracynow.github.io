@@ -8,7 +8,7 @@ eventurl: "https://www.eventbrite.fr/e/billets-hackathon-open-democracy-now-4-26
 nextevent: "true"
 ---
 
-### Quelles réponses pratiques le numérique peut-il apporter à la démocratie ?
+### Comment le numérique peut-il rapprocher les publics les plus éloignés de la démocratie ?
 
 <br>
 
