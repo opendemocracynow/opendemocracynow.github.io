@@ -43,7 +43,14 @@ published: true
 
                     <br>
                     <br>
-                    <a href="{{ hackathon.url }}" class="btn2 btn-bs btn-lg">Détails et inscription</a>
+                    {% if hackathon.nextevent %}
+                                    <a href="{{ hackathon.eventurl }}" class="btn btn-success btn-md btn-fill" target="_blank"><b>Inscription</b></a>
+                                    {% endif %}
+
+                                    {% if hackathon.notes %} <a href="{{ hackathon.notes }}" style="float:center" class="btn btn-warning btn-md btn-fill" target="_blank"><b>Compte rendu</b></a>
+                                    {% endif %}
+
+                                    <a href="{{ hackathon.url }}" class="btn btn-info btn-md btn-fill"> <b>Détails</b> <i class="fa fa-chevron-right" style=" vertical-align: middle;"></i> </a>
                     <br>
                     <br>
 
