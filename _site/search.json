@@ -1,6 +1,24 @@
 [
   
     {
+      "title"     : "theactivist.eu",
+      "url"       : "/theactivist-eu",
+      "thumbnail" : "/img/projets/"
+    } ,
+  
+    {
+      "title"     : "Accropolis",
+      "url"       : "/accropolis",
+      "thumbnail" : "/img/projets/accropolis.png"
+    } ,
+  
+    {
+      "title"     : "Nova-Ideo ",
+      "url"       : "/Nova-Ideo",
+      "thumbnail" : "/img/projets/nova-ideo.png"
+    } ,
+  
+    {
       "title"     : "OpenBudget.fr",
       "url"       : "/openbudget",
       "thumbnail" : "/img/projets/openbudget.jpg"

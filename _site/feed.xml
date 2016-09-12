@@ -6,9 +6,115 @@
 </description>
     <link>http://opendemocracynow.net//</link>
     <atom:link href="http://opendemocracynow.net//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Sep 2016 18:12:55 +0200</pubDate>
-    <lastBuildDate>Fri, 09 Sep 2016 18:12:55 +0200</lastBuildDate>
+    <pubDate>Mon, 12 Sep 2016 12:55:27 +0200</pubDate>
+    <lastBuildDate>Mon, 12 Sep 2016 12:55:27 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>theactivist.eu</title>
+        <description>&lt;p&gt;Créer une plate-forme donnant aux citoyens le pouvoir de concrétiser leur vision de société en les connectant avec d’autres qui partagent les memes idées dans leur quartier aussi bien qu’au niveau Européen, créant ainsi un mouvement d’Activistes capable d’agir à tous les niveaux en partant de chez soi.&lt;/p&gt;
+
+&lt;p&gt;Les media sociaux mettent en connection des gens qui habitent très loins mais souvent nous ne connaissons pas nos voisins avec lesquels nous partageons notre espace de vie et avec lesquels nous pourrions travailler à modifier ce qui ne va pas dans nos villes, dans nos pays ou en Europe. De là est née l’idée de créer une plate-forme capable de donner le pouvoir aux citoyens qui sont interessés à s’engager pour concrétiser leur vision de societé en les connectant avec d’autres qui partagent la meme vision dans leur quartier/ville et, en meme temps, au niveau Européen. Ceci avec le but de créer un mouvement de citoyens capable d’avoir un impact à tous les niveaux de pouvoir en Europe, en partant de chez nous, de nos villes!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;entretient-avec-pietro-de-matteis-porteur-du-projet&quot;&gt;Entretient avec Pietro De Matteis porteur du projet&lt;/h5&gt;
+
+&lt;h6 id=&quot;quest-ce-qui-ta-donn-envie-de-participer-au-hackathon-&quot;&gt;Qu’est-ce qui t’a donné envie de participer au hackathon ?&lt;/h6&gt;
+&lt;p&gt;J’ai décidé de participer per à cet Hackathon pour developper une nouvelle plateforme de democracie participative afin de relier le developement d’activites au niveau tres local aux grand defis de l’Europe d’aujourd’hui.&lt;/p&gt;
+
+&lt;h6 id=&quot;quels-sont-tes-objectifs-avec-ce-projet-dans-le-cadre&quot;&gt;Quels sont tes objectifs avec ce projet dans le cadre&lt;/h6&gt;
+&lt;p&gt;de ce hackathon et à plus long terme ? 
+J’espere que cet hackathon va nous aider à concretiser ce projet en nous appuyant sur la connassance technique des participants pour pouvoir le mettre en place au niveau Européen et à dispositions des citoyens qui veulent donner une nouvelle impulsion postive au projet européén.&lt;/p&gt;
+
+&lt;h6 id=&quot;quelles-tapes-as-tu-dj-franchies&quot;&gt;Quelles étapes as-tu déjà franchies?&lt;/h6&gt;
+&lt;p&gt;1) Definition du concept
+2) Recherche des mouvements qui sont interessés à l’utiliser
+3) Identification de plus de 400 personnes qui voudraient s’engager au niveau local partout en Europe.&lt;/p&gt;
+
+&lt;h6 id=&quot;quels-sont-tes-besoins-pour-avancer-dveloppeurs-graphistes-citoyens-motives-spcialistes-dun-domaine-etc-&quot;&gt;Quels sont tes besoins pour avancer (développeurs, graphistes, citoyens motivées, spécialistes d’un domaine etc.) ?&lt;/h6&gt;
+&lt;p&gt;Developpeurs capables d’integrer et adapter les specifications necessaires (certaines deja existantes);
+Graphistes: pour aider à donner à la plateforme une image simple mais attractive;
+Citoyens motivés: plus nous sommes, mieux c’est!&lt;/p&gt;
+
+&lt;h6 id=&quot;ce-qui-te-passe-par-la-tte-et-que-tu-veux-nous-communiquer-&quot;&gt;Ce qui te passe par la tête et que tu veux nous communiquer !&lt;/h6&gt;
+&lt;p&gt;Merci pour cette initiative!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Sep 2016 00:00:00 +0200</pubDate>
+        <link>http://opendemocracynow.net//theactivist-eu</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//theactivist-eu</guid>
+        
+        <category>Logiciels</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Accropolis</title>
+        <description>&lt;p&gt;Accropolis, c’est la première chaîne de streaming citoyenne de France ! Un média innovant, jamais vu auparavant qui propose une nouvelle manière de suivre la politique.&lt;/p&gt;
+
+&lt;p&gt;La chaîne Accropolis est un média d’un nouveau genre qui s’adresse à celles et à ceux qui ne suivent pas la politique, qui s’en sentent éloignés mais qui veulent prendre en main leur citoyenneté. Inspirée des chaînes de streaming de jeux vidéo, Accropolis propose des émissions interactives sur Youtube, Facebook Live et Twitch pour mieux suivre et mieux comprendre la vie politique. Commentaires en direct de meetings politiques, émissions en plateau, libres antennes et vidéos explicatives remettent les citoyens au coeur de la transition démocratique.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;latelier-dans-le-cadre-de-odn&quot;&gt;L’atelier dans le cadre de ODN&lt;/h5&gt;
+
+&lt;p&gt;Je propose aux développeurs, webmasters, geeks et autres citoyens du web d’apporter une aide concrète à Accropolis en repensant son site internet de A à Z.&lt;/p&gt;
+
+&lt;p&gt;Aujourd’hui simple site vitrine, Accropolis.fr a vocaction à devenir une véritable plateforme de streaming où la participation citoyenne se perpétue au delà des streams.  Zone membres, Forum, et Chat sont au menu de ce nouveau site. La charte graphique existe déjà, le webdesign est des plus classiques, il ne manque plus que le développement !&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Sep 2016 00:00:00 +0200</pubDate>
+        <link>http://opendemocracynow.net//accropolis</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//accropolis</guid>
+        
+        <category>media</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Nova-Ideo </title>
+        <description>&lt;p&gt;Nova-Ideo est une solution d’innovation participative en ligne qui fusionne le meilleur de la boite à idées, du portail collaboratif et des outils de communication en ligne.&lt;/p&gt;
+
+&lt;p&gt;Nova-Ideo permet :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;De noter des idées sous forme d’un texte court, et de les partager ;&lt;/li&gt;
+  &lt;li&gt;De créer des groupes de travail en transformant une idée en 
+proposition pour travailler collectivement à son enrichissement ;&lt;/li&gt;
+  &lt;li&gt;De soutenir ou rejeter les propositions abouties ;&lt;/li&gt;
+  &lt;li&gt;De trouver les groupes de travail et leurs propositions correspondant aux critères de sélection des comités de décision.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nova-Ideo hérite de 3 ans de recherche sur l’innovation participative, de 7 ans de R&amp;amp;D sur les extranets, et de 11 ans d’expérience sur les CMS open source.&lt;/p&gt;
+
+&lt;p&gt;Nova-Ideo est déployé au sein de grandes entreprises. Or, l’innovation participative est le pendant “business” de la démocratie participative. Les enjeux et les outils sont quasi semblables : Il s’agit d’améliorer le fonctionnement des organisations humaines. Or, il est déjà difficile au sein de petites structures de trouver les bonnes idées. Non par ce qu’elles n’existent pas, mais par ce qu’elles ne sont pas visibles et sont très souvent à l’état brut. Une bonne idée est une idée qui a été partagée et travaillée 
+collectivement afin de refléter tous les points de vue. On pourrait penser qu’un outil qui parvient à résoudre ce problème dans l’entreprise pourrait contribuer à le résoudre dans la société civile. Nous avons eu cette ambition dès le début en proposant notre outil sous icence libre AGPL.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;entretient-avec-michal-launay-porteur-du-projet&quot;&gt;Entretient avec Michaël Launay porteur du projet&lt;/h5&gt;
+
+&lt;h6 id=&quot;quest-ce-qui-ta-donn-envie-de-participer-au-hackathon-&quot;&gt;Qu’est-ce qui t’a donné envie de participer au hackathon ?&lt;/h6&gt;
+&lt;p&gt;Nous proposons Nova-Ideo comme un bien commune et à ce titre nous avons participer à un hackathon debout, il était donc logique d’y participer.&lt;/p&gt;
+
+&lt;h6 id=&quot;quels-sont-tes-objectifs-avec-ce-projet-dans-le-cadre&quot;&gt;Quels sont tes objectifs avec ce projet dans le cadre&lt;/h6&gt;
+&lt;p&gt;de ce hackathon et à plus long terme ? 
+Nous souhaitons créer une communauté d’utilisateurs et de développeurs.&lt;/p&gt;
+
+&lt;h6 id=&quot;quelles-tapes-as-tu-dj-franchies&quot;&gt;Quelles étapes as-tu déjà franchies?&lt;/h6&gt;
+&lt;p&gt;Nous avons déployé Nova-Ideo chez Axima filiale d’Engie et ils commencent la diffusion de l’outil auprès de leurs collaborateurs.&lt;/p&gt;
+
+&lt;h6 id=&quot;quels-sont-tes-besoins-pour-avancer-dveloppeurs-graphistes-citoyens-motives-spcialistes-dun-domaine-etc-&quot;&gt;Quels sont tes besoins pour avancer (développeurs, graphistes, citoyens motivées, spécialistes d’un domaine etc.) ?&lt;/h6&gt;
+&lt;p&gt;Nous utilisons des concepts comme le jugement majoritaire qui ne sont pas très rependus et tâtonnons dans la mise en place de l’ergonomie de cette partie qui est une solution pour faire travailler ensemble des gens d’opinions différentes pour aboutir à des propositions reflétant prenant en compte leurs points de vue.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Sep 2016 00:00:00 +0200</pubDate>
+        <link>http://opendemocracynow.net//Nova-Ideo</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//Nova-Ideo</guid>
+        
+        <category>Logiciels</category>
+        
+        
+      </item>
     
       <item>
         <title>OpenBudget.fr</title>
@@ -189,105 +295,6 @@
         <guid isPermaLink="true">http://opendemocracynow.net//agoralabtv</guid>
         
         <category>Logiciels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Grandma' Votation</title>
-        <description>&lt;p&gt;Le droit est devenu une langue étrangère… On ne sait plus ce qu’on vote ou ce qu’on signe… Trop long, trop compliqué et mal écrit…Le poisson (parfois un piranha) est noyé, le but est de le retrouver et de le sortir du flan…par la visualisation, la gamification: une interface compréhensible y compris par Grand’Ma.&lt;/p&gt;
-
-&lt;p&gt;Entretien avec Jean-Baptiste Baraton, représentant du projet.&lt;/p&gt;
-
-&lt;p&gt;Quand et pourquoi avez-vous rejoint ce projet?&lt;/p&gt;
-
-&lt;p&gt;Il y a presque un an maintenant, un peu par hasard et parce que l’open source me plaisait par ses valeurs, son efficacité et ses principes (vitesse de partage de l’information et transparence; fiabilité), j’ai découvert l’open source par Firefox puis par de nombreux croyants et pratiquants car il s’agit d’un paradigme, d’une logique, d’une philosophie, basée sur la confiance et la libre adhésion et coopération. En outre l’open source est un de mes axes de réflexions et outil de travail. Votation correspond en outre à une brique essentielle d’un projet plus vaste qui nécessite une interface fiable, open source et simple à appréhender.&lt;/p&gt;
-
-&lt;p&gt;Quels sont vos objectifs ?&lt;/p&gt;
-
-&lt;p&gt;La simplification de la loi, des textes en général et du code informatique en particulier afin qu’un maximum de cerveaux soient en mesure au delà des barrières de langues de contribuer et comprendre a minima.&lt;/p&gt;
-
-&lt;p&gt;Quelles étapes avez-vous déjà franchies?&lt;/p&gt;
-
-&lt;p&gt;Le projet est défini, conceptualisé et porté auprès d’un certain nombre de développeurs (notamment certains nouveaux contacts récents à 42), de juristes et de citoyens, il existe une vidéo et bientôt il y aura une communauté dédiée (à venir).&lt;/p&gt;
-
-&lt;p&gt;Quels sont vos besoins pour la suite?&lt;/p&gt;
-
-&lt;p&gt;En priorité des graphistes, des développeurs, ergonomes (j’en ai quelques-uns), dans le domaine de l’IA et de la blockchain, des citoyens (en priorité les moins pointus en matières juridique et informatique, voire des personnes handicapées et malades) pour tester et rester proche des attentes concrètes y compris et surtout des plus faibles.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 15 Jun 2016 00:00:00 +0200</pubDate>
-        <link>http://opendemocracynow.net//votation</link>
-        <guid isPermaLink="true">http://opendemocracynow.net//votation</guid>
-        
-        <category>Logiciels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Nuances</title>
-        <description>&lt;p&gt;Construire, comprendre et comparer son positionnement politique pour ouvrir une nouvelle fenêtre sur le débat et l’engagement.&lt;/p&gt;
-
-&lt;p&gt;La multiplication des courants et des chapelles plus ou moins réduites au sein des partis ou familles politiques traditionnelles tend à brouiller la perception que chacun a du positionnement du personnel politique et de son propre positionnement sur l’échiquier politique. Nuances, c’est repartir de l’individu pour lui permettre de déterminer ses propres convictions avant de découvrir comment elles se situent par rapport aux autre.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;latelier-dans-le-cadre-de-odn&quot;&gt;L’atelier dans le cadre de ODN&lt;/h5&gt;
-
-&lt;p&gt;La crise de la démocratie représentative n’est pas récente, mais elle revêt aujourd’hui une signification toute nouvelle face à la démocratisation d’un nouveau rapport à l’espace public à travers l’usage du web. Les valeurs de liberté et d’égalité a priori, portées par les pionniers d’internet, doivent et peuvent aujourd’hui être associées à la massification des usages pour permettre la construction d’une nouvelle façon d’envisager la décision et le débat politique à l’échelle de populations diverses tant en nombre qu’en hétérogénéité. Il y a donc un double enjeu à la participation à des projets comme Open Democracy Now : penser la démocratie dans un contexte numérique et penser les caractéristiques du numérique dans un contexte d’hétérogénéité sociale.&lt;/p&gt;
-
-&lt;h6 id=&quot;les-objectifs-de-latelier&quot;&gt;Les objectifs de l’atelier&lt;/h6&gt;
-
-&lt;p&gt;Proposer un outil à tout-un-chacun pour décider par soi-même quelles sont ses convictions afin de comprendre son propre positionnement avant de le comparer à celui des autres (amis et/ou personnalités politiques) et de déterminer avec eux des points de convergence et de divergence. Mettre le positionnement individuel au centre de la conviction politique et souligner les différences pour renforcer l’esprit critique et le débat des idées.&lt;/p&gt;
-
-&lt;h6 id=&quot;les-tapes-franchies&quot;&gt;Les étapes franchies&lt;/h6&gt;
-
-&lt;p&gt;Scope global du projet, objectifs pour MVP, parcours et expérience utilisateurs&lt;/p&gt;
-
-&lt;h6 id=&quot;les-besoins&quot;&gt;Les besoins&lt;/h6&gt;
-
-&lt;p&gt;Pousser la réflexion et la méthodologie mathématique précise pour une représentation du positionnement de l’ensemble des utilisateurs sur des plans à deux dimensions, à partir d’un nombre virtuellement illimité de dimensions de positionnement.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 15 Jun 2016 00:00:00 +0200</pubDate>
-        <link>http://opendemocracynow.net//nuances</link>
-        <guid isPermaLink="true">http://opendemocracynow.net//nuances</guid>
-        
-        <category>Logiciels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>A Project Has No Name</title>
-        <description>&lt;p&gt;HOWTO: auto-héberger wordpress, discourse, loomio, mediawiki, gitlab et mattermost via docker et sur OpenStack pour moins de 5 euros par mois.&lt;/p&gt;
-
-&lt;p&gt;Quand un collectif se constitue, il prend ce qu’il a sous la main, gratuit ou presque, GAFAM ou anti-GAFAM. Et puis arrive le moment où ça gène aux entournures, on voudrait être indépendants, avoir un service qui n’est pas disponible gratuitement. Chacun se lance dans des recherches et débat sur les mérites comparés de centaines d’outils, des tarifs des hébergeurs. Quelqu’un finit par appeler de ses voeux un outil qui répondrait à tout les besoins mais qui n’existe pas encore, les plus courageux font un cahier des charge de l’outil rêvé. Trop souvent la discussion s’épuise et le résultat est frustrant.&lt;/p&gt;
-
-&lt;p&gt;Et s’il suffisait d’avoir un mode d’emploi (HOWTO) bien fait pour auto-héberger un ensemble d’outils ? Une boîte a outil préremplie, sans autre forme d’intégration. Un tout qui puisse se déployer, se sauvegarder et se restaurer dans les nuages, sur une seule machine. Rien de bien compliqué, alors pourquoi pas le faire pendant un hackaton et le donner à des collectifs pour voir ce que ça donne ? Si ça peut leur éviter de chercher pour la millième fois le logiciel magique qui n’existe pas, ce serait formidable.&lt;/p&gt;
-
-&lt;p&gt;L’atelier dans le cadre de ODN&lt;/p&gt;
-
-&lt;p&gt;Quand et pourquoi avez-vous rejoint ce projet?&lt;/p&gt;
-
-&lt;p&gt;C’est la première fois que je participe (Hackathon #3). Pour y trouver d’autre hackers astucieux et découvrir le plus court chemin pour faire voter une nouvelle constitution qui donne le pouvoir aux électeurs.&lt;/p&gt;
-
-&lt;p&gt;Quels sont vos objectifs ?&lt;/p&gt;
-
-&lt;p&gt;Rédiger la HOWTO et la tester, pour qu’elle puisse être un moyen fiable de refaire la même chose.&lt;/p&gt;
-
-&lt;p&gt;Quelles étapes avez-vous déjà franchies?&lt;/p&gt;
-
-&lt;p&gt;J’ai identifié les outils à agréger en observant ce que les collectifs utilisent et en proposant à des collectifs des outils pour répondre à leurs besoins (qui sont parfois exprimés de façon difficile à comprendre).&lt;/p&gt;
-
-&lt;p&gt;Quels sont vos besoins pour la suite?&lt;/p&gt;
-
-&lt;p&gt;Des hackers et des membres de collectifs qui souhaitent s’auto-héberger et utiliser ces outils.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 15 Jun 2016 00:00:00 +0200</pubDate>
-        <link>http://opendemocracynow.net//noname</link>
-        <guid isPermaLink="true">http://opendemocracynow.net//noname</guid>
-        
-        <category>Ateliers</category>
         
         
       </item>
