@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "Donne ta voix"
-tag: Atelier
+tag: Ateliers
 rep: "Olivier Buchotte"
 img: "Bandeau-DTV.jpg"
 repmail: "donnetavoix@gmail.com"
