@@ -6,9 +6,9 @@
 </description>
     <link>http://opendemocracynow.net//</link>
     <atom:link href="http://opendemocracynow.net//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Sep 2016 12:55:27 +0200</pubDate>
-    <lastBuildDate>Mon, 12 Sep 2016 12:55:27 +0200</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <pubDate>Mon, 12 Sep 2016 14:14:10 +0200</pubDate>
+    <lastBuildDate>Mon, 12 Sep 2016 14:14:10 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>theactivist.eu</title>
@@ -77,10 +77,10 @@ Citoyens motivés: plus nous sommes, mieux c’est!&lt;/p&gt;
         <description>&lt;p&gt;Nova-Ideo est une solution d’innovation participative en ligne qui fusionne le meilleur de la boite à idées, du portail collaboratif et des outils de communication en ligne.&lt;/p&gt;
 
 &lt;p&gt;Nova-Ideo permet :&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;De noter des idées sous forme d’un texte court, et de les partager ;&lt;/li&gt;
-  &lt;li&gt;De créer des groupes de travail en transformant une idée en 
-proposition pour travailler collectivement à son enrichissement ;&lt;/li&gt;
+  &lt;li&gt;De créer des groupes de travail en transformant une idée en proposition pour travailler collectivement à son enrichissement ;&lt;/li&gt;
   &lt;li&gt;De soutenir ou rejeter les propositions abouties ;&lt;/li&gt;
   &lt;li&gt;De trouver les groupes de travail et leurs propositions correspondant aux critères de sélection des comités de décision.&lt;/li&gt;
 &lt;/ul&gt;
@@ -88,7 +88,7 @@ proposition pour travailler collectivement à son enrichissement ;&lt;/li&gt;
 &lt;p&gt;Nova-Ideo hérite de 3 ans de recherche sur l’innovation participative, de 7 ans de R&amp;amp;D sur les extranets, et de 11 ans d’expérience sur les CMS open source.&lt;/p&gt;
 
 &lt;p&gt;Nova-Ideo est déployé au sein de grandes entreprises. Or, l’innovation participative est le pendant “business” de la démocratie participative. Les enjeux et les outils sont quasi semblables : Il s’agit d’améliorer le fonctionnement des organisations humaines. Or, il est déjà difficile au sein de petites structures de trouver les bonnes idées. Non par ce qu’elles n’existent pas, mais par ce qu’elles ne sont pas visibles et sont très souvent à l’état brut. Une bonne idée est une idée qui a été partagée et travaillée 
-collectivement afin de refléter tous les points de vue. On pourrait penser qu’un outil qui parvient à résoudre ce problème dans l’entreprise pourrait contribuer à le résoudre dans la société civile. Nous avons eu cette ambition dès le début en proposant notre outil sous icence libre AGPL.&lt;/p&gt;
+collectivement afin de refléter tous les points de vue. On pourrait penser qu’un outil qui parvient à résoudre ce problème dans l’entreprise pourrait contribuer à le résoudre dans la société civile. Nous avons eu cette ambition dès le début en proposant notre outil sous licence libre AGPL.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -97,9 +97,8 @@ collectivement afin de refléter tous les points de vue. On pourrait penser qu�
 &lt;h6 id=&quot;quest-ce-qui-ta-donn-envie-de-participer-au-hackathon-&quot;&gt;Qu’est-ce qui t’a donné envie de participer au hackathon ?&lt;/h6&gt;
 &lt;p&gt;Nous proposons Nova-Ideo comme un bien commune et à ce titre nous avons participer à un hackathon debout, il était donc logique d’y participer.&lt;/p&gt;
 
-&lt;h6 id=&quot;quels-sont-tes-objectifs-avec-ce-projet-dans-le-cadre&quot;&gt;Quels sont tes objectifs avec ce projet dans le cadre&lt;/h6&gt;
-&lt;p&gt;de ce hackathon et à plus long terme ? 
-Nous souhaitons créer une communauté d’utilisateurs et de développeurs.&lt;/p&gt;
+&lt;h6 id=&quot;quels-sont-tes-objectifs-avec-ce-projet-dans-le-cadre-de-ce-hackathon-et--plus-long-terme-&quot;&gt;Quels sont tes objectifs avec ce projet dans le cadre de ce hackathon et à plus long terme ?&lt;/h6&gt;
+&lt;p&gt;Nous souhaitons créer une communauté d’utilisateurs et de développeurs.&lt;/p&gt;
 
 &lt;h6 id=&quot;quelles-tapes-as-tu-dj-franchies&quot;&gt;Quelles étapes as-tu déjà franchies?&lt;/h6&gt;
 &lt;p&gt;Nous avons déployé Nova-Ideo chez Axima filiale d’Engie et ils commencent la diffusion de l’outil auprès de leurs collaborateurs.&lt;/p&gt;

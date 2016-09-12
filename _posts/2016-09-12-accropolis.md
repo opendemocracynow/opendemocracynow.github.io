@@ -15,7 +15,7 @@ sociallink1: "http://accropolis.fr"
 socialtext1: "Site web"
 
 socialmatter2: "facebook"
-sociallink2: "https://www.facebook.com/DemocracyOSfrance"
+sociallink2: "https://www.facebook.com/AccropolisPage/?fref=ts"
 socialtext2: "Page facebook"
 
 socialmatter5: "twitter"
