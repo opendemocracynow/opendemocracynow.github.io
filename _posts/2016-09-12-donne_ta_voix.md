@@ -4,6 +4,7 @@ comments: true
 title:  "Donne ta voix"
 tag: Atelier
 rep: "Olivier Buchotte"
+img: "Bandeau-DTV.jpg"
 repmail: "olivier@democracy.eu"
 
 ---
