@@ -10,9 +10,7 @@ repmail: "donnetavoix@gmail.com"
 ---
 
 2017, naufrage de la démocratie dans une présidentielle où la farce du déjà-vu le dispute à l’angoisse des extrêmes.
-De nombreux citoyens ont d’ores et déjà décidé de ne pas voter.
-Nous leur disons : 
-DONNE TA VOIX !
+De nombreux citoyens ont d’ores et déjà décidé de ne pas voter. Nous leur disons : DONNE TA VOIX !
 
 Nous voulons permettre aux déçus de la République de réinvestir de façon festive cette élection, sans cautionner des candidats ou des partis qui sont à leur yeux disqualifiés.
 Nous leur proposons d’utiliser leur droit de procuration via un site de rencontres. L’idée-force est de donner sa voix, sans consigne de vote, à la suite d’une rencontre quasi-amoureuse, trans-générationnelle, trans-philosophique ou trans-communautaire.
