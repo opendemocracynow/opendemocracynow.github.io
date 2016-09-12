@@ -5,7 +5,7 @@ title:  "Accropolis"
 tag: media
 rep: "Jean Massiet"
 img: "accropolis.png"
-repimg: "jeanmassiet.png"
+repimg: "jeanmassiet.jpg"
 repmail: "jeanmassiet@gmail.com"
 
 
