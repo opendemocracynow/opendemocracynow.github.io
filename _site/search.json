@@ -7,6 +7,12 @@
     } ,
   
     {
+      "title"     : "Donne ta voix",
+      "url"       : "/donne_ta_voix",
+      "thumbnail" : "/img/projets/Bandeau-DTV.jpg"
+    } ,
+  
+    {
       "title"     : "Accropolis",
       "url"       : "/accropolis",
       "thumbnail" : "/img/projets/accropolis.png"

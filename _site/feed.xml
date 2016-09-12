@@ -6,9 +6,9 @@
 </description>
     <link>http://opendemocracynow.net//</link>
     <atom:link href="http://opendemocracynow.net//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Sep 2016 14:14:10 +0200</pubDate>
-    <lastBuildDate>Mon, 12 Sep 2016 14:14:10 +0200</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <pubDate>Mon, 12 Sep 2016 17:24:50 +0200</pubDate>
+    <lastBuildDate>Mon, 12 Sep 2016 17:24:50 +0200</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>theactivist.eu</title>
@@ -45,6 +45,57 @@ Citoyens motivés: plus nous sommes, mieux c’est!&lt;/p&gt;
         <guid isPermaLink="true">http://opendemocracynow.net//theactivist-eu</guid>
         
         <category>Logiciels</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Donne ta voix</title>
+        <description>&lt;p&gt;2017, naufrage de la démocratie dans une présidentielle où la farce du déjà-vu le dispute à l’angoisse des extrêmes.
+De nombreux citoyens ont d’ores et déjà décidé de ne pas voter.
+Nous leur disons : 
+DONNE TA VOIX !&lt;/p&gt;
+
+&lt;p&gt;Nous voulons permettre aux déçus de la République de réinvestir de façon festive cette élection, sans cautionner des candidats ou des partis qui sont à leur yeux disqualifiés.
+Nous leur proposons d’utiliser leur droit de procuration via un site de rencontres. L’idée-force est de donner sa voix, sans consigne de vote, à la suite d’une rencontre quasi-amoureuse, trans-générationnelle, trans-philosophique ou trans-communautaire.
+Ce projet est à la fois caustique et vertueux car il permet de se moquer d’un système électoral épuisé tout en tout en manifestant avec force la volonté d’une refondation de la démocratie.
+Le projet reposera techniquement sur un site de rencontre robuste et un usage intensif des réseaux sociaux.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;latelier-dans-le-cadre-de-odn&quot;&gt;L’atelier dans le cadre de ODN&lt;/h5&gt;
+
+&lt;p&gt;Ce projet est né sous forme de plaisanterie lors de discussions informelles entre les membres de Democracy OS France. Il a fini par prendre une consistance réelle au fil de sa présentation à des publics divers, mais il reste à l’état de concept que cet atelier devra valider ou invalider.
+L’atelier doit permettre d’établir une maquette du projet et d’identifier les besoins humains, techniques et financiers à mettre en œuvre.&lt;/p&gt;
+
+&lt;h5 id=&quot;contenu-de-latelier&quot;&gt;Contenu de l’atelier&lt;/h5&gt;
+
+&lt;p&gt;Analyse des forces et des faiblesses du projet.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Position juridique ;&lt;/li&gt;
+  &lt;li&gt;Critères pour l’appariement (matching) des donneurs et des receveurs ;&lt;/li&gt;
+  &lt;li&gt;Anticipation des questions-réponses ;&lt;/li&gt;
+  &lt;li&gt;Neutralisation de la captation des voix par les équipes de campagne des candidats ;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Préfiguration du dispositif&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;quel modèle pour le site de rencontre ?&lt;/li&gt;
+  &lt;li&gt;envisager une gouvernance participative, pendant le montage et pendant le déroulement du projet ;&lt;/li&gt;
+  &lt;li&gt;lister les compétences nécessaires : production, animation, gestion, communication, cohérence du discours ;&lt;/li&gt;
+  &lt;li&gt;réfléchir au casting des gens qui vont défendre le projet (organiser une Star-Ac pour les porte-paroles) ;&lt;/li&gt;
+  &lt;li&gt;imaginer un modèle de financement ;&lt;/li&gt;
+  &lt;li&gt;partenaires ;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Anticiper une sortie en beauté !&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 12 Sep 2016 00:00:00 +0200</pubDate>
+        <link>http://opendemocracynow.net//donne_ta_voix</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//donne_ta_voix</guid>
+        
+        <category>Atelier</category>
         
         
       </item>
@@ -273,25 +324,6 @@ collectivement afin de refléter tous les points de vue. On pourrait penser qu�
         <pubDate>Sat, 18 Jun 2016 00:00:00 +0200</pubDate>
         <link>http://opendemocracynow.net//design</link>
         <guid isPermaLink="true">http://opendemocracynow.net//design</guid>
-        
-        <category>Logiciels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>AgoraLabTV</title>
-        <description>&lt;p&gt;AgoraLabTV répond à l’envie des citoyens de prendre part au débat public en leur donnant les moyens de construire eux-mêmes des débats TV sur les sujets de leur choix.&lt;/p&gt;
-
-&lt;p&gt;Si la défiance à l’égard DES politiques n’a jamais été aussi grande, l’intérêt des Français pour LA politique ne faiblit pas. Ils sont pourtant réduits aux seconds rôles des débats dans les médias. AgoraLabTV replace les citoyens au centre du jeu… En fédérant les internautes autour de sujets qu’ils ont eux-mêmes proposés. En construisant ensemble le fil conducteur du débat sur le sujet le plus populaire. En co-animant un débat TV en direct avec des citoyens tirés au sort parmi les volontaires. Nous avons déjà accompagné France 3 Provence Alpes et TVM Est Parisien dans deux expériences similaires. La première, sur le thème de « l’emploi des jeunes » (Marseille) ; la seconde, sur « l’après Charlie » (Montreuil).&lt;/p&gt;
-
-&lt;p&gt;L’atelier durant ODN&lt;/p&gt;
-
-&lt;p&gt;Notre participation au projet Open Democracy Now vise à développer de nouveaux outils digitaux d’interaction et à rassembler les bonnes volontés nécessaires à la réalisation du pilote qui saura convaincre un grand média.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 18 Jun 2016 00:00:00 +0200</pubDate>
-        <link>http://opendemocracynow.net//agoralabtv</link>
-        <guid isPermaLink="true">http://opendemocracynow.net//agoralabtv</guid>
         
         <category>Logiciels</category>
         
