@@ -28,13 +28,15 @@ L’atelier doit permettre d’établir une maquette du projet et d’identifier
 
 ##### Contenu de l'atelier
 
-Analyse des forces et des faiblesses du projet. 
+Analyse des forces et des faiblesses du projet
+
 - Position juridique ;
 - Critères pour l’appariement (matching) des donneurs et des receveurs ;
 - Anticipation des questions-réponses ;
 - Neutralisation de la captation des voix par les équipes de campagne des candidats ;
 
 Préfiguration du dispositif
+
 - quel modèle pour le site de rencontre ?
 - envisager une gouvernance participative, pendant le montage et pendant le déroulement du projet ;
 - lister les compétences nécessaires : production, animation, gestion, communication, cohérence du discours ;
