@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "LaPrimaire.org"
 tag: Logiciels
-img: ""
+img: "laprimaire-logo.jpg"
 rep: "Thibaud Favre"
 repmail: "thibauld@democratech.co"
 repimg: "thibaud-favre.png"
