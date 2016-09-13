@@ -18,6 +18,133 @@ gems: [jekyll-paginate, jekyll-admin]
 paginate: 8
 paginate_path: "/projets/page:num/"
 
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://opendemocracynow.net/'
+  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'medias'
+  ignore:
+    - index.html
+    - feed.xml
+    - search.json
+    - CNAME
+    - /js
+    - /css
+    - /sass
+    - /infos
+    - /projets
+    - /hackathons
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "tag"
+        field:
+          element: "multiselect"
+          label: "Ajouter un tag"
+          placeholder: "choisir un tag"
+          options:
+            - name: "Logiciels"
+              value: "logiciels"
+            - name: "Ateliers"
+              value: "ateliers"
+      - name: "title"
+      field:
+        element: "text"
+        label: "title"
+      - name: "img"
+        field:
+          element: "text"
+          label: "image du projet"
+          placeholder: "image1.jpg"
+          help: "Image du projet, à placer dans le dossier img/projets"
+      - name: "rep"
+        field:
+          element: "text"
+          label: "Représentant du projet"
+          placeholder: "Jean Dupont"
+      - name: "repmail"
+        field:
+          element: "text"
+          label: "e-mail du représentant du projet"
+          placeholder: "jeandupont@gmail.com"
+      - name: "repimg"
+        field:
+          element: "text"
+          label: "photo de profil du représentant"
+          placeholder: "jeandupont.jpg"
+          help: "placer l'image dans le dossier /img/people en format carré"
+      - name: "socialmatter1"
+        field:
+          element: "text"
+          label: "1er lien social"
+          placeholder: "facebook/twitter..."
+          help: "nom du réseau social, sans lettre majuscule"
+      - name: "sociallink1"
+        field:
+          element: "text"
+          label: "url du 1er lien social"
+          placeholder: "https://facebook.com/odn"
+          help: "adresse de la page du réseau social"
+      - name: "socialtext1"
+        field:
+          element: "text"
+          label: "texte du 1er lien social"
+          placeholder: "page facebook d'ODN"
+          help: "le texte s'affiche dans le social-button"
+      - name: "comments"
+        field:
+          element: "checkbox"
+          label: "Commentaires"
+          help: "activer ou non le module Disqus"
+          value: true
+      - name: "ended"
+        field:
+          element: "button"
+          label: "Statut du projet"
+          help: "le projet est-il encore actif?"
+          on: "true"
+          off: ""
+    _hackathons:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post-hackathon"
+      - name: "moment"
+        field:
+          element: "text"
+          label: "Date du hackathon"
+          placeholder: "ex: du 16 au 18 septembre 2016"
+      - name: "place"
+        field:
+          element: "text"
+          label: "Lieu de déroulement"
+          placeholder: "ex: Fondation Mozilla Paris"
+      - name: "img"
+        field:
+          element: "text"
+          label: "Image du projet"
+          placeholder: "hackathon4.jpg"
+          help: "placer l'image dans le dossier /img/hackathons"
+      - name: "eventurl"
+        field:
+          element: "text"
+          label: "Lien pour l'inscription"
+          placeholder: "https://www.eventbrite.fr..."
+          help: "url complet de la page d'inscription"
+      - name: "nextevent"
+        field:
+          element: "button"
+          label: "Ce hackathon est à venir?"
+          help: "activer si ec hackathon est le prochain événement ODN"
+          on: "true"
+          off: ""
+
 collections:
  hackathons:
   output: true
