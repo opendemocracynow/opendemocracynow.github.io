@@ -82,30 +82,30 @@ prose:
       element: "text"
       label: "1er lien social"
       placeholder: "facebook/twitter..."
-      help: "nom du réseau social, sans lettre majuscule"
+      help: "Nom du réseau social, sans lettre majuscule"
    - name: "sociallink1"
      field:
       element: "text"
       label: "url du 1er lien social"
       placeholder: "https://facebook.com/odn"
-      help: "adresse de la page du réseau social"
+      help: "Adresse de la page du réseau social"
    - name: "socialtext1"
      field:
       element: "text"
       label: "texte du 1er lien social"
       placeholder: "page facebook d'ODN"
-      help: "le texte s'affiche dans le social-button"
+      help: "Le texte s'affiche dans le social-button"
    - name: "comments"
      field:
       element: "checkbox"
       label: "Commentaires"
-      help: "activer ou non le module Disqus"
+      help: "Activer ou non le module Disqus"
       value: true
    - name: "active"
      field:
       element: "checkbox"
       label: "Statut du projet"
-      help: "le projet est-il encore actif?"
+      help: "le projet est-il encore actif? Décochez la case s'il est terminé"
       value: true
   _hackathons:
    - name: "layout"
