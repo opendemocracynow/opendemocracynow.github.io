@@ -60,7 +60,7 @@ prose:
    - name: "active"
      field:
       element: "checkbox"
-      label: "Statut du projet"
+      label: "Projet actif"
       help: "le projet est-il encore actif? Décochez la case s'il est terminé"
       value: true
    - name: "published"
