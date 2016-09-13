@@ -52,7 +52,7 @@ customjs:
                                     {% endif %}
                                     <h5>
                                         <a href="{{ post.url }}">{{ post.title }}</a>
-                                        {% if post.ended %}<span class="btn btn-terminated btn-xs"> <b>Terminé</b>{% endif %}
+                                        {% if post.status == finished %}<span class="btn btn-terminated btn-xs"> <b>Terminé</b>{% endif %}
                                     </h5>
                                     <p> {{ post.excerpt }} </p>
                                 </div>
