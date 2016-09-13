@@ -27,11 +27,11 @@ Présentation du hackathon et de ses ateliers
 Temps d'annonce Etalab
 
 ##### Conférence avec la participation de :
-- Loïc Dachary (développeur de logiciels libres)
 - Sylvia Fredriksson (Open Knowledge Foundation France)
 - Damien Monnerie (association ICI)
 - Pauline Véron (adjointe à la Maire de Paris chargée de la démocratie locale, de la participation citoyenne, de la vie associative, de la jeunesse et de l'emploi)
-- et une sociologue (à confirmer)
+- Gaël Musquet (La Fonderie, Open Street Map)
+- Laurence Allard (Sociologue @ IRCAV-Paris 3)
 - Modération : Benjamin Jean (président d'Open Law)
 
 #### SAMEDI 17 & DIMANCHE 18 à partir de 9h

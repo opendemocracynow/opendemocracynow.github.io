@@ -6,9 +6,43 @@
 </description>
     <link>http://opendemocracynow.net//</link>
     <atom:link href="http://opendemocracynow.net//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Sep 2016 17:42:10 +0200</pubDate>
-    <lastBuildDate>Mon, 12 Sep 2016 17:42:10 +0200</lastBuildDate>
+    <pubDate>Tue, 13 Sep 2016 09:59:11 +0200</pubDate>
+    <lastBuildDate>Tue, 13 Sep 2016 09:59:11 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>LaPrimaire.org</title>
+        <description>&lt;p&gt;LaPrimaire.org est primaire démocratique ouverte 100% en ligne dont l’objectif est de faire emerger la meilleure équipe citoyenne possible en vue des prochaines elections (presidentielles et legislatives 2017).&lt;/p&gt;
+
+&lt;p&gt;LaPrimaire.org est née de la frustration électorale qu’une grande majorité de citoyens ressent lorsqu’il est appelé à s’exprimer dans les urnes : celle de devoir a chaque “voter pour le moins pire des candidats”. L’objectif de LaPrimaire.org est de venir contester le monopole des partis politiques sur la designation des candidats aux elections en permettant à des personnes de la société civile de se regrouper pour présenter en vue de présenter des candidatures crédibles et solides, le tout le plus démocratiquement possible. LaPrimaire.org est une primaire 100% en ligne dans la totalité du code est opensource et disponible sur https://github.com/democratech&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;entretient-avec-thibaud-favre-porteur-du-projet&quot;&gt;Entretient avec Thibaud Favre porteur du projet&lt;/h5&gt;
+
+&lt;h6 id=&quot;quest-ce-qui-ta-donn-envie-de-participer-au-hackathon-&quot;&gt;Qu’est-ce qui t’a donné envie de participer au hackathon ?&lt;/h6&gt;
+&lt;p&gt;Le code de LaPrimaire.org etant 100% open source depuis le début afin que d’autres projets puissent réutiliser notre code, c’est pourquoi j’avais dans ma TODO list depuis longtemps de proposer à d’autres développeurs de rejoindre le développement de LaPrimaire.org pour avancer plus vite et aider à la diffusion du projet. Le hackathon opendemocracy m’a semblé être l’endroit idéal pour lancer cela :) En plus, il y a d’autres projets comme celui de MaVoix avec qui on collabore donc c’etait l’occasion de se rencontrer et de donner un coup de boost !&lt;/p&gt;
+
+&lt;h6 id=&quot;quels-sont-tes-objectifs-avec-ce-projet-dans-le-cadre-&quot;&gt;Quels sont tes objectifs avec ce projet dans le cadre ?&lt;/h6&gt;
+
+&lt;p&gt;Finaliser une v1 de l’integration LaPrimaire.org &amp;lt;-&amp;gt; cocorico, le systeme de vote développé par Jean-Marc dans le cadre de MaVoix. Avoir une 1ère version de Houston, un bot facebook développé par Pierre-Louis dont le but est de permettre l’etablissement d’un cahier de doléances à grande échelle en permettant aux citoyens de remonter thème par thème et de manière ludique les problèmes les plus importants à leurs yeux. Enfin, j’espère rencontrer d’autres personnes intéressées pour rejoindre le projet pour aider au développement du site web : il faut aider à la recherche des signatures des maires, lancer le site web pour les legislatives… c’est pas le boulot qui manque :)&lt;/p&gt;
+
+&lt;h6 id=&quot;quelles-tapes-as-tu-dj-franchies&quot;&gt;Quelles étapes as-tu déjà franchies?&lt;/h6&gt;
+
+&lt;p&gt;LaPrimaire.org est live depuis avril, la 1ère phase s’est déroulée quasiment sans-accroc a travers un bot Telegram qui a donné naissance au framework Giskard (https://github.com/telegraph-ai/giskard). Aujourd’hui, plus de 60.000 personnes sont déjà inscrites sur LaPrimaire.org.&lt;/p&gt;
+
+&lt;h6 id=&quot;quels-sont-tes-besoins-pour-avancer-dveloppeurs-graphistes-citoyens-motives-spcialistes-dun-domaine-etc-&quot;&gt;Quels sont tes besoins pour avancer (développeurs, graphistes, citoyens motivées, spécialistes d’un domaine etc.) ?&lt;/h6&gt;
+
+&lt;p&gt;Nous recherchons des développeurs biensûr mais également des citoyens connaissant le marketing online, des citoyens motivés pour organiser des evenements… je pense vraiment qu’on a des missions pour tous les citoyens motivés quelque soit leurs compétences !&lt;/p&gt;
+</description>
+        <pubDate>Tue, 13 Sep 2016 00:00:00 +0200</pubDate>
+        <link>http://opendemocracynow.net//laprimaire-org</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//laprimaire-org</guid>
+        
+        <category>Logiciels</category>
+        
+        
+      </item>
     
       <item>
         <title>theactivist.eu</title>
@@ -301,29 +335,6 @@ collectivement afin de refléter tous les points de vue. On pourrait penser qu�
         <pubDate>Sat, 18 Jun 2016 00:00:00 +0200</pubDate>
         <link>http://opendemocracynow.net//droitdirect</link>
         <guid isPermaLink="true">http://opendemocracynow.net//droitdirect</guid>
-        
-        <category>Logiciels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Design et démocratie</title>
-        <description>&lt;p&gt;Cet atelier a pour objectif de proposer aux différents projets en cours des solutions en matière de design et de présentation de l’information.&lt;/p&gt;
-
-&lt;p&gt;Le design est fondamental pour les démarches de participation citoyenne, car il conditionne la manière dont l’information peut être perçue et comprise. Un design adapté permet de simplifier l’accès à l’information, d’améliorer la compréhension des enjeux, et de faciliter le participation de chacun au sein de démarches citoyennes / démocratiques. Il convient toutefois de conserver à l’esprit que certaines pratiques en matière de design peuvent être néfastes en matière de démocratie, en ce qu’elles peuvent devenir des moyens de manipulation et de détournement de l’information.&lt;/p&gt;
-
-&lt;p&gt;Cet atelier adopte donc un double prisme :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Objectif #1 : Accompagner les différents projets volontaires en matière de design&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Objectif #2 : Mener une réflexion transverse sur les enjeux et dangers du design&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Sat, 18 Jun 2016 00:00:00 +0200</pubDate>
-        <link>http://opendemocracynow.net//design</link>
-        <guid isPermaLink="true">http://opendemocracynow.net//design</guid>
         
         <category>Logiciels</category>
         

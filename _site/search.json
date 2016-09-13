@@ -1,6 +1,12 @@
 [
   
     {
+      "title"     : "LaPrimaire.org",
+      "url"       : "/laprimaire-org",
+      "thumbnail" : "/img/projets/"
+    } ,
+  
+    {
       "title"     : "theactivist.eu",
       "url"       : "/theactivist-eu",
       "thumbnail" : "/img/projets/"
