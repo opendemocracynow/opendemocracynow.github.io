@@ -28,8 +28,12 @@ prose:
   - CNAME
   - /js
   - /css
-  - /sass
+  - /_sass
+  - /contact.html
+  - /merci
+  - /hackathons
   - /infos
+  - /site
   - /projets
   - _config.yml
   - /_layouts
