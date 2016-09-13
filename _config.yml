@@ -33,7 +33,7 @@ prose:
   - /merci
   - /hackathons
   - /infos
-  - /site
+  - /_site
   - /projets
   - _config.yml
   - /_layouts
