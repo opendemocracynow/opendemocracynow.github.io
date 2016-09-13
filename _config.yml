@@ -107,8 +107,8 @@ prose:
       element: "button"
       label: "Statut du projet"
       help: "le projet est-il encore actif?"
-      on: "true"
-      off: "false"
+      on: "false"
+      off: "true"
   _hackathons:
    - name: "layout"
      field:
