@@ -7,6 +7,7 @@ img: "laprimaire-logo.png"
 rep: "Thibaud Favre"
 repmail: "thibauld@democratech.co"
 repimg: "thibaud-favre.jpg"
+active: true
 
 socialmatter1: "home"
 sociallink1: "https://laprimaire.org "

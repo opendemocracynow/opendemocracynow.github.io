@@ -32,7 +32,6 @@ prose:
   - /sass
   - /infos
   - /projets
-  - /hackathons
   - _config.yml
   - /_layouts
   - /_includes
@@ -102,12 +101,12 @@ prose:
       label: "Commentaires"
       help: "activer ou non le module Disqus"
       value: true
-   - name: "finished"
+   - name: "active"
      field:
       element: "checkbox"
       label: "Statut du projet"
       help: "le projet est-il encore actif?"
-      value: false
+      value: true
   _hackathons:
    - name: "layout"
      field:
