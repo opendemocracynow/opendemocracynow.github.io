@@ -51,6 +51,24 @@ prose:
          value: "logiciels"
        - name: "Ateliers"
          value: "ateliers"
+   - name: "comments"
+     field:
+      element: "checkbox"
+      label: "Commentaires"
+      help: "Activer ou non le module Disqus"
+      value: true
+   - name: "active"
+     field:
+      element: "checkbox"
+      label: "Statut du projet"
+      help: "le projet est-il encore actif? Décochez la case s'il est terminé"
+      value: true
+   - name: "published"
+     field:
+      element: "checkbox"
+      label: "Publié"
+      help: "Activer/désactiver la publication"
+      value: true
    - name: "title"
      field:
      element: "text"
@@ -95,18 +113,6 @@ prose:
       label: "texte du 1er lien social"
       placeholder: "page facebook d'ODN"
       help: "Le texte s'affiche dans le social-button"
-   - name: "comments"
-     field:
-      element: "checkbox"
-      label: "Commentaires"
-      help: "Activer ou non le module Disqus"
-      value: true
-   - name: "active"
-     field:
-      element: "checkbox"
-      label: "Statut du projet"
-      help: "le projet est-il encore actif? Décochez la case s'il est terminé"
-      value: true
   _hackathons:
    - name: "layout"
      field:
