@@ -19,8 +19,7 @@ paginate: 8
 paginate_path: "/projets/page:num/"
 prose:
  siteurl: 'http://opendemocracynow.net/'
- relativeLinks: 'http://prose.github.io/starter/links.jsonp'
- media: 'medias'
+ media: 'img'
  ignore:
   - index.html
   - feed.xml
