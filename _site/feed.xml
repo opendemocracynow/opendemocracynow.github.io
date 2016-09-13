@@ -6,8 +6,8 @@
 </description>
     <link>http://opendemocracynow.net//</link>
     <atom:link href="http://opendemocracynow.net//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Sep 2016 10:10:42 +0200</pubDate>
-    <lastBuildDate>Tue, 13 Sep 2016 10:10:42 +0200</lastBuildDate>
+    <pubDate>Tue, 13 Sep 2016 17:26:31 +0200</pubDate>
+    <lastBuildDate>Tue, 13 Sep 2016 17:26:31 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -45,6 +45,147 @@
       </item>
     
       <item>
+        <title>e-Participate comme vecteur d'amélioration (construction, d'évolution) de la Démocratie en Afrique.</title>
+        <description>&lt;p&gt;Le projet a pour objectif d’expliquer les différents dispositifs pouvant  permettre aux organismes publics  (Conseils municipaux, Commissions, Débats parlementaires, …) d’inciter et d’élargir la participation,  des citoyens dans le processus démocratique via les outils numériques.&lt;/p&gt;
+
+&lt;p&gt;Accompagner les élus locaux pour moderniser leur communication en direction des populations. Ainsi, des  multiples services peuvent être mis à contribution au service du citoyen. Il faut s’imaginer que les populations pourront utiliser internet pour demander des comptes au conseil municipal ou autre organisme public, quelque soi le lieu et sans limitation de temps. Une brèche serait ainsi ouverte pour « la démocratie électronique ». Cette innovation (révolution) permettra aux collectivités territoriales décentralisées de s’ouvrir aux citoyens et au monde. Cette ouverture, permettra de bénéficier de l’information à la demande. C’est aussi l’occasion d’avoir accès à une multitude d’opportunités, avoir accès à une intelligence collective d’une taille et d’une vitesse inédites.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;entretient-avec-thibaud-favre-porteur-du-projet&quot;&gt;Entretient avec Thibaud Favre porteur du projet&lt;/h5&gt;
+
+&lt;h6 id=&quot;quest-ce-qui-ta-donn-envie-de-participer-au-hackathon-&quot;&gt;Qu’est-ce qui t’a donné envie de participer au hackathon ?&lt;/h6&gt;
+&lt;p&gt;Recherche permanente des outils, des modèles, innovants de contribution pour la résolution créative de problèmes ù’a conduis à adhérer à la vision d’un hackathon comme le votre pour partager et échanger sur ma vision de démocratie via des outils numériques où l’Afrique reste encore malheureusement dans les derniers wagons&lt;/p&gt;
+
+&lt;h6 id=&quot;quels-sont-tes-objectifs-avec-ce-projet-dans-le-cadre-&quot;&gt;Quels sont tes objectifs avec ce projet dans le cadre ?&lt;/h6&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Relancer et  Mettre en place une équipe de travail pour poursuivre le projet au Cameroun où le projet avait déjà été initié, pays bilignue (Anglais au nord/Français au sud) ;&lt;/li&gt;
+  &lt;li&gt;Susciter l’intérêt d’un tel projet au plus haut niveau ;&lt;/li&gt;
+  &lt;li&gt;Avec les pays ou les villes qui seront d’accord, Imaginer, Concevoir et  déployer une plate-forme eParticipation multimédia d’une suite d’applications pour permettre aux organismes publics d’élargir la participation des citoyens dans le processus démocratique ;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&quot;quelles-tapes-as-tu-dj-franchies&quot;&gt;Quelles étapes as-tu déjà franchies?&lt;/h6&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Expérimentation et Mise en place du Webcasting en France Ville d’Elancourt)
+Expérience de partage avec 10 villes des pays européens qui ont participé au projet eParticipation.
+(Vysocina en Rép. Tchèque/ Odder au Danemark / Bristol en Angleterre/ Getafe en Espagne…) ;&lt;/li&gt;
+  &lt;li&gt;1 ère expérience d’exposition et d’échanges avec 40 commune du Cameroun en 2009 ;   &lt;/li&gt;
+  &lt;li&gt;Débat sur le e Participate en République Démocratique du Congo (intégrer le citoyen au débat public) ;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&quot;quels-sont-tes-besoins-pour-avancer-dveloppeurs-graphistes-citoyens-motives-spcialistes-dun-domaine-etc-&quot;&gt;Quels sont tes besoins pour avancer (développeurs, graphistes, citoyens motivées, spécialistes d’un domaine etc.) ?&lt;/h6&gt;
+
+&lt;p&gt;Développer le système « low cost »  basé sur une architecture client / serveur. Le codeur client PC est utilisé pour capturer et encoder le contenu A / V. Le contenu codé est transmis en continu aux côtés de l’information contextuelle en direct. paramètres de l’encodeur client sont synchronisées avec la base de données du serveur central qui stocke toutes les données diffusées sur le Web et le système. La communication série est utilisé pour contrôler le matériel contenu de capture. Toute autre communication se déroule sur TCP / IP. L’encodeur client est connecté au réseau public-i via ligne directe RNIS ou ADSL afin d’assurer la connectivité incontestée.&lt;/p&gt;
+
+&lt;h6 id=&quot;ce-qui-te-passe-par-la-tte-et-que-tu-veux-nous-communiquer&quot;&gt;Ce qui te passe par la tête et que tu veux nous communiquer &lt;/h6&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Que l’Afrique peine et souffre de la corruption (voir les différentes élections réalisées dans ce continent où les arbitres sont les Européens avec la Commission Européenne) ;
+Apporter un minimum de transparence à l’action politique des pays d’Afriques ;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 13 Sep 2016 00:00:00 +0200</pubDate>
+        <link>http://opendemocracynow.net//democratie_en_afrique</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//democratie_en_afrique</guid>
+        
+        <category>Logiciels</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>DemocracyBox</title>
+        <description>&lt;p&gt;DemocracyBox  sur RaspBerry Pi 3 / TV / vidéoproj : 
+Outil numérique mobile de travail collaboratif citoyen —&amp;gt; des services utiles aux réunions publiques, au suivi du travail accompli en ateliers démocratiques, y compris en mode projet.&lt;/p&gt;
+
+&lt;p&gt;L’objectif de cet atelier est de concevoir et réaliser un outil numérique mobile de suivi du travail et des projets coopératifs sur base de RaspBerry Pi 3.&lt;/p&gt;
+
+&lt;p&gt;Il s’agit de mettre à disposition facilement un ensemble simple et configurable de services et documents collaboratifs, ressources, médias… – concentrés en un endroit identifié pendant les réunions (type pirateBox) et accessibles entre les réunions, sur internet, une fois la DemocracyBox rebranchée sur une Box de FAI.&lt;/p&gt;
+
+&lt;p&gt;Etat d’avancement : réflexion avancée au forum des usages coopératifs de Brest.&lt;/p&gt;
+
+&lt;p&gt;Quelles technos ?&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;RaspBerry Pi 3 ;&lt;/li&gt;
+  &lt;li&gt;une sélection modulable de services web (outils de travail collaboratif : tableau blanc, etherpad lite, wiki, outil de vote / contributions, enquête / sondage, CMS, serveur de médias, base documentaire, agenda, etc.) ;&lt;/li&gt;
+  &lt;li&gt;box déconnectée / (re)connectable ;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;latelier-dans-le-cadre-de-odn&quot;&gt;L’atelier dans le cadre de ODN&lt;/h5&gt;
+
+&lt;p&gt;L’atelier proposé se situe en prolongement du travail entrepris lors du dernier forum des usages de Brest, suite à notre expérience des réunions et ateliers démocratiques citoyens, et aux difficultés rencontrées à ces occasions.&lt;/p&gt;
+
+&lt;p&gt;On constate trop souvent :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;une sous-utilisation du numérique comme auxiliaire du travail démocratique citoyen, comme outil de démocratie participative ou liquide, de consultation, d’expression, de synthèse et d’approfondissement collaboratifs (conduisant du coup à des initiatives individuelles plus ou moins improvisées) ;&lt;/li&gt;
+  &lt;li&gt;Un manque d’accès aux documents / bases de travail des groupes ;
+« Tu as vu le document que l’on a travaillé avec… ? Non je n’ai pas eu le mail » ;
+De l’information et des ressources sont souvent éparpillées sur différentes urls, ou inconnues de trop de participants … ;&lt;/li&gt;
+  &lt;li&gt;la nécessité de faciliter l’accès en réunion aux outils de travail collaboratif, de contributions, de vote, … ;&lt;/li&gt;
+  &lt;li&gt;des conférences et ateliers ont lieu simultanément sans qu’on puisse toujours avoir un accès après coup, centralisé et identifié, aux contributions manquées, compte-rendus et synthèses de travaux, prolongements possibles … ;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pour continuer de concevoir, et désormais réaliser collaborativement un prototype abouti et opérationnel de cet outil dans le cadre du hackathon, nous avons besoin de :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;citoyens motivés pour affiner la conception modulaire et définir la présentation et l’accès aux services proposés ;&lt;/li&gt;
+  &lt;li&gt;spécialistes du coopératif et des outils de travail collaboratif ;&lt;/li&gt;
+  &lt;li&gt;linuxiens, « raspbianistes », etc. pour la discussion sur les performances, et par ailleurs l’installation et le paramétrage de ceux-ci&lt;/li&gt;
+  &lt;li&gt;dév(s). Javascript, Php pour réaliser l’interface, configurable, d’accès (sous WordPress) aux services ;&lt;/li&gt;
+  &lt;li&gt;designer et graphiste(s) pour concevoir et réaliser une interface « simple, accessible à tous, attractive et engageante, mobilisatrice et progressive » ;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Le résultat sera documenté et mis en open source.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 13 Sep 2016 00:00:00 +0200</pubDate>
+        <link>http://opendemocracynow.net//democracy_box</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//democracy_box</guid>
+        
+        <category>Logiciels, Hardware</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Débapédia, une encyclopédie de débats</title>
+        <description>&lt;p&gt;Pour ceux qui veulent se forger une opinion sur un sujet donné. Pour ceux qui cherchent à connaître les différentes positions d’un débat sans passer des heures à rechercher des arguments éparpillés sur la toile.&lt;/p&gt;
+
+&lt;p&gt;Débapédia.org est une encyclopédie de débats, c’est-à-dire de pages qui visent à compiler ces arguments de façon simple et organisée. Résumé en quelques lignes, chacun des arguments est catégorisé en pour ou contre et est mis face à l’ensemble des objections qui lui sont généralement adressées. Pour chaque argument ou objection, une page détaillée vient apporter plus d’informations : des exemples, des chiffres, des citations ou le nom de ses principaux défenseurs.&lt;/p&gt;
+
+&lt;p&gt;Pour chaque débat, un ensemble de ressources complémentaires (bibliographie, sitographie, filmographie) sont apportées à ceux qui souhaiteraient approfondir leur connaissance du sujet. Un système de renvois (« Débat connexe » ou « Débat détaillé ») permet par ailleurs de relier les différents débats entre eux, étant donné qu’un débat est avant tout un ensemble de positions pouvant chacune d’entre elles faire l’objet d’un débat.&lt;/p&gt;
+
+&lt;p&gt;Le site fonctionne selon le principe d’un wiki. Collaboratif, libre de droits, le contenu est apporté par les utilisateurs par une interface similaire à celle de Wikipédia. Ce contenu peut ainsi être réutilisé sur d’autres dispositifs numériques de démocratie, l’objectif de cette encyclopédie étant d’abord celui de fournir les informations nécessaires à la participation du plus grand nombre à la vie de la cité.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;latelier-dans-le-cadre-de-odn&quot;&gt;L’atelier dans le cadre de ODN&lt;/h5&gt;
+
+&lt;p&gt;L’encyclopédie est en ligne mais le projet est encore en cours de lancement. Le but de ce premier atelier sera alors avant tout de présenter Débapédia afin de recueillir différents avis et conseils qui serviront à l’élaboration finale du site.&lt;/p&gt;
+
+&lt;p&gt;En particulier, les besoins sont les suivants :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Une piste envisagée est de présenter les arguments d’un débat donné sous forme d’un sommaire où chaque titre correspond à une section déroulante. Cette présentation est-elle suffisamment intuitive ? Comment l’améliorer ?&lt;/li&gt;
+  &lt;li&gt;Dans cette optique, il serait judicieux de présenter, dans la version mobile du site, tous les titres et sous-titres d’une page sous forme de sections déroulantes. L’extension Mobile Frontend, qui permet justement d’afficher cette version mobile, ne propose malheureusement pas par défaut d’afficher les sous-titres sous forme de sections déroulantes, mais le permet pour les titres. Il s’agirait d’étendre cette fonction aux sous-titres en modifiant le code de Mobile Frontend, qui est écrit en langage PHP ;&lt;/li&gt;
+  &lt;li&gt;Enfin, le logo principal du site, la bannière de la page d’accueil ainsi que différents logos représentant un argument pour, un argument contre et une objection sont à dessiner. L’aide d’un designer serait la bienvenue ;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pour ceux qui seraient intéressés par le projet, RDV dimanche 18 septembre après-midi dans le cadre du quatrième Hackathon.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 13 Sep 2016 00:00:00 +0200</pubDate>
+        <link>http://opendemocracynow.net//debapedia</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//debapedia</guid>
+        
+        <category>Logiciels</category>
+        
+        
+      </item>
+    
+      <item>
         <title>theactivist.eu</title>
         <description>&lt;p&gt;Créer une plate-forme donnant aux citoyens le pouvoir de concrétiser leur vision de société en les connectant avec d’autres qui partagent les memes idées dans leur quartier aussi bien qu’au niveau Européen, créant ainsi un mouvement d’Activistes capable d’agir à tous les niveaux en partant de chez soi.&lt;/p&gt;
 
@@ -57,7 +198,7 @@
 &lt;h6 id=&quot;quest-ce-qui-ta-donn-envie-de-participer-au-hackathon-&quot;&gt;Qu’est-ce qui t’a donné envie de participer au hackathon ?&lt;/h6&gt;
 &lt;p&gt;J’ai décidé de participer per à cet Hackathon pour developper une nouvelle plateforme de democracie participative afin de relier le developement d’activites au niveau tres local aux grand defis de l’Europe d’aujourd’hui.&lt;/p&gt;
 
-&lt;h6 id=&quot;quels-sont-tes-objectifs-avec-ce-projet-dans-le-cadre&quot;&gt;Quels sont tes objectifs avec ce projet dans le cadre&lt;/h6&gt;
+&lt;h6 id=&quot;quels-sont-tes-objectifs-avec-ce-projet-dans-le-cadre-&quot;&gt;Quels sont tes objectifs avec ce projet dans le cadre ?&lt;/h6&gt;
 &lt;p&gt;de ce hackathon et à plus long terme ? 
 J’espere que cet hackathon va nous aider à concretiser ce projet en nous appuyant sur la connassance technique des participants pour pouvoir le mettre en place au niveau Européen et à dispositions des citoyens qui veulent donner une nouvelle impulsion postive au projet européén.&lt;/p&gt;
 
@@ -271,72 +412,6 @@ collectivement afin de refléter tous les points de vue. On pourrait penser qu�
         <guid isPermaLink="true">http://opendemocracynow.net//usages-associes</guid>
         
         <category>Ateliers</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Boîte à outils open gov</title>
-        <description>&lt;p&gt;Référencer les logiciels et les services numériques développés et utilisés par les administrations ou par la société civile à travers le monde, pour encourager leur partage et leur réutilisation.&lt;/p&gt;
-
-&lt;p&gt;“Portails d’open data, plateformes de consultation citoyenne, outils de suivi et d’élaboration collaborative de la loi, forums, civic-techs, plateformes en ligne d’évaluation des plans d’action nationaux… : il existe en effet de nombreux logiciels et services numériques à travers le monde, développés et utilisés par les administrations ou par la société civile, qui pourraient être référencés, partagés et réutilisés.&lt;/p&gt;
-
-&lt;p&gt;Cette « boîte à outils », qui sera agrémentée de cas d’usages et de critères permettant de se repérer dans les solutions disponibles, visera ainsi à la fois à faciliter la mise en œuvre des engagements pris par les gouvernements dans le cadre de leurs plans d’action nationaux, et à favoriser le partage de ressources et d’expériences, et les coopérations entre membres du partenariat.&lt;/p&gt;
-
-&lt;p&gt;Jusqu’à Décembre, des sprints de contribution verront des agents de l’administration, des représentants de la société civile, des entreprises, des start-ups et des membres de la communauté civic-tech co-construire cette « boîte à outils ». Le lancement de la plateforme aura lieu lors de la clôture du hackathon du Sommet Mondial du Partenariat pour un Gouvernement Ouvert, le 8 et 9 Décembre 2016.”&lt;/p&gt;
-
-&lt;p&gt;Paula Forteza, Étalab&lt;/p&gt;
-</description>
-        <pubDate>Sat, 18 Jun 2016 00:00:00 +0200</pubDate>
-        <link>http://opendemocracynow.net//toolbox</link>
-        <guid isPermaLink="true">http://opendemocracynow.net//toolbox</guid>
-        
-        <category>Logiciels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Politique de contribution aux logiciels libres dans l’administration</title>
-        <description>&lt;p&gt;Faciliter et accompagner la contribution aux logiciels libres pour les développeurs qui travaillent pour l’administration, agents ou prestataires.&lt;/p&gt;
-
-&lt;p&gt;L’objectif de cette politique de contribution aux logiciels libres est d’apporter les bonnes pratiques et de définir le minimum de règles à respecter. A destination des développeurs, elle doit permettre de leur apporter reconnaissance nominative et valoriser les contributions, tant sur le plan personnel que professionnel. Le périmètre et les thèmes de cette politique de contribution restent à fixer et seront établis de manière collaborative en utilisant les discussions sur le forum Etalab.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;latelier-dans-le-cadre-de-odn&quot;&gt;L’atelier dans le cadre de ODN&lt;/h5&gt;
-
-&lt;p&gt;Dans le cadre du plan national du Partenariat pour un Gouvernement Ouvert (PGO) des engagements ont été pris pour faciliter la réutilisation des ressources numériques et pour ouvrir les administrations elles-mêmes. Un Etat est avant tout un système d’information, avec des données et des logiciels. Ouvrir les algorithmes passe concrètement par la publication du code source, idéalement en tant que logiciels libres pour permettre leur modification. Cette politique a pour objectif de lever les verrous dans l’administration en s’adressant directement aux développeurs tout en définissant les règles à respecter. Tout développeur, juriste, chef de projet, dans l’administration ou travaillant pour l’administration est invité à contribuer.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 18 Jun 2016 00:00:00 +0200</pubDate>
-        <link>http://opendemocracynow.net//politique-de-contribution</link>
-        <guid isPermaLink="true">http://opendemocracynow.net//politique-de-contribution</guid>
-        
-        <category>Logiciels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>DroitDirect.fr</title>
-        <description>&lt;p&gt;DroitDirect.fr est une plateforme numérique d’accès aux droits fondamentaux généraliste, collaborative et interactive, replaçant la personne dans un parcours de droit et l’accompagnant dans ses démarches administratives et juridiques.&lt;/p&gt;
-
-&lt;p&gt;DroitDirect.fr a pour vocation de devenir une base de données des connaissances acquises par les équipes de Droits d’urgence dans le cadre de leurs permanences juridiques, accessible à tous, en facilitant et simplifiant l’identification des problèmes juridiques rencontrés par la personne, les dispositions administratives et juridiques qui s’y rapportent, les acteurs et dispositifs susceptibles d’aider à la mise en œuvre des droits concernés, l’accès et l’aide à la constitution des formulaires et l’orientation de la personne vers toutes les ressources locales pertinentes.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;latelier-dans-le-cadre-de-odn&quot;&gt;L’atelier dans le cadre de ODN&lt;/h5&gt;
-
-&lt;p&gt;Nous aimerions profiter de l’événement (Hackathon #3) pour prolonger les travaux sur la maquette réalisée en décembre 2015, dans le cadre du défi Open Law Europa, et développer des premières briques logicielles à partir des cas d’usage que nous avons identifiés et finaliser un cahier des charges, pour pouvoir réaliser un prototype que nous aimerions bêta-tester à la fin de l’année. Nous avons obtenu le prix Open Law AXA Protection Juridique en septembre 2015 et sollicité depuis des partenaires financiers et opérationnels qui ont marqué un réel intérêt pour nous fournir un premier financement et/ou des compétences (Ville Paris, AXA Protection Juridique, Ecole 42, Simplon, Comptoir de l’Innovation, grands cabinets d’avocats, fondations, …).&lt;/p&gt;
-
-&lt;p&gt;Nous aurons un ensemble de « petites » tâches pour lesquelles vos contributions seraient précieuses : traductions, rédaction d’articles, ajouts de fonctionnalité… N’hésites pas à nous rejoindre quelque soit ton profil (développeur, graphiste, citoyen curieux de contribuer..) !&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 18 Jun 2016 00:00:00 +0200</pubDate>
-        <link>http://opendemocracynow.net//droitdirect</link>
-        <guid isPermaLink="true">http://opendemocracynow.net//droitdirect</guid>
-        
-        <category>Logiciels</category>
         
         
       </item>

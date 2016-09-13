@@ -7,6 +7,24 @@
     } ,
   
     {
+      "title"     : "e-Participate comme vecteur d&#39;amélioration (construction, d&#39;évolution) de la Démocratie en Afrique.",
+      "url"       : "/democratie_en_afrique",
+      "thumbnail" : "/img/projets/"
+    } ,
+  
+    {
+      "title"     : "DemocracyBox",
+      "url"       : "/democracy_box",
+      "thumbnail" : "/img/projets/democracybox.png"
+    } ,
+  
+    {
+      "title"     : "Débapédia, une encyclopédie de débats",
+      "url"       : "/debapedia",
+      "thumbnail" : "/img/projets/banniere-debapedia.png"
+    } ,
+  
+    {
       "title"     : "theactivist.eu",
       "url"       : "/theactivist-eu",
       "thumbnail" : "/img/projets/"
