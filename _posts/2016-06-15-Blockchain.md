@@ -6,8 +6,7 @@ img: "blockchain.jpg"
 rep: "Louis Margot-Duclot"
 repmail: "louis@democracyos.earth"
 repimg: "louis-margot-duclot.jpg"
-active: "actif"
-
+finished: false
 
 socialmatter5: "twitter"
 sociallink5: "https://twitter.com/lmargotduclot"

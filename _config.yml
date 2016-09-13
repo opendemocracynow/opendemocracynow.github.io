@@ -102,13 +102,12 @@ prose:
       label: "Commentaires"
       help: "activer ou non le module Disqus"
       value: true
-   - name: "active"
+   - name: "finished"
      field:
-      element: "button"
+      element: "checkbox"
       label: "Statut du projet"
       help: "le projet est-il encore actif?"
-      on: "actif"
-      off: "fini"
+      value: false
   _hackathons:
    - name: "layout"
      field:

@@ -6,7 +6,7 @@ img: "civictest.jpg"
 rep: "Virgile Deville"
 repmail: "virgile@democracyos.eu"
 repimg: "virgile.jpg"
-active: "fini"
+finished: true
 
 socialmatter1: "home"
 sociallink1: "http://civictech.lol/"
