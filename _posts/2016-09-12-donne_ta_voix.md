@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "Donne ta voix"
-tag: Atelier
+tag: Ateliers
 rep: "Olivier Buchotte"
 img: "Bandeau-DTV.jpg"
 repmail: "donnetavoix@gmail.com"
@@ -10,9 +10,7 @@ repmail: "donnetavoix@gmail.com"
 ---
 
 2017, naufrage de la démocratie dans une présidentielle où la farce du déjà-vu le dispute à l’angoisse des extrêmes.
-De nombreux citoyens ont d’ores et déjà décidé de ne pas voter.
-Nous leur disons : 
-DONNE TA VOIX !
+De nombreux citoyens ont d’ores et déjà décidé de ne pas voter. Nous leur disons : DONNE TA VOIX !
 
 Nous voulons permettre aux déçus de la République de réinvestir de façon festive cette élection, sans cautionner des candidats ou des partis qui sont à leur yeux disqualifiés.
 Nous leur proposons d’utiliser leur droit de procuration via un site de rencontres. L’idée-force est de donner sa voix, sans consigne de vote, à la suite d’une rencontre quasi-amoureuse, trans-générationnelle, trans-philosophique ou trans-communautaire.
@@ -28,13 +26,15 @@ L’atelier doit permettre d’établir une maquette du projet et d’identifier
 
 ##### Contenu de l'atelier
 
-Analyse des forces et des faiblesses du projet. 
+Analyse des forces et des faiblesses du projet
+
 - Position juridique ;
 - Critères pour l’appariement (matching) des donneurs et des receveurs ;
 - Anticipation des questions-réponses ;
 - Neutralisation de la captation des voix par les équipes de campagne des candidats ;
 
 Préfiguration du dispositif
+
 - quel modèle pour le site de rencontre ?
 - envisager une gouvernance participative, pendant le montage et pendant le déroulement du projet ;
 - lister les compétences nécessaires : production, animation, gestion, communication, cohérence du discours ;
