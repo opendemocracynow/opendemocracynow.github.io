@@ -7,7 +7,7 @@ img: "dos_banner.png"
 rep: "Caroline Corbal"
 repmail: "contact@democracyos.eu"
 repimg: "c-corbal.png"
-active: true
+active: "true"
 
 socialmatter1: "home"
 sociallink1: "http://democracyos.eu/"
