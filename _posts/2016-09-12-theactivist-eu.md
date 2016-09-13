@@ -25,7 +25,7 @@ Les media sociaux mettent en connection des gens qui habitent très loins mais s
 ###### Qu’est-ce qui t’a donné envie de participer au hackathon ? 
 J'ai décidé de participer per à cet Hackathon pour developper une nouvelle plateforme de democracie participative afin de relier le developement d'activites au niveau tres local aux grand defis de l'Europe d'aujourd'hui.
 
-###### Quels sont tes objectifs avec ce projet dans le cadre 
+###### Quels sont tes objectifs avec ce projet dans le cadre ?
 de ce hackathon et à plus long terme ? 
 J'espere que cet hackathon va nous aider à concretiser ce projet en nous appuyant sur la connassance technique des participants pour pouvoir le mettre en place au niveau Européen et à dispositions des citoyens qui veulent donner une nouvelle impulsion postive au projet européén.
 
