@@ -6,7 +6,7 @@ tag: Logiciels
 img: "laprimaire-logo.png"
 rep: "Thibaud Favre"
 repmail: "thibauld@democratech.co"
-repimg: "thibaud-favre.png"
+repimg: "thibaud-favre.jpg"
 
 socialmatter1: "home"
 sociallink1: "https://laprimaire.org "
