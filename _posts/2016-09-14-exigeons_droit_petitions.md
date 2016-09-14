@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Exerçons notre droit de pétitions !"
 tag: Logiciels, Hardware
-img: "democracybox.png"
+img: "pouraix.png"
 rep: "Guillaume RICAUD-PERETTI"
 repmail: "grperetti@pouraix.fr"
 repimg:
@@ -31,6 +31,10 @@ socialtext5: Compte twitter
 socialmatter6: "envelope"
 sociallink6: "mailto:contact@pouraix.fr"
 socialtext6: Email de l'association
+
+socialmatter7: "tumblr"
+sociallink7: " http://twitter.com/pouraix"
+socialtext7: Compte twitter
 
 ---
 
