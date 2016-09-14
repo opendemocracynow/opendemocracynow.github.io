@@ -19,7 +19,7 @@ paginate: 8
 paginate_path: "/projets/page:num/"
 prose:
  siteurl: 'http://opendemocracynow.net/'
- media: 'media'
+ media: 'img'
  ignore:
   - index.html
   - feed.xml
