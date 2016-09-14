@@ -6,12 +6,12 @@
 </description>
     <link>http://opendemocracynow.net//</link>
     <atom:link href="http://opendemocracynow.net//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Sep 2016 20:18:35 +0200</pubDate>
-    <lastBuildDate>Wed, 14 Sep 2016 20:18:35 +0200</lastBuildDate>
+    <pubDate>Wed, 14 Sep 2016 23:42:15 +0200</pubDate>
+    <lastBuildDate>Wed, 14 Sep 2016 23:42:15 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Exploitation de données parlementaires</title>
+        <title>Expédition Open Data «semaine pour les parlements ouverts»</title>
         <description>&lt;p&gt;Profiter de la semaine « pour les parlements ouverts », pour expliquer, réutiliser et enrichir l’OpenData disponibles sur le Parlement français : démonstration des données existantes (APIs et dumps), analyses de proximité, études statistiques, visualisations…&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.nosdeputes.fr/&quot;&gt;NosDéputés.fr&lt;/a&gt;, &lt;a href=&quot;http://www.nossenateurs.fr/&quot;&gt;NosSénateurs.fr&lt;/a&gt; ainsi que les sites des parlements proposent des données en Open Data relatives à l’activité des parlementaires. Si quelques chercheurs, hacktivistes ou journalistes les utilisent régulièrement dans leurs travaux, ces jeux de données pourraient être plus massivement utilisés pour mieux comprendre le travail ou les enjeux qui se trament à l’Assemblée ou au Sénat.&lt;/p&gt;
