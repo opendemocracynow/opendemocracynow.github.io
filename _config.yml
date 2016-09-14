@@ -17,6 +17,256 @@ github_username:  opendemocracynow
 gems: [jekyll-paginate, jekyll-admin]
 paginate: 8
 paginate_path: "/projets/page:num/"
+prose:
+ siteurl: 'http://opendemocracynow.net/'
+ media: 'img'
+ ignore:
+  - index.html
+  - feed.xml
+  - search.json
+  - CNAME
+  - /js
+  - /css
+  - /_sass
+  - /contact.html
+  - /merci
+  - /hackathons
+  - /infos
+  - /_site
+  - /projets
+  - _config.yml
+  - /_layouts
+  - /_includes
+ metadata:
+  _posts:
+   - name: "layout"
+     field:
+      element: "hidden"
+      value: "post"
+   - name: "tag"
+     field:
+      element: "multiselect"
+      label: "Ajouter un tag"
+      placeholder: "choisir un tag"
+      options:
+       - name: "Logiciels"
+         value: "logiciels"
+       - name: "Ateliers"
+         value: "ateliers"
+   - name: "comments"
+     field:
+      element: "checkbox"
+      label: "Commentaires"
+      help: "Activer ou non le module Disqus"
+      value: true
+   - name: "active"
+     field:
+      element: "checkbox"
+      label: "Projet actif"
+      help: "le projet est-il encore actif? Décochez la case s'il est terminé"
+      value: true
+   - name: "published"
+     field:
+      element: "checkbox"
+      label: "Publié"
+      help: "Activer/désactiver la publication"
+      value: true
+   - name: "title"
+     field:
+     element: "text"
+     label: "title"
+   - name: "img"
+     field:
+      element: "text"
+      label: "image du projet"
+      placeholder: "image1.jpg"
+      help: "Image du projet, à placer dans le dossier img/projets"
+   - name: "rep"
+     field:
+      element: "text"
+      label: "Représentant du projet"
+      placeholder: "Jean Dupont"
+   - name: "repmail"
+     field:
+      element: "text"
+      label: "e-mail du représentant du projet"
+      placeholder: "jeandupont@gmail.com"
+   - name: "repimg"
+     field:
+      element: "text"
+      label: "photo de profil du représentant"
+      placeholder: "jeandupont.jpg"
+      help: "placer l'image dans le dossier /img/people en format carré"
+   - name: "socialmatter1"
+     field:
+      element: "text"
+      label: "1er lien social"
+      placeholder: "facebook/twitter..."
+      help: "Nom du réseau social, sans lettre majuscule"
+   - name: "sociallink1"
+     field:
+      element: "text"
+      label: "URL du 1er lien social"
+      placeholder: "https://facebook.com/odn"
+      help: "Adresse de la page du réseau social"
+   - name: "socialtext1"
+     field:
+      element: "text"
+      label: "Texte du 1er lien social"
+      placeholder: "Page facebook d'ODN"
+      help: "Le texte qui s'affiche dans le social-button"
+   - name: "socialmatter2"
+     field:
+      element: "text"
+      label: "2ème lien social"
+      placeholder: "facebook/twitter/github..."
+      help: "Nom du réseau social, sans lettre majuscule"
+   - name: "sociallink2"
+     field:
+      element: "text"
+      label: "URL du 2ème lien social"
+      placeholder: "https://facebook.com/odn"
+      help: "Adresse de la page du réseau social"
+   - name: "socialtext2"
+     field:
+      element: "text"
+      label: "Texte du 2ème lien social"
+      placeholder: "Page facebook d'ODN"
+      help: "Le texte qui s'affiche dans le social-button"
+   - name: "socialmatter3"
+     field:
+      element: "text"
+      label: "3ème lien social"
+      placeholder: "facebook/twitter/github..."
+      help: "Nom du réseau social, sans lettre majuscule"
+   - name: "sociallink3"
+     field:
+      element: "text"
+      label: "URL du 3ème lien social"
+      placeholder: "https://facebook.com/odn"
+      help: "Adresse de la page du réseau social"
+   - name: "socialtext3"
+     field:
+      element: "text"
+      label: "Texte du 3ème lien social"
+      placeholder: "Page facebook d'ODN"
+      help: "Le texte qui s'affiche dans le social-button"
+   - name: "socialmatter4"
+     field:
+      element: "text"
+      label: "4ème lien social"
+      placeholder: "facebook/twitter/github..."
+      help: "Nom du réseau social, sans lettre majuscule"
+   - name: "sociallink4"
+     field:
+      element: "text"
+      label: "URL du 4ème lien social"
+      placeholder: "https://facebook.com/odn"
+      help: "Adresse de la page du réseau social"
+   - name: "socialtext4"
+     field:
+      element: "text"
+      label: "Texte du 4ème lien social"
+      placeholder: "Page facebook d'ODN"
+      help: "Le texte qui s'affiche dans le social-button"
+   - name: "socialmatter5"
+     field:
+      element: "text"
+      label: "5ème lien social"
+      placeholder: "facebook/twitter/github..."
+      help: "Nom du réseau social, sans lettre majuscule"
+   - name: "sociallink5"
+     field:
+      element: "text"
+      label: "URL du 5ème lien social"
+      placeholder: "https://facebook.com/odn"
+      help: "Adresse de la page du réseau social"
+   - name: "socialtext5"
+     field:
+      element: "text"
+      label: "Texte du 5ème lien social"
+      placeholder: "Page facebook d'ODN"
+      help: "Le texte qui s'affiche dans le social-button"
+   - name: "socialmatter6"
+     field:
+      element: "text"
+      label: "6ème lien social"
+      placeholder: "facebook/twitter/github..."
+      help: "Nom du réseau social, sans lettre majuscule"
+   - name: "sociallink6"
+     field:
+      element: "text"
+      label: "URL du 6ème lien social"
+      placeholder: "https://facebook.com/odn"
+      help: "Adresse de la page du réseau social"
+   - name: "socialtext6"
+     field:
+      element: "text"
+      label: "Texte du 6ème lien social"
+      placeholder: "Page facebook d'ODN"
+      help: "Le texte qui s'affiche dans le social-button"
+  _hackathons:
+   - name: "title"
+     field:
+     element: "text"
+     label: "title"
+   - name: "layout"
+     field:
+      element: "hidden"
+      value: "post-hackathon"
+   - name: "nextevent"
+     field:
+      element: "checkbox"
+      label: "Prochain hackathon?"
+      help: "Activer si ce hackathon est le prochain événement ODN"
+      value: true
+   - name: "moment"
+     field:
+      element: "text"
+      label: "Date du hackathon"
+      placeholder: "ex: du 16 au 18 septembre 2016"
+   - name: "place"
+     field:
+      element: "text"
+      label: "Lieu du hackathon"
+      help: "Nom ou adresse du lieu où se déroule le hackathon"
+      placeholder: "ex: Fondation Mozilla Paris"
+   - name: "img"
+     field:
+      element: "text"
+      label: "Image du projet"
+      placeholder: "hackathon4.jpg"
+      help: "placer l'image dans le dossier /img/hackathons"
+   - name: "eventurl"
+     field:
+      element: "text"
+      label: "Lien pour l'inscription"
+      placeholder: "https://www.eventbrite.fr..."
+      help: "URL complet de la page d'inscription"
+   - name: "notes"
+     field:
+      element: "text"
+      label: "Lien pour le pad/notes du hackathon"
+      placeholder: "https://mypads.framapad.org..."
+      help: "URL complet de la page du pad/notes"
+   - name: "objectif1"
+     field:
+      element: "text"
+      label: "Objectif 1"
+      help: "(facultatif)"
+      placeholder: "Rassembler une communauté d’acteurs intéressés..."
+   - name: "objectif2"
+     field:
+      element: "text"
+      label: "Objectif 2"
+      help: "(facultatif)"
+      placeholder: "Identifier les outils existants..."
+   - name: "objectif3"
+     field:
+      element: "text"
+      label: "Objectif 3"
+      help: "(facultatif)"
+      placeholder: "Initier des groupes de travail..."
 
 collections:
  hackathons:

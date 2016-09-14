@@ -20,7 +20,7 @@ Rendez-vous le vendredi 16 septembre au soir pour une conférence, puis le samed
 
 ### Programme complet
 
-#### VENDREDI 16 à 19h 
+#### VENDREDI 16/09 à 19h 
 
 Présentation du hackathon et de ses ateliers
 
@@ -34,7 +34,7 @@ Temps d'annonce Etalab
 - Laurence Allard (Sociologue @ IRCAV-Paris 3)
 - Modération : Benjamin Jean (président d'Open Law)
 
-#### SAMEDI 17 & DIMANCHE 18 à partir de 9h
+#### SAMEDI 17/09 & DIMANCHE 18/09 à partir de 9h
 2 jours complets d'ateliers de réflexion et de développement :
 
 ##### Une meilleure information pour les citoyens !
