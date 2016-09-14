@@ -1,6 +1,12 @@
 [
   
     {
+      "title"     : "Exploitation de données parlementaires",
+      "url"       : "/exploitation_de_donnees_parlementaires",
+      "thumbnail" : "/img/projets/"
+    } ,
+  
+    {
       "title"     : "Exerçons notre droit de pétitions !",
       "url"       : "/exigeons_droit_petitions",
       "thumbnail" : "/img/projets/pouraix.png"

@@ -32,10 +32,6 @@ socialmatter6: "envelope"
 sociallink6: "mailto:contact@pouraix.fr"
 socialtext6: Email de l'association
 
-socialmatter7: "tumblr"
-sociallink7: " http://twitter.com/pouraix"
-socialtext7: Compte twitter
-
 ---
 
 La constitution française garantie depuis 2003 le droit de pétition. Bien que celui-ci ait été anesthésié par le législateur, il l’est encore plus par la pratique. 

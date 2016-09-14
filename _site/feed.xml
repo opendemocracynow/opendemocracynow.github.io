@@ -6,9 +6,40 @@
 </description>
     <link>http://opendemocracynow.net//</link>
     <atom:link href="http://opendemocracynow.net//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Sep 2016 19:54:13 +0200</pubDate>
-    <lastBuildDate>Wed, 14 Sep 2016 19:54:13 +0200</lastBuildDate>
+    <pubDate>Wed, 14 Sep 2016 20:16:15 +0200</pubDate>
+    <lastBuildDate>Wed, 14 Sep 2016 20:16:15 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Exploitation de données parlementaires</title>
+        <description>&lt;p&gt;Profiter de la semaine « pour les parlements ouverts », pour expliquer, réutiliser et enrichir l’OpenData disponibles sur le Parlement français : démonstration des données existantes (APIs et dumps), analyses de proximité, études statistiques, visualisations…&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.nosdeputes.fr/&quot;&gt;NosDéputés.fr&lt;/a&gt;, &lt;a href=&quot;http://www.nossenateurs.fr/&quot;&gt;NosSénateurs.fr&lt;/a&gt; ainsi que les sites des parlements proposent des données en Open Data relatives à l’activité des parlementaires. Si quelques chercheurs, hacktivistes ou journalistes les utilisent régulièrement dans leurs travaux, ces jeux de données pourraient être plus massivement utilisés pour mieux comprendre le travail ou les enjeux qui se trament à l’Assemblée ou au Sénat.&lt;/p&gt;
+
+&lt;p&gt;A l’occasion de la « &lt;a href=&quot;http://openparlweek.org/&quot;&gt;Global Legislative Openness Week&lt;/a&gt; », Regards Citoyens propose de se pencher sur ces données pour mieux comprendre la dynamique de l’écriture de la loi, du lobbying parlementaire ou des spécialités des parlementaires.&lt;/p&gt;
+
+&lt;p&gt;Des membres de l’association seront présents Samedi pour expliquer les jeux de données existants, faire découvrir les outils en cours de développement, continuer leur développement et accueillir toute personne qui souhaiterait réutiliser ces données parlementaires.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;latelier-dans-le-cadre-de-odn&quot;&gt;L’atelier dans le cadre de ODN&lt;/h5&gt;
+
+&lt;p&gt;Dans la contituité de son plaidoyer porté depuis 7 ans, Regards Citoyens s’associe à la semaine internationale « Pour les parlements ouverts ». Ce travail de lobbying pour pousser les deux chambres du parlement français vers plus d’ouverture a porté ses fruits notamment avec l’ouverture de portails Open Data par les deux chambres. En revanche, ces données ne sont toujours pas très bien documentées et difficiles à exploiter, les rares réutilisateurs ont tendance à utiliser les données fournies par NosDéputés.fr ou NosSénateurs.fr.&lt;/p&gt;
+
+&lt;p&gt;Pour inciter le Sénat et l’Assemblée à faire mieux, il faut leur montrer qu’une communauté de réutilisateurs est intéressée par leurs données afin de les inciter à faire mieux. Durant la journée de samedi, des membres de l’association feront découvrir les données existantes et développeront des outils d’exploitation des données parlementaires françaises.&lt;/p&gt;
+
+&lt;p&gt;Liens utiles : 
+OpenData de l’Assemblée &lt;a href=&quot;http://data.assemblee-nationale.fr/&quot;&gt;http://data.assemblee-nationale.fr/&lt;/a&gt;
+OpenData du Sénat &lt;a href=&quot;http://data.senat.fr/&quot;&gt;http://data.senat.fr/&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Sep 2016 00:00:00 +0200</pubDate>
+        <link>http://opendemocracynow.net//exploitation_de_donnees_parlementaires</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//exploitation_de_donnees_parlementaires</guid>
+        
+        <category>Logiciels, Open data</category>
+        
+        
+      </item>
     
       <item>
         <title>Exerçons notre droit de pétitions !</title>
@@ -380,48 +411,6 @@ collectivement afin de refléter tous les points de vue. On pourrait penser qu�
         <pubDate>Mon, 12 Sep 2016 00:00:00 +0200</pubDate>
         <link>http://opendemocracynow.net//Nova-Ideo</link>
         <guid isPermaLink="true">http://opendemocracynow.net//Nova-Ideo</guid>
-        
-        <category>Logiciels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>OpenBudget.fr</title>
-        <description>&lt;p&gt;OpenBudget.fr permet à tout un chacun de visualiser comment sont dépensés ses impôts par les collectivités, de s’exprimer simplement sur la répartition effectuée, de visualiser la moyenne des répartitions des autres citoyens.&lt;/p&gt;
-
-&lt;p&gt;Les budgets des collectivités et leur utilisation sont actuellement très difficiles d’accès et présentés sous des formes très peu accessibles pour la majorité des citoyens. Les informations et l’éducation citoyenne autour de la gestion de ce budget sont aussi très faibles voir quasi-nulles. Ensuite, les citoyens n’ont aujourd’hui aucun moyen simple et démocratique de s’exprimer sur la répartition des budgets et leur suivi.&lt;/p&gt;
-
-&lt;p&gt;Certaines mairies (Paris par exemple), s’engagent timidement dans une voie d’ouverture en donnant accès au citoyen à un très faible pourcentage du budget. OpenBudget.fr va plus beaucoup plus loin en offrant un moyen d’accès à l’ensemble des éléments financiers. La transparence et l’implication citoyenne ne peut se résumer à quelques % !&lt;/p&gt;
-
-&lt;p&gt;OpenBudget.fr apporte sa pierre à la gestion démocratique du budget en permettant à tout un chacun de : 
-1) Visualiser simplement les répartitions budgétaires effectuées par les élus au cours des dernières années
-2) S’exprimer simplement sur ces répartitions via des montant représentatifs pour lui car correspondant à son montant d’impôt
-3) Disposer d’une moyenne des répartitions effectués par tous les autres citoyens utilisateurs de la plateforme.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;entretien-avec-florent-andr-reprsentant-du-projet&quot;&gt;Entretien avec Florent André, représentant du projet.&lt;/h5&gt;
-
-&lt;h6 id=&quot;quand-et-pourquoi-avez-vous-rejoint-ce-projet&quot;&gt;Quand et pourquoi avez-vous rejoint ce projet?&lt;/h6&gt;
-
-&lt;p&gt;Dès le début, ayant aussi la casquette de CTO d’OpenLaw, je mets à disposition de tous les projet d’OpenDemocracyNow des capacités importantes de machines pour réaliser des calculs, héberger des produits… Je l’ai rejoint car la loi et le budget ouverts sont des constituants importants d’une démocratie réellement ouverte, mais sûrement pas les seuls, et il est important de mettre en synergie toutes les belles initiatives issues de ce grand projet de démocratie ouverte !&lt;/p&gt;
-
-&lt;h6 id=&quot;quels-sont-vos-objectifs-&quot;&gt;Quels sont vos objectifs ?&lt;/h6&gt;
-
-&lt;p&gt;Dans le cadre de ce projet, je souhaiterais arriver à la mise en place d’un outil citoyen de suivi des budgets publics transparent, en temps réel et démocratique.&lt;/p&gt;
-
-&lt;h6 id=&quot;quelles-tapes-avez-vous-dj-franchies&quot;&gt;Quelles étapes avez-vous déjà franchies?&lt;/h6&gt;
-
-&lt;p&gt;Réalisation d’un premier prototype, finaliste au concours dataconnexion 2014, idnetification d’une petite communauté.&lt;/p&gt;
-
-&lt;h6 id=&quot;quels-sont-vos-besoins-pour-la-suite&quot;&gt;Quels sont vos besoins pour la suite?&lt;/h6&gt;
-
-&lt;p&gt;Développeur, spécialistes financiers, férus de la data-viz, juristes, citoyens motivés, supporteur politiques, supporteurs financiers, agitateurs de communauté&lt;/p&gt;
-</description>
-        <pubDate>Thu, 23 Jun 2016 00:00:00 +0200</pubDate>
-        <link>http://opendemocracynow.net//openbudget</link>
-        <guid isPermaLink="true">http://opendemocracynow.net//openbudget</guid>
         
         <category>Logiciels</category>
         
