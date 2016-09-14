@@ -6,9 +6,54 @@
 </description>
     <link>http://opendemocracynow.net//</link>
     <atom:link href="http://opendemocracynow.net//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Sep 2016 17:26:31 +0200</pubDate>
-    <lastBuildDate>Tue, 13 Sep 2016 17:26:31 +0200</lastBuildDate>
+    <pubDate>Wed, 14 Sep 2016 19:40:14 +0200</pubDate>
+    <lastBuildDate>Wed, 14 Sep 2016 19:40:14 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Exerçons notre droit de pétitions !</title>
+        <description>&lt;p&gt;La constitution française garantie depuis 2003 le droit de pétition. Bien que celui-ci ait été anesthésié par le législateur, il l’est encore plus par la pratique.&lt;/p&gt;
+
+&lt;p&gt;Nous aimerions créer un CMS (ou un plugin pour des CMS existants) open source qui permettrait aux associations de créer des pétitions en ligne très facilement et qui synchroniserait les signataires avec les listes électorales et annoncerait automatiquement aux initiateurs et signataires que le seuil est atteint et doit être soumis au Conseil concerné.
+Cela permettrait à toutes les associations de créer des pétitions en ligne à destination des collectivités et faire avancer légalement leurs causes.&lt;/p&gt;
+
+&lt;p&gt;Court texte sur ta participation au hackathon Open Democracy Now (100-150 mots), par exemple :
+Nous avons participé à l’Open Data Day en mars dernier à Aix-en-Provence avec l’Open Knowledge Foundation France. Lors de cet évènement nous avons proposé de géolocaliser les délibérations du Conseil Municipal d’Aix-en-Provence par rapport à l’endroit ou elles interagissaient aux citoyen•ne•s présent•e•s. 1200 points plus tard, ceci nous a permis de sortir une carte sur laquelle n’importe quel citoyen peut regarder ce que la Mairie a voté près de chez lui.&lt;/p&gt;
+
+&lt;p&gt;La carte : http://data.pouraix.fr/2016/03/24/carte-des-deliberations-du-conseil-municipal-2015/ 
+Le compte rendu de l’évènement (en anglais) : http://pouraix.tumblr.com/post/142428018015/open-data-day-okf&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;entretient-avec-guillaume-ricaud-peretti-porteur-du-projet&quot;&gt;Entretient avec Guillaume RICAUD-PERETTI porteur du projet&lt;/h5&gt;
+
+&lt;h6 id=&quot;quest-ce-qui-ta-donn-envie-de-participer-au-hackathon-&quot;&gt;Qu’est-ce qui t’a donné envie de participer au hackathon ?&lt;/h6&gt;
+&lt;p&gt;Notre association porte des projets sur la démocratie en ligne. Le hackathon est un moment privilégié pour en discuter avec des développeurs qui peuvent apporter des solutions techniques et des citoyens qui apportent d’autres questionnements qui font avancer nos démarches.&lt;/p&gt;
+
+&lt;h6 id=&quot;quels-sont-tes-objectifs-avec-ce-projet-dans-le-cadre-&quot;&gt;Quels sont tes objectifs avec ce projet dans le cadre ?&lt;/h6&gt;
+
+&lt;p&gt;Notre projet vise à faire connaître le droit à la pétition tel que dispensé par la constitution mais également à permettre la mise en place d’une plateforme de pétitions citoyenne respectueuse des données personnelles de ses activistes. ics d’élargir la participation des citoyens dans le processus démocratique ;&lt;/p&gt;
+
+&lt;h6 id=&quot;quelles-tapes-as-tu-dj-franchies&quot;&gt;Quelles étapes as-tu déjà franchies?&lt;/h6&gt;
+
+&lt;p&gt;Pour l’instant nous établissons le cahier des charges du projet et cherchons des solutions pour proposer une version bêta la plus automatisée possible.&lt;/p&gt;
+
+&lt;h6 id=&quot;quels-sont-tes-besoins-pour-avancer-dveloppeurs-graphistes-citoyens-motives-spcialistes-dun-domaine-etc-&quot;&gt;Quels sont tes besoins pour avancer (développeurs, graphistes, citoyens motivées, spécialistes d’un domaine etc.) ?&lt;/h6&gt;
+
+&lt;p&gt;Nous aurions besoin dans un premier temps d’un ou de plusieurs développeurs puis de citoyens motivés pour alimenter la plateforme et la faire connaître.&lt;/p&gt;
+
+&lt;h6 id=&quot;ce-qui-te-passe-par-la-tte-et-que-tu-veux-nous-communiquer&quot;&gt;Ce qui te passe par la tête et que tu veux nous communiquer &lt;/h6&gt;
+
+&lt;p&gt;Notre association est un laboratoire d’idées indépendant et apartisan, rassemblant et mobilisant les citoyen•ne•s de la Métropole quelles que soient leurs sensibilités politiques, leurs origines sociales et culturelles sur les différentes thématiques de la vie citoyenne, pourvu qu’ils•elles souhaitent contribuer au vivre ensemble et à la vie démocratique de notre territoire.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Sep 2016 00:00:00 +0200</pubDate>
+        <link>http://opendemocracynow.net//exigeons_droit_petitions</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//exigeons_droit_petitions</guid>
+        
+        <category>Logiciels, Hardware</category>
+        
+        
+      </item>
     
       <item>
         <title>LaPrimaire.org</title>
@@ -52,7 +97,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;entretient-avec-thibaud-favre-porteur-du-projet&quot;&gt;Entretient avec Thibaud Favre porteur du projet&lt;/h5&gt;
+&lt;h5 id=&quot;entretient-avec-franois-fumu-tamuzo-porteur-du-projet&quot;&gt;Entretient avec François FUMU TAMUZO porteur du projet&lt;/h5&gt;
 
 &lt;h6 id=&quot;quest-ce-qui-ta-donn-envie-de-participer-au-hackathon-&quot;&gt;Qu’est-ce qui t’a donné envie de participer au hackathon ?&lt;/h6&gt;
 &lt;p&gt;Recherche permanente des outils, des modèles, innovants de contribution pour la résolution créative de problèmes ù’a conduis à adhérer à la vision d’un hackathon comme le votre pour partager et échanger sur ma vision de démocratie via des outils numériques où l’Afrique reste encore malheureusement dans les derniers wagons&lt;/p&gt;
@@ -379,39 +424,6 @@ collectivement afin de refléter tous les points de vue. On pourrait penser qu�
         <guid isPermaLink="true">http://opendemocracynow.net//openbudget</guid>
         
         <category>Logiciels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Usages associés: boîte à outils open gov</title>
-        <description>&lt;p&gt;L’objectif de cet atelier est d’accompagner la constitution du Usages associés: boîte à outils open gov réalisé dans le cadre de la préparation du sommet du PGO et listant un certain nombre d’usages renforçant la dynamique de gouvernement ouvert.&lt;/p&gt;
-
-&lt;p&gt;L’objectif de cet atelier est d’accompagner la constitution du Usages associés: boîte à outils open gov réalisé dans le cadre de la préparation du sommet du PGO.&lt;/p&gt;
-
-&lt;p&gt;Il liste un certain nombre d’usages structurant pour la démarche de gouvernement ouvert au travers d’un prisme à trois facettes :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Les objectifs&lt;/li&gt;
-  &lt;li&gt;Les usagers&lt;/li&gt;
-  &lt;li&gt;Les services proposés.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Il imagine différentes plates-formes ou services susceptibles d’être utiles à l’appropriation et l’exploitation du catalogue et promeut des logiques de mutualisation et coconstruction entre les acteurs intéressés par cette dynamique inclusive et ouverte. Il a pour vocation à inspirer différentes initiatives concourant à l’exploitation du catalogue.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;latelier-dans-le-cadre-de-odn&quot;&gt;L’atelier dans le cadre de ODN&lt;/h5&gt;
-
-&lt;p&gt;Ce projet a été initié dans le cadre du lancement du PGO (https://www.etalab.gouv.fr/retour-sur-le-lancement-du-sommet-pgo) le 20 avril 2016 comme soutien au hackathon officiel qui vise à construire d’ici au Sommet de décembre une boîte à outils du gouvernement ouvert, à travers un catalogue recensant les logiciels et solutions techniques pouvant outiller le PGO ainsi que les administrations et la société civile du monde entier dans la mise en œuvre de leurs engagements.&lt;/p&gt;
-
-&lt;p&gt;Complémentaire à l’atelier technique qui permet d’aboutir à la conception de ce catalogue de la Civic Tech, cet atelier dédié aux usages réunit tous les acteurs de la Civic Tech afin d’imaginer des réappropriations possibles de la ressource qui sera ainsi accessible. Il rejoint Open Democracy Now lors de sa troisième étape lors de Future en Seine.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 21 Jun 2016 00:00:00 +0200</pubDate>
-        <link>http://opendemocracynow.net//usages-associes</link>
-        <guid isPermaLink="true">http://opendemocracynow.net//usages-associes</guid>
-        
-        <category>Ateliers</category>
         
         
       </item>

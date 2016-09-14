@@ -1,6 +1,12 @@
 [
   
     {
+      "title"     : "Exerçons notre droit de pétitions !",
+      "url"       : "/exigeons_droit_petitions",
+      "thumbnail" : "/img/projets/democracybox.png"
+    } ,
+  
+    {
       "title"     : "LaPrimaire.org",
       "url"       : "/laprimaire-org",
       "thumbnail" : "/img/projets/laprimaire-logo.png"

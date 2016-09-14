@@ -14,7 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://opendemocracynow.net/" # the base hostname & protocol for your site
 twitter_username: ODN
 github_username:  opendemocracynow
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-admin]
 paginate: 8
 paginate_path: "/projets/page:num/"
 

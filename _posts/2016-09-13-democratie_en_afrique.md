@@ -18,7 +18,7 @@ Accompagner les élus locaux pour moderniser leur communication en direction des
 
 <br>
 
-##### Entretient avec Thibaud Favre porteur du projet
+##### Entretient avec François FUMU TAMUZO porteur du projet
 
 
 ###### Qu’est-ce qui t’a donné envie de participer au hackathon ? 
