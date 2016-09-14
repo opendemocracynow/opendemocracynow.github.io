@@ -106,15 +106,105 @@ prose:
    - name: "sociallink1"
      field:
       element: "text"
-      label: "url du 1er lien social"
+      label: "URL du 1er lien social"
       placeholder: "https://facebook.com/odn"
       help: "Adresse de la page du réseau social"
    - name: "socialtext1"
      field:
       element: "text"
-      label: "texte du 1er lien social"
-      placeholder: "page facebook d'ODN"
-      help: "Le texte s'affiche dans le social-button"
+      label: "Texte du 1er lien social"
+      placeholder: "Page facebook d'ODN"
+      help: "Le texte qui s'affiche dans le social-button"
+   - name: "socialmatter2"
+     field:
+      element: "text"
+      label: "2ème lien social"
+      placeholder: "facebook/twitter/github..."
+      help: "Nom du réseau social, sans lettre majuscule"
+   - name: "sociallink2"
+     field:
+      element: "text"
+      label: "URL du 2ème lien social"
+      placeholder: "https://facebook.com/odn"
+      help: "Adresse de la page du réseau social"
+   - name: "socialtext2"
+     field:
+      element: "text"
+      label: "Texte du 2ème lien social"
+      placeholder: "Page facebook d'ODN"
+      help: "Le texte qui s'affiche dans le social-button"
+   - name: "socialmatter3"
+     field:
+      element: "text"
+      label: "3ème lien social"
+      placeholder: "facebook/twitter/github..."
+      help: "Nom du réseau social, sans lettre majuscule"
+   - name: "sociallink3"
+     field:
+      element: "text"
+      label: "URL du 3ème lien social"
+      placeholder: "https://facebook.com/odn"
+      help: "Adresse de la page du réseau social"
+   - name: "socialtext3"
+     field:
+      element: "text"
+      label: "Texte du 3ème lien social"
+      placeholder: "Page facebook d'ODN"
+      help: "Le texte qui s'affiche dans le social-button"
+   - name: "socialmatter4"
+     field:
+      element: "text"
+      label: "4ème lien social"
+      placeholder: "facebook/twitter/github..."
+      help: "Nom du réseau social, sans lettre majuscule"
+   - name: "sociallink4"
+     field:
+      element: "text"
+      label: "URL du 4ème lien social"
+      placeholder: "https://facebook.com/odn"
+      help: "Adresse de la page du réseau social"
+   - name: "socialtext4"
+     field:
+      element: "text"
+      label: "Texte du 4ème lien social"
+      placeholder: "Page facebook d'ODN"
+      help: "Le texte qui s'affiche dans le social-button"
+   - name: "socialmatter5"
+     field:
+      element: "text"
+      label: "5ème lien social"
+      placeholder: "facebook/twitter/github..."
+      help: "Nom du réseau social, sans lettre majuscule"
+   - name: "sociallink5"
+     field:
+      element: "text"
+      label: "URL du 5ème lien social"
+      placeholder: "https://facebook.com/odn"
+      help: "Adresse de la page du réseau social"
+   - name: "socialtext5"
+     field:
+      element: "text"
+      label: "Texte du 5ème lien social"
+      placeholder: "Page facebook d'ODN"
+      help: "Le texte qui s'affiche dans le social-button"
+   - name: "socialmatter6"
+     field:
+      element: "text"
+      label: "6ème lien social"
+      placeholder: "facebook/twitter/github..."
+      help: "Nom du réseau social, sans lettre majuscule"
+   - name: "sociallink6"
+     field:
+      element: "text"
+      label: "URL du 6ème lien social"
+      placeholder: "https://facebook.com/odn"
+      help: "Adresse de la page du réseau social"
+   - name: "socialtext6"
+     field:
+      element: "text"
+      label: "Texte du 6ème lien social"
+      placeholder: "Page facebook d'ODN"
+      help: "Le texte qui s'affiche dans le social-button"
   _hackathons:
    - name: "title"
      field:
@@ -124,6 +214,12 @@ prose:
      field:
       element: "hidden"
       value: "post-hackathon"
+   - name: "nextevent"
+     field:
+      element: "checkbox"
+      label: "Prochain hackathon?"
+      help: "Activer si ce hackathon est le prochain événement ODN"
+      value: true
    - name: "moment"
      field:
       element: "text"
@@ -132,7 +228,8 @@ prose:
    - name: "place"
      field:
       element: "text"
-      label: "Lieu de déroulement"
+      label: "Lieu du hackathon"
+      help: "Nom ou adresse du lieu où se déroule le hackathon"
       placeholder: "ex: Fondation Mozilla Paris"
    - name: "img"
      field:
@@ -145,14 +242,25 @@ prose:
       element: "text"
       label: "Lien pour l'inscription"
       placeholder: "https://www.eventbrite.fr..."
-      help: "url complet de la page d'inscription"
-   - name: "nextevent"
+      help: "URL complet de la page d'inscription"
+   - name: "objectif1"
      field:
-      element: "button"
-      label: "Ce hackathon est à venir?"
-      help: "activer si ec hackathon est le prochain événement ODN"
-      on: "true"
-      off: ""
+      element: "text"
+      label: "Objectif 1"
+      help: "(facultatif)"
+      placeholder: "Rassembler une communauté d’acteurs intéressés..."
+   - name: "objectif2"
+     field:
+      element: "text"
+      label: "Objectif 2"
+      help: "(facultatif)"
+      placeholder: "Identifier les outils existants..."
+   - name: "objectif3"
+     field:
+      element: "text"
+      label: "Objectif 3"
+      help: "(facultatif)"
+      placeholder: "Initier des groupes de travail..."
 
 collections:
  hackathons:
