@@ -116,6 +116,10 @@ prose:
       placeholder: "page facebook d'ODN"
       help: "Le texte s'affiche dans le social-button"
   _hackathons:
+   - name: "title"
+     field:
+     element: "text"
+     label: "title"
    - name: "layout"
      field:
       element: "hidden"
