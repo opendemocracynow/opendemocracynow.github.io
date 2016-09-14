@@ -243,6 +243,12 @@ prose:
       label: "Lien pour l'inscription"
       placeholder: "https://www.eventbrite.fr..."
       help: "URL complet de la page d'inscription"
+   - name: "notes"
+     field:
+      element: "text"
+      label: "Lien pour le pad/notes du hackathon"
+      placeholder: "https://mypads.framapad.org..."
+      help: "URL complet de la page du pad/notes"
    - name: "objectif1"
      field:
       element: "text"
