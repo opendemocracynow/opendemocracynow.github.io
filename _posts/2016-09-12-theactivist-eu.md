@@ -3,8 +3,10 @@ layout: post
 comments: true
 title:  "theactivist.eu"
 tag: Logiciels
+img: "theactivist_eu.png"
 rep: "Pietro De Matteis"
 repmail: "pietrodematteis@gmail.com"
+repimg: "pietro-de-matteis.jpg"
 
 
 socialmatter1: "home"
@@ -19,7 +21,7 @@ Les media sociaux mettent en connection des gens qui habitent très loins mais s
 
 <br>
 
-##### Entretient avec Pietro De Matteis porteur du projet
+##### Entretien avec Pietro De Matteis porteur du projet
 
 
 ###### Qu’est-ce qui t’a donné envie de participer au hackathon ? 
