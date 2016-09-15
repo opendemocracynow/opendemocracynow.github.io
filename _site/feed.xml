@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Democracy Now</title>
-    <description>Développer ensemble des solutions open source* pour la démocratie.
+    <description>Développer ensemble des solutions open source pour la démocratie.
 </description>
     <link>http://opendemocracynow.net//</link>
     <atom:link href="http://opendemocracynow.net//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Sep 2016 23:42:15 +0200</pubDate>
-    <lastBuildDate>Wed, 14 Sep 2016 23:42:15 +0200</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <pubDate>Thu, 15 Sep 2016 15:15:44 +0200</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2016 15:15:44 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>Expédition Open Data «semaine pour les parlements ouverts»</title>
@@ -121,7 +121,7 @@ Le compte rendu de l’évènement (en anglais) : http://pouraix.tumblr.com/post
       </item>
     
       <item>
-        <title>e-Participate comme vecteur d'amélioration (construction, d'évolution) de la Démocratie en Afrique.</title>
+        <title>e-Participate comme vecteur d&#39;amélioration (construction, d&#39;évolution) de la Démocratie en Afrique.</title>
         <description>&lt;p&gt;Le projet a pour objectif d’expliquer les différents dispositifs pouvant  permettre aux organismes publics  (Conseils municipaux, Commissions, Débats parlementaires, …) d’inciter et d’élargir la participation,  des citoyens dans le processus démocratique via les outils numériques.&lt;/p&gt;
 
 &lt;p&gt;Accompagner les élus locaux pour moderniser leur communication en direction des populations. Ainsi, des  multiples services peuvent être mis à contribution au service du citoyen. Il faut s’imaginer que les populations pourront utiliser internet pour demander des comptes au conseil municipal ou autre organisme public, quelque soi le lieu et sans limitation de temps. Une brèche serait ainsi ouverte pour « la démocratie électronique ». Cette innovation (révolution) permettra aux collectivités territoriales décentralisées de s’ouvrir aux citoyens et au monde. Cette ouverture, permettra de bénéficier de l’information à la demande. C’est aussi l’occasion d’avoir accès à une multitude d’opportunités, avoir accès à une intelligence collective d’une taille et d’une vitesse inédites.&lt;/p&gt;
@@ -183,6 +183,7 @@ Outil numérique mobile de travail collaboratif citoyen —&amp;gt; des services
 &lt;p&gt;Etat d’avancement : réflexion avancée au forum des usages coopératifs de Brest.&lt;/p&gt;
 
 &lt;p&gt;Quelles technos ?&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;RaspBerry Pi 3 ;&lt;/li&gt;
   &lt;li&gt;une sélection modulable de services web (outils de travail collaboratif : tableau blanc, etherpad lite, wiki, outil de vote / contributions, enquête / sondage, CMS, serveur de médias, base documentaire, agenda, etc.) ;&lt;/li&gt;
@@ -196,11 +197,10 @@ Outil numérique mobile de travail collaboratif citoyen —&amp;gt; des services
 &lt;p&gt;L’atelier proposé se situe en prolongement du travail entrepris lors du dernier forum des usages de Brest, suite à notre expérience des réunions et ateliers démocratiques citoyens, et aux difficultés rencontrées à ces occasions.&lt;/p&gt;
 
 &lt;p&gt;On constate trop souvent :&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;une sous-utilisation du numérique comme auxiliaire du travail démocratique citoyen, comme outil de démocratie participative ou liquide, de consultation, d’expression, de synthèse et d’approfondissement collaboratifs (conduisant du coup à des initiatives individuelles plus ou moins improvisées) ;&lt;/li&gt;
-  &lt;li&gt;Un manque d’accès aux documents / bases de travail des groupes ;
-« Tu as vu le document que l’on a travaillé avec… ? Non je n’ai pas eu le mail » ;
-De l’information et des ressources sont souvent éparpillées sur différentes urls, ou inconnues de trop de participants … ;&lt;/li&gt;
+  &lt;li&gt;Un manque d’accès aux documents / bases de travail des groupes ; « Tu as vu le document avec lequel on a travaillé… ? Non je n’ai pas eu le mail » ; De l’information et des ressources sont souvent éparpillées sur différentes urls, ou inconnues de trop de participants … ;&lt;/li&gt;
   &lt;li&gt;la nécessité de faciliter l’accès en réunion aux outils de travail collaboratif, de contributions, de vote, … ;&lt;/li&gt;
   &lt;li&gt;des conférences et ateliers ont lieu simultanément sans qu’on puisse toujours avoir un accès après coup, centralisé et identifié, aux contributions manquées, compte-rendus et synthèses de travaux, prolongements possibles … ;&lt;/li&gt;
 &lt;/ul&gt;
@@ -242,15 +242,12 @@ De l’information et des ressources sont souvent éparpillées sur différentes
 
 &lt;p&gt;L’encyclopédie est en ligne mais le projet est encore en cours de lancement. Le but de ce premier atelier sera alors avant tout de présenter Débapédia afin de recueillir différents avis et conseils qui serviront à l’élaboration finale du site.&lt;/p&gt;
 
-&lt;p&gt;En particulier, les besoins sont les suivants :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Une piste envisagée est de présenter les arguments d’un débat donné sous forme d’un sommaire où chaque titre correspond à une section déroulante. Cette présentation est-elle suffisamment intuitive ? Comment l’améliorer ?&lt;/li&gt;
-  &lt;li&gt;Dans cette optique, il serait judicieux de présenter, dans la version mobile du site, tous les titres et sous-titres d’une page sous forme de sections déroulantes. L’extension Mobile Frontend, qui permet justement d’afficher cette version mobile, ne propose malheureusement pas par défaut d’afficher les sous-titres sous forme de sections déroulantes, mais le permet pour les titres. Il s’agirait d’étendre cette fonction aux sous-titres en modifiant le code de Mobile Frontend, qui est écrit en langage PHP ;&lt;/li&gt;
-  &lt;li&gt;Enfin, le logo principal du site, la bannière de la page d’accueil ainsi que différents logos représentant un argument pour, un argument contre et une objection sont à dessiner. L’aide d’un designer serait la bienvenue ;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;En particulier, les besoins sont les suivants :
+- Une piste envisagée est de présenter les arguments d’un débat donné sous forme d’un sommaire où chaque titre correspond à une section déroulante. Cette présentation est-elle suffisamment intuitive ? Comment l’améliorer ?
+- Dans cette optique, il serait judicieux de présenter, dans la version mobile du site, tous les titres et sous-titres d’une page sous forme de sections déroulantes. L’extension Mobile Frontend, qui permet justement d’afficher cette version mobile, ne propose malheureusement pas par défaut d’afficher les sous-titres sous forme de sections déroulantes, mais le permet pour les titres. Il s’agirait d’étendre cette fonction aux sous-titres en modifiant le code de Mobile Frontend, qui est écrit en langage PHP ;
+- Enfin, le logo principal du site, la bannière de la page d’accueil ainsi que différents logos représentant un argument pour, un argument contre et une objection sont à dessiner. L’aide d’un designer serait la bienvenue ;&lt;/p&gt;
 
 &lt;p&gt;Pour ceux qui seraient intéressés par le projet, RDV dimanche 18 septembre après-midi dans le cadre du quatrième Hackathon.&lt;/p&gt;
-
 </description>
         <pubDate>Tue, 13 Sep 2016 00:00:00 +0200</pubDate>
         <link>http://opendemocracynow.net//debapedia</link>
