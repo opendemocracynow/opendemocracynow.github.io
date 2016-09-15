@@ -1,17 +1,17 @@
 ---
 layout: post
 comments: true
-title:  "Débapédia, une encyclopédie de débats"
-tag: Logiciels
-img: "banniere-debapedia.png"
-rep: "Manu Reilhac"
-repmail: "debapedia@gmail.com"
-repimg:
-
-socialmatter1: "home"
-sociallink1: "http://debapedia.org/"
-socialtext1: "Site web"
-
+title: 'Débapédia, une encyclopédie de débats'
+tag:
+  - Logiciels
+img: banniere-debapedia.jpg
+rep: Manu Reilhac
+repmail: debapedia@gmail.com
+socialmatter1: home
+sociallink1: 'http://debapedia.org/'
+socialtext1: Site web
+published: true
+active: true
 ---
 
 Pour ceux qui veulent se forger une opinion sur un sujet donné. Pour ceux qui cherchent à connaître les différentes positions d’un débat sans passer des heures à rechercher des arguments éparpillés sur la toile.
@@ -36,4 +36,3 @@ En particulier, les besoins sont les suivants :
 - Enfin, le logo principal du site, la bannière de la page d’accueil ainsi que différents logos représentant un argument pour, un argument contre et une objection sont à dessiner. L’aide d’un designer serait la bienvenue ;
 
 Pour ceux qui seraient intéressés par le projet, RDV dimanche 18 septembre après-midi dans le cadre du quatrième Hackathon.
-
