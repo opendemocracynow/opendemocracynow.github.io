@@ -3,8 +3,10 @@ layout: post
 comments: true
 title:  "theactivist.eu"
 tag: Logiciels
+img: "theactivist_eu.png"
 rep: "Pietro De Matteis"
 repmail: "pietrodematteis@gmail.com"
+repimg: "pietro-de-matteis.jpg"
 
 
 socialmatter1: "home"
