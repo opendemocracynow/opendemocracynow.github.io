@@ -9,12 +9,12 @@
 title: Open Democracy Now
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Développer ensemble des solutions open source* pour la démocratie.
+  Développer ensemble des solutions open source pour la démocratie.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://opendemocracynow.net/" # the base hostname & protocol for your site
 twitter_username: ODN
 github_username:  opendemocracynow
-gems: [jekyll-paginate, jekyll-admin]
+gems: [jekyll-paginate, jekyll-admin, jekyll-sitemap]
 paginate: 8
 paginate_path: "/projets/page:num/"
 prose:
