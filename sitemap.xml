@@ -1,0 +1,34 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ 
+{% for post in site.posts %}
+  <url>
+    <loc>{{ site.url }}{{ post.url }}</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+  </url>
+  {% endfor %}
+
+  {% for hackathon in site.hackathons %}
+  <url>
+    <loc>{{ site.url }}{{ hackathon.url }}</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+  </url>
+
+<url>
+<loc>http://opendemocracynow.net//projets/</loc>
+<priority>1</priority>
+</url>
+<url>
+<loc>http://opendemocracynow.net//hackathons/</loc>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>http://opendemocracynow.net//infos/</loc>
+<priority>0.8</priority>
+</url>
+
+</urlset>
