@@ -1,6 +1,12 @@
 [
   
     {
+      "title"     : "Empowering students",
+      "url"       : "/empowering_students",
+      "thumbnail" : "/img/projets/"
+    } ,
+  
+    {
       "title"     : "Impacty",
       "url"       : "/Impacty",
       "thumbnail" : "/img/projets/"

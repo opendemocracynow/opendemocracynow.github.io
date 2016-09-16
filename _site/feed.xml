@@ -6,9 +6,45 @@
 </description>
     <link>http://opendemocracynow.net//</link>
     <atom:link href="http://opendemocracynow.net//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Sep 2016 15:22:47 +0200</pubDate>
-    <lastBuildDate>Fri, 16 Sep 2016 15:22:47 +0200</lastBuildDate>
+    <pubDate>Fri, 16 Sep 2016 15:23:31 +0200</pubDate>
+    <lastBuildDate>Fri, 16 Sep 2016 15:23:31 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Empowering students</title>
+        <description>&lt;p&gt;En redonnant une voix aux étudiants, les plateformes de consultation en ligne constituent une réponse adaptée aux enjeux liés à l’implication des jeunes dans le processus de décision au sein des écoles et des universités.&lt;/p&gt;
+
+&lt;p&gt;Les étudiants pèsent insuffisamment sur les décisions qui les concernent directement. Leur implication est souvent freinée et leur action verrouillée par des considérations politiques. S’en suit une perte de conscience de leur capacité d’agir dans la société, laquelle s’exprime au sein même des universités et des écoles.&lt;/p&gt;
+
+&lt;p&gt;Dès lors, comment renforcer la participation étudiante dans une démarche d’ouverture et de transparence ?&lt;/p&gt;
+
+&lt;p&gt;Les plateformes de consultation en ligne constituent une réponse adaptée dans la mesure où elles permettraient d’intégrer les étudiants dans le processus de décision, et ce en donnant à chacun d’eux la possibilité de : S’informer – S’exprimer – Débattre – Voter.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;atelier-dans-le-cadre-du-hackathon&quot;&gt;Atelier dans le cadre du hackathon&lt;/h5&gt;
+
+&lt;p&gt;L’atelier organisé lors du 4ème hackathon permettra ainsi d’aborder la problématique de la participation étudiante en milieu universitaire. Il sera articulé autour de deux axes de réflexion en lien avec les apports des méthodes et des outils d’Open government dans l’enseignement supérieur : d’une part, la gestion de la vie association, d’autre part, la question de la participation et de la représentativité des étudiants dans la gouvernance des écoles et des universités.&lt;/p&gt;
+
+&lt;p&gt;L’objectif de l’atelier « Empowering Students » est donc de :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Identifier les besoins&lt;/li&gt;
+  &lt;li&gt;Analyser les enjeux (moteurs et freins)&lt;/li&gt;
+  &lt;li&gt;Déterminer les modalités &lt;/li&gt;
+  &lt;li&gt;Définir des règles de gouvernance&lt;/li&gt;
+  &lt;li&gt;Concevoir une plateforme consultative adaptée&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Pour ce faire, nous souhaitons impliquer les parties prenantes de l’écosystème étudiant et les acteurs de la démocratie participative afin d’aboutir à une plateforme ouverte et facilement réplicable au sein des universités et des écoles et au soutien des projets étudiants.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 Sep 2016 00:00:00 +0200</pubDate>
+        <link>http://opendemocracynow.net//empowering_students</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//empowering_students</guid>
+        
+        <category>Atelier</category>
+        
+        
+      </item>
     
       <item>
         <title>Impacty</title>
@@ -371,29 +407,6 @@ L’atelier doit permettre d’établir une maquette du projet et d’identifier
         <guid isPermaLink="true">http://opendemocracynow.net//donne_ta_voix</guid>
         
         <category>Ateliers</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Accropolis</title>
-        <description>&lt;p&gt;Accropolis, c’est la première chaîne de streaming citoyenne de France ! Un média innovant, jamais vu auparavant qui propose une nouvelle manière de suivre la politique.&lt;/p&gt;
-
-&lt;p&gt;La chaîne Accropolis est un média d’un nouveau genre qui s’adresse à celles et à ceux qui ne suivent pas la politique, qui s’en sentent éloignés mais qui veulent prendre en main leur citoyenneté. Inspirée des chaînes de streaming de jeux vidéo, Accropolis propose des émissions interactives sur Youtube, Facebook Live et Twitch pour mieux suivre et mieux comprendre la vie politique. Commentaires en direct de meetings politiques, émissions en plateau, libres antennes et vidéos explicatives remettent les citoyens au coeur de la transition démocratique.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;latelier-dans-le-cadre-de-odn&quot;&gt;L’atelier dans le cadre de ODN&lt;/h5&gt;
-
-&lt;p&gt;Je propose aux développeurs, webmasters, geeks et autres citoyens du web d’apporter une aide concrète à Accropolis en repensant son site internet de A à Z.&lt;/p&gt;
-
-&lt;p&gt;Aujourd’hui simple site vitrine, Accropolis.fr a vocaction à devenir une véritable plateforme de streaming où la participation citoyenne se perpétue au delà des streams.  Zone membres, Forum, et Chat sont au menu de ce nouveau site. La charte graphique existe déjà, le webdesign est des plus classiques, il ne manque plus que le développement !&lt;/p&gt;
-</description>
-        <pubDate>Mon, 12 Sep 2016 00:00:00 +0200</pubDate>
-        <link>http://opendemocracynow.net//accropolis</link>
-        <guid isPermaLink="true">http://opendemocracynow.net//accropolis</guid>
-        
-        <category>media</category>
         
         
       </item>
