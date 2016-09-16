@@ -122,9 +122,6 @@ a:focus, a:active {
   margin: 15px 3px;
   font-size: 14px;
 }
-.navbar-static-top{
-  background: #333;
-}
 .footer {
   background-color: white;
   line-height: 20px;
@@ -198,6 +195,10 @@ a:focus, a:active {
       font-size: 30px;
       position: relative;
       line-height: 24px;
+}
+.navbar-top {
+  position: absolute;
+  z-index: 1030;
 }
 .section-no-padding{
   padding-bottom: 0;
@@ -390,13 +391,10 @@ text-align:center;
     font-size:28px;
     text-transform: uppercase;
 }
-.parallax-container-top{
+.parallax-container-top {
   height: 700px;
   width: 100%;
-  margin-top:-145px;
-}
-.parallax-container-top img{
-  margin-top:-145px;
+  margin-top:-155px;
 }
 .parallax-container {
   height: 700px;

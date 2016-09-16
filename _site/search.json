@@ -1,12 +1,6 @@
 [
   
     {
-      "title"     : "Impacty",
-      "url"       : "/Impacty",
-      "thumbnail" : "/img/projets/"
-    } ,
-  
-    {
       "title"     : "Expédition Open Data «semaine pour les parlements ouverts»",
       "url"       : "/exploitation_de_donnees_parlementaires",
       "thumbnail" : "/img/projets/"
