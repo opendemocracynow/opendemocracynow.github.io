@@ -20,7 +20,6 @@ La première étape du cycle de hackathons Open Democracy Now a permis de rassem
 
 <br>
 
-
 ### Programme
 
 #### Jour #1

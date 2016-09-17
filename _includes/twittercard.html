@@ -13,8 +13,14 @@
 {% else %}
   <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
+{% if hackathon.img %}
+  <meta name="twitter:image:src" content="{{ site.url }}img/hackathons/{{ hackathon.img }}">
+{% endif %}
 {% if page.img %}
   <meta name="twitter:image:src" content="{{ site.url }}img/projets/{{ page.img }}">
 {% else %}
   <meta name="twitter:image:src" content="{{ site.url }}img/logos/logo-odn-twitter.png">
 {% endif %}
+{% if hackathon.excerpt %}
+  <meta name="twitter:description" content="{{ hackathon.excerpt }}">
+  {% endif %}
