@@ -27,10 +27,5 @@ République citoyenne est co-fondateur et organisateur d'Open Democracy Now. La 
 a été l'occasion de lancer ce projet en partenariat.
 
 Les contributeurs sont tous bienvenus :
-
-    Citoyens, journalistes… : sources d’info, fact-checking, article d’illustration (+ nom du projet?)
-    Devs: formats posgresql/json, I/O sources, Mémopol, Wikidata… (python), IHM (django,css)
-    Designers: pour l’UI (input & consultation)
-    Assos: sources d’info + pondération des scores
-    Chercheurs: analyse sémantique, stats, …
+Citoyens, journalistes… : sources d’info, fact-checking, article d’illustration (+ nom du projet?)Devs: formats posgresql/json, I/O sources, Mémopol, Wikidata… (python), IHM (django,css)Designers: pour l’UI (input & consultation)Assos: sources d’info + pondération des scoresChercheurs: analyse sémantique, stats, …
 
