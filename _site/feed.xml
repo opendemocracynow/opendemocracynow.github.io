@@ -2,13 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Democracy Now</title>
-    <description>Développer ensemble des solutions open source pour la démocratie.
+    <description>Développer ensemble des solutions open source* pour la démocratie.
 </description>
     <link>http://opendemocracynow.net//</link>
     <atom:link href="http://opendemocracynow.net//feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< HEAD
     <pubDate>Fri, 16 Sep 2016 15:46:14 +0200</pubDate>
     <lastBuildDate>Fri, 16 Sep 2016 15:46:14 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+=======
+    <pubDate>Fri, 16 Sep 2016 15:32:30 +0200</pubDate>
+    <lastBuildDate>Fri, 16 Sep 2016 15:32:30 +0200</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+>>>>>>> origin/master
     
       <item>
         <title>Empowering students</title>
@@ -184,7 +190,7 @@ Le compte rendu de l’évènement (en anglais) : http://pouraix.tumblr.com/post
       </item>
     
       <item>
-        <title>e-Participate comme vecteur d&#39;amélioration (construction, d&#39;évolution) de la Démocratie en Afrique.</title>
+        <title>e-Participate comme vecteur d'amélioration (construction, d'évolution) de la Démocratie en Afrique.</title>
         <description>&lt;p&gt;Le projet a pour objectif d’expliquer les différents dispositifs pouvant  permettre aux organismes publics  (Conseils municipaux, Commissions, Débats parlementaires, …) d’inciter et d’élargir la participation,  des citoyens dans le processus démocratique via les outils numériques.&lt;/p&gt;
 
 &lt;p&gt;Accompagner les élus locaux pour moderniser leur communication en direction des populations. Ainsi, des  multiples services peuvent être mis à contribution au service du citoyen. Il faut s’imaginer que les populations pourront utiliser internet pour demander des comptes au conseil municipal ou autre organisme public, quelque soi le lieu et sans limitation de temps. Une brèche serait ainsi ouverte pour « la démocratie électronique ». Cette innovation (révolution) permettra aux collectivités territoriales décentralisées de s’ouvrir aux citoyens et au monde. Cette ouverture, permettra de bénéficier de l’information à la demande. C’est aussi l’occasion d’avoir accès à une multitude d’opportunités, avoir accès à une intelligence collective d’une taille et d’une vitesse inédites.&lt;/p&gt;
@@ -305,10 +311,12 @@ Outil numérique mobile de travail collaboratif citoyen —&amp;gt; des services
 
 &lt;p&gt;L’encyclopédie est en ligne mais le projet est encore en cours de lancement. Le but de ce premier atelier sera alors avant tout de présenter Débapédia afin de recueillir différents avis et conseils qui serviront à l’élaboration finale du site.&lt;/p&gt;
 
-&lt;p&gt;En particulier, les besoins sont les suivants :
-- Une piste envisagée est de présenter les arguments d’un débat donné sous forme d’un sommaire où chaque titre correspond à une section déroulante. Cette présentation est-elle suffisamment intuitive ? Comment l’améliorer ?
-- Dans cette optique, il serait judicieux de présenter, dans la version mobile du site, tous les titres et sous-titres d’une page sous forme de sections déroulantes. L’extension Mobile Frontend, qui permet justement d’afficher cette version mobile, ne propose malheureusement pas par défaut d’afficher les sous-titres sous forme de sections déroulantes, mais le permet pour les titres. Il s’agirait d’étendre cette fonction aux sous-titres en modifiant le code de Mobile Frontend, qui est écrit en langage PHP ;
-- Enfin, le logo principal du site, la bannière de la page d’accueil ainsi que différents logos représentant un argument pour, un argument contre et une objection sont à dessiner. L’aide d’un designer serait la bienvenue ;&lt;/p&gt;
+&lt;p&gt;En particulier, les besoins sont les suivants :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Une piste envisagée est de présenter les arguments d’un débat donné sous forme d’un sommaire où chaque titre correspond à une section déroulante. Cette présentation est-elle suffisamment intuitive ? Comment l’améliorer ?&lt;/li&gt;
+  &lt;li&gt;Dans cette optique, il serait judicieux de présenter, dans la version mobile du site, tous les titres et sous-titres d’une page sous forme de sections déroulantes. L’extension Mobile Frontend, qui permet justement d’afficher cette version mobile, ne propose malheureusement pas par défaut d’afficher les sous-titres sous forme de sections déroulantes, mais le permet pour les titres. Il s’agirait d’étendre cette fonction aux sous-titres en modifiant le code de Mobile Frontend, qui est écrit en langage PHP ;&lt;/li&gt;
+  &lt;li&gt;Enfin, le logo principal du site, la bannière de la page d’accueil ainsi que différents logos représentant un argument pour, un argument contre et une objection sont à dessiner. L’aide d’un designer serait la bienvenue ;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Pour ceux qui seraient intéressés par le projet, RDV dimanche 18 septembre après-midi dans le cadre du quatrième Hackathon.&lt;/p&gt;
 </description>
@@ -329,7 +337,7 @@ Outil numérique mobile de travail collaboratif citoyen —&amp;gt; des services
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;entretient-avec-pietro-de-matteis-porteur-du-projet&quot;&gt;Entretient avec Pietro De Matteis porteur du projet&lt;/h5&gt;
+&lt;h5 id=&quot;entretien-avec-pietro-de-matteis-porteur-du-projet&quot;&gt;Entretien avec Pietro De Matteis porteur du projet&lt;/h5&gt;
 
 &lt;h6 id=&quot;quest-ce-qui-ta-donn-envie-de-participer-au-hackathon-&quot;&gt;Qu’est-ce qui t’a donné envie de participer au hackathon ?&lt;/h6&gt;
 &lt;p&gt;J’ai décidé de participer per à cet Hackathon pour developper une nouvelle plateforme de democracie participative afin de relier le developement d’activites au niveau tres local aux grand defis de l’Europe d’aujourd’hui.&lt;/p&gt;

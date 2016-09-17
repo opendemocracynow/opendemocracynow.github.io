@@ -8,7 +8,7 @@ repmail: "laurent.joubert@modernisation.gouv.fr"
 repimg: "joubert.jpg"
 
 socialmatter3: "gitlab"
-sociallink3: "http://www.mavoix.info/"
+sociallink3: "https://framagit.org/dinsic/floss-policy"
 socialtext3: "Code source sur Github"
 
 ---
