@@ -15,7 +15,7 @@ socialtext2: Site de République Citoyenne
 sociallink2: 'http://republiquecitoyenne.fr'
 sociallink1: memopol.lqdn.fr
 repmail: coordination@republiquecitoyenne.fr
-repimg: 'https://pbs.twimg.com/profile_images/758686908071419904/rxaSquok.jpg'
+repimg: repcit.jpg
 ---
 Aider les citoyens se faire une opinion des H/F politiques (et voter) en s’appuyant sur la réalité (et pas seulement sur les promesses et la communication politique)
  
