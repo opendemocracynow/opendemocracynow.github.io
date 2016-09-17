@@ -8,10 +8,10 @@ tag:
   - logiciels
   - ateliers
 rep: Lancelot Pecquet
-socialmatter1: Memopol
-socialtext1: Site web
-socialmatter2: République Citoyenne
-socialtext2: site web
+socialmatter1: home
+socialtext1: Site de Memopol
+socialmatter2: home
+socialtext2: Site de République Citoyenne
 sociallink2: 'http://republiquecitoyenne.fr'
 sociallink1: memopol.lqdn.fr
 repmail: coordination@republiquecitoyenne.fr
