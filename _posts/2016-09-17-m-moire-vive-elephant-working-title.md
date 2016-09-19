@@ -10,10 +10,12 @@ tag:
 rep: Lancelot Pecquet
 socialmatter1: home
 socialtext1: Site de Memopol
+sociallink1: https://memopol.lqdn.fr/
+
 socialmatter2: home
 socialtext2: Site de République Citoyenne
 sociallink2: 'http://republiquecitoyenne.fr'
-sociallink1: memopol.lqdn.fr
+
 repmail: coordination@republiquecitoyenne.fr
 repimg: repcit.jpg
 ---
