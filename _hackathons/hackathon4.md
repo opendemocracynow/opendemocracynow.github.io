@@ -2,12 +2,13 @@
 layout: post-hackathon
 title:  "Hackathon 4"
 excerpt: "Quelles réponses pratiques le numérique peut-il apporter à la démocratie ?"
+start-date: 2016-09-16
+end-date: 2016-09-18
 moment:   "16 au 18 septembre 2016"
 place: "Mairie du 18e Paris"
 img: "hackathon-4-mairie18.jpg"
 eventurl: "https://www.eventbrite.fr/e/billets-hackathon-open-democracy-now-4-26372793736"
 nextevent: "true"
-
 ---
 
 ### Quelles réponses pratiques le numérique peut-il apporter à la démocratie ?

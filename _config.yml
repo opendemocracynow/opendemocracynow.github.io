@@ -37,6 +37,9 @@ prose:
   - _config.yml
   - /_layouts
   - /_includes
+  - /google8c4c9c8d39c08457.html
+  - /sitemap.xml
+  - /img
  metadata:
   _posts:
    - name: "layout"
