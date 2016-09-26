@@ -1,6 +1,12 @@
 [
   
     {
+      "title"     : "Mémoire vive / Elephant (working title)",
+      "url"       : "/m-moire-vive-elephant-working-title",
+      "thumbnail" : "/img/projets/"
+    } ,
+  
+    {
       "title"     : "Empowering students",
       "url"       : "/empowering_students",
       "thumbnail" : "/img/projets/"

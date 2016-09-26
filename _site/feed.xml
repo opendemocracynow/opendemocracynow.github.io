@@ -2,19 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Democracy Now</title>
-    <description>Développer ensemble des solutions open source* pour la démocratie.
+    <description>Développer ensemble des solutions open source pour la démocratie.
 </description>
     <link>http://opendemocracynow.net//</link>
     <atom:link href="http://opendemocracynow.net//feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Fri, 16 Sep 2016 15:46:14 +0200</pubDate>
-    <lastBuildDate>Fri, 16 Sep 2016 15:46:14 +0200</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2016 16:54:52 +0200</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2016 16:54:52 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
-=======
-    <pubDate>Fri, 16 Sep 2016 15:32:30 +0200</pubDate>
-    <lastBuildDate>Fri, 16 Sep 2016 15:32:30 +0200</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
->>>>>>> origin/master
+    
+      <item>
+        <title>Mémoire vive / Elephant (working title)</title>
+        <description>&lt;p&gt;Aider les citoyens se faire une opinion des H/F politiques (et voter) en s’appuyant sur la réalité (et pas seulement sur les promesses et la communication politique)&lt;/p&gt;
+
+&lt;p&gt;Base open data des politiques croisant leurs déclarations (engagements…) et les les faits (lois, votes…),
+ce qui permet de mettre un  « score » au politique&lt;/p&gt;
+
+&lt;h5 id=&quot;latelier-dans-le-cadre-de-odn&quot;&gt;L’atelier dans le cadre de ODN&lt;/h5&gt;
+
+&lt;p&gt;République citoyenne est co-fondateur et organisateur d’Open Democracy Now. La discussion avec Memopol
+a été l’occasion de lancer ce projet en partenariat.&lt;/p&gt;
+
+&lt;p&gt;Les contributeurs sont tous bienvenus :
+Citoyens, journalistes… : sources d’info, fact-checking, article d’illustration (+ nom du projet?)Devs: formats posgresql/json, I/O sources, Mémopol, Wikidata… (python), IHM (django,css)Designers: pour l’UI (input &amp;amp; consultation)Assos: sources d’info + pondération des scoresChercheurs: analyse sémantique, stats, …&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 17 Sep 2016 00:00:00 +0200</pubDate>
+        <link>http://opendemocracynow.net//m-moire-vive-elephant-working-title</link>
+        <guid isPermaLink="true">http://opendemocracynow.net//m-moire-vive-elephant-working-title</guid>
+        
+        <category>logiciels</category>
+        
+        <category>ateliers</category>
+        
+        
+      </item>
     
       <item>
         <title>Empowering students</title>
@@ -190,7 +211,7 @@ Le compte rendu de l’évènement (en anglais) : http://pouraix.tumblr.com/post
       </item>
     
       <item>
-        <title>e-Participate comme vecteur d'amélioration (construction, d'évolution) de la Démocratie en Afrique.</title>
+        <title>e-Participate comme vecteur d&#39;amélioration (construction, d&#39;évolution) de la Démocratie en Afrique.</title>
         <description>&lt;p&gt;Le projet a pour objectif d’expliquer les différents dispositifs pouvant  permettre aux organismes publics  (Conseils municipaux, Commissions, Débats parlementaires, …) d’inciter et d’élargir la participation,  des citoyens dans le processus démocratique via les outils numériques.&lt;/p&gt;
 
 &lt;p&gt;Accompagner les élus locaux pour moderniser leur communication en direction des populations. Ainsi, des  multiples services peuvent être mis à contribution au service du citoyen. Il faut s’imaginer que les populations pourront utiliser internet pour demander des comptes au conseil municipal ou autre organisme public, quelque soi le lieu et sans limitation de temps. Une brèche serait ainsi ouverte pour « la démocratie électronique ». Cette innovation (révolution) permettra aux collectivités territoriales décentralisées de s’ouvrir aux citoyens et au monde. Cette ouverture, permettra de bénéficier de l’information à la demande. C’est aussi l’occasion d’avoir accès à une multitude d’opportunités, avoir accès à une intelligence collective d’une taille et d’une vitesse inédites.&lt;/p&gt;
@@ -297,7 +318,7 @@ Outil numérique mobile de travail collaboratif citoyen —&amp;gt; des services
     
       <item>
         <title>Débapédia, une encyclopédie de débats</title>
-        <description>&lt;p&gt;Pour ceux qui veulent se forger une opinion sur un sujet donné. Pour ceux qui cherchent à connaître les différentes positions d’un débat sans passer des heures à rechercher des arguments éparpillés sur la toile.&lt;/p&gt;
+        <description>&lt;p&gt;Pour ceux qui veulent se forger une opinion sur un sujet donné. Pour ceux qui cherchent à connaître les différentes positions d’un débat, sans passer des heures à rechercher des arguments éparpillés sur la toile.&lt;/p&gt;
 
 &lt;p&gt;Débapédia.org est une encyclopédie de débats, c’est-à-dire de pages qui visent à compiler ces arguments de façon simple et organisée. Résumé en quelques lignes, chacun des arguments est catégorisé en pour ou contre et est mis face à l’ensemble des objections qui lui sont généralement adressées. Pour chaque argument ou objection, une page détaillée vient apporter plus d’informations : des exemples, des chiffres, des citations ou le nom de ses principaux défenseurs.&lt;/p&gt;
 
@@ -312,10 +333,17 @@ Outil numérique mobile de travail collaboratif citoyen —&amp;gt; des services
 &lt;p&gt;L’encyclopédie est en ligne mais le projet est encore en cours de lancement. Le but de ce premier atelier sera alors avant tout de présenter Débapédia afin de recueillir différents avis et conseils qui serviront à l’élaboration finale du site.&lt;/p&gt;
 
 &lt;p&gt;En particulier, les besoins sont les suivants :&lt;/p&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;Une piste envisagée est de présenter les arguments d’un débat donné sous forme d’un sommaire où chaque titre correspond à une section déroulante. Cette présentation est-elle suffisamment intuitive ? Comment l’améliorer ?&lt;/li&gt;
-  &lt;li&gt;Dans cette optique, il serait judicieux de présenter, dans la version mobile du site, tous les titres et sous-titres d’une page sous forme de sections déroulantes. L’extension Mobile Frontend, qui permet justement d’afficher cette version mobile, ne propose malheureusement pas par défaut d’afficher les sous-titres sous forme de sections déroulantes, mais le permet pour les titres. Il s’agirait d’étendre cette fonction aux sous-titres en modifiant le code de Mobile Frontend, qui est écrit en langage PHP ;&lt;/li&gt;
-  &lt;li&gt;Enfin, le logo principal du site, la bannière de la page d’accueil ainsi que différents logos représentant un argument pour, un argument contre et une objection sont à dessiner. L’aide d’un designer serait la bienvenue ;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Une piste envisagée est de présenter les arguments d’un débat donné sous forme d’un sommaire où chaque titre correspond à une section déroulante. Cette présentation est-elle suffisamment intuitive ? Comment l’améliorer ?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dans cette optique, il serait judicieux de présenter, dans la version mobile du site, tous les titres et sous-titres d’une page sous forme de sections déroulantes. L’extension Mobile Frontend, qui permet justement d’afficher cette version mobile, ne propose malheureusement pas par défaut d’afficher les sous-titres sous forme de sections déroulantes, mais le permet pour les titres. Il s’agirait d’étendre cette fonction aux sous-titres en modifiant le code de Mobile Frontend, qui est écrit en langage PHP.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Enfin, le logo principal du site, la bannière de la page d’accueil ainsi que différents logos représentant un argument pour, un argument contre et une objection sont à dessiner. L’aide d’un designer serait la bienvenue.&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Pour ceux qui seraient intéressés par le projet, RDV dimanche 18 septembre après-midi dans le cadre du quatrième Hackathon.&lt;/p&gt;
@@ -364,57 +392,6 @@ Citoyens motivés: plus nous sommes, mieux c’est!&lt;/p&gt;
         <guid isPermaLink="true">http://opendemocracynow.net//theactivist-eu</guid>
         
         <category>Logiciels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Donne ta voix</title>
-        <description>&lt;p&gt;2017, naufrage de la démocratie dans une présidentielle où la farce du déjà-vu le dispute à l’angoisse des extrêmes.
-De nombreux citoyens ont d’ores et déjà décidé de ne pas voter. Nous leur disons : DONNE TA VOIX !&lt;/p&gt;
-
-&lt;p&gt;Nous voulons permettre aux déçus de la République de réinvestir de façon festive cette élection, sans cautionner des candidats ou des partis qui sont à leur yeux disqualifiés.
-Nous leur proposons d’utiliser leur droit de procuration via un site de rencontres. L’idée-force est de donner sa voix, sans consigne de vote, à la suite d’une rencontre quasi-amoureuse, trans-générationnelle, trans-philosophique ou trans-communautaire.
-Ce projet est à la fois caustique et vertueux car il permet de se moquer d’un système électoral épuisé tout en tout en manifestant avec force la volonté d’une refondation de la démocratie.
-Le projet reposera techniquement sur un site de rencontre robuste et un usage intensif des réseaux sociaux.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;latelier-dans-le-cadre-de-odn&quot;&gt;L’atelier dans le cadre de ODN&lt;/h5&gt;
-
-&lt;p&gt;Ce projet est né sous forme de plaisanterie lors de discussions informelles entre les membres de Democracy OS France. Il a fini par prendre une consistance réelle au fil de sa présentation à des publics divers, mais il reste à l’état de concept que cet atelier devra valider ou invalider.
-L’atelier doit permettre d’établir une maquette du projet et d’identifier les besoins humains, techniques et financiers à mettre en œuvre.&lt;/p&gt;
-
-&lt;h5 id=&quot;contenu-de-latelier&quot;&gt;Contenu de l’atelier&lt;/h5&gt;
-
-&lt;p&gt;Analyse des forces et des faiblesses du projet&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Position juridique ;&lt;/li&gt;
-  &lt;li&gt;Critères pour l’appariement (matching) des donneurs et des receveurs ;&lt;/li&gt;
-  &lt;li&gt;Anticipation des questions-réponses ;&lt;/li&gt;
-  &lt;li&gt;Neutralisation de la captation des voix par les équipes de campagne des candidats ;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Préfiguration du dispositif&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;quel modèle pour le site de rencontre ?&lt;/li&gt;
-  &lt;li&gt;envisager une gouvernance participative, pendant le montage et pendant le déroulement du projet ;&lt;/li&gt;
-  &lt;li&gt;lister les compétences nécessaires : production, animation, gestion, communication, cohérence du discours ;&lt;/li&gt;
-  &lt;li&gt;réfléchir au casting des gens qui vont défendre le projet (organiser une Star-Ac pour les porte-paroles) ;&lt;/li&gt;
-  &lt;li&gt;imaginer un modèle de financement ;&lt;/li&gt;
-  &lt;li&gt;partenaires ;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Anticiper une sortie en beauté !&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 12 Sep 2016 00:00:00 +0200</pubDate>
-        <link>http://opendemocracynow.net//donne_ta_voix</link>
-        <guid isPermaLink="true">http://opendemocracynow.net//donne_ta_voix</guid>
-        
-        <category>Ateliers</category>
         
         
       </item>
