@@ -6,7 +6,7 @@
   <meta name="twitter:title" content="{{ site.title }}">
 {% endif %}
 {% if page.url %}
-  <meta name="twitter:url" content="http://opendemocracynow.net{{ page.url }}">
+  <meta name="twitter:url" content="{{site.basurl}}{{ page.title}}">
 {% endif %}
 {% if page.excerpt %}
   <meta name="twitter:description" content="{{ page.excerpt }}">
@@ -21,6 +21,3 @@
 {% else %}
   <meta name="twitter:image:src" content="{{ site.url }}img/logos/logo-odn-twitter.png">
 {% endif %}
-{% if hackathon.excerpt %}
-  <meta name="twitter:description" content="{{ hackathon.excerpt }}">
-  {% endif %}
