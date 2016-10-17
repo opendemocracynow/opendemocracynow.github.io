@@ -6,12 +6,15 @@ tag:
   - Logiciels
 img: banniere-debapedia.jpg
 rep: Manu Reilhac
-repmail: debapedia@gmail.com
+repmail: manu.reilhac@laposte.net
 socialmatter1: home
 sociallink1: 'http://debapedia.org/'
 socialtext1: Site web
 published: true
 active: true
+socialmatter2: pad
+sociallink2: 'https://annuel.framapad.org/p/debapedia_ODN'
+socialtext2: Pad bilan ODN 4
 ---
 
 Pour ceux qui veulent se forger une opinion sur un sujet donné. Pour ceux qui cherchent à connaître les différentes positions d’un débat, sans passer des heures à rechercher des arguments éparpillés sur la toile.
