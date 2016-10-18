@@ -21,7 +21,6 @@ prose:
  siteurl: 'http://opendemocracynow.net/'
  media: 'img'
  ignore:
-  - index.html
   - feed.xml
   - search.json
   - CNAME
