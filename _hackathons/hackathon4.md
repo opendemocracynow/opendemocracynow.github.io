@@ -24,7 +24,7 @@ Rendez-vous le vendredi 16 septembre au soir pour une conférence, puis le samed
 
 ### Programme complet
 
-#### VENDREDI 16/09 à 19h 
+#### VENDREDI 16/09 à 19h
 
 Présentation du hackathon et de ses ateliers
 
@@ -42,7 +42,7 @@ Temps d'annonce Etalab
 2 jours complets d'ateliers de réflexion et de développement :
 
 ##### Une meilleure information pour les citoyens !
-- Des débats citoyens à la télé avec AgoraLabTV ; 
+- Des débats citoyens à la télé avec AgoraLabTV ;
 - La réalisation d'une encyclopédie des débats sur Débapédia ;
 - Un kit portable contenant tous les éléments d'un débat public avec Démocratie Box ;
 
@@ -63,7 +63,7 @@ Temps d'annonce Etalab
 - La constitution de la boîte à outils de l'OGP avec Etalab (parmi quelques surprises !) ;
 - La poursuite de la réflexion sur les contributions aux logiciels libres dans les administrations ;
 
-##### Des ateliers de réflexion ouverts sur l'international et les enjeux de demain ! 
+##### Des ateliers de réflexion ouverts sur l'international et les enjeux de demain !
 - Les enjeux démocratiques autour de la blockchain ;
 - Une participation à la Global Legislative Openness Week avec un atelier de Regards Citoyens ;
 - Et des ateliers sur la démocratie en Afrique, en Algérie et en Europe !
