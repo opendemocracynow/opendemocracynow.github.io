@@ -1,12 +1,12 @@
 ---
 layout: post-hackathon
 title: Hackathon 5
-excerpt: Retour au Paris Open Source Summit pour l'aboutissement de un an de travail!
+excerpt: Retour au Paris Open Source Summit pour l'aboutissement d'une année de travail!
 start-date: {}
 end-date: {}
 moment: 17 novembre 2016
 place: Dock Pullman
-img: poss.png
+img: hack5.jpg
 eventurl: 'https://www.eventbrite.fr/e/billets-hackathon-open-democracy-now-5-28821373504'
 nextevent: true
 published: true
