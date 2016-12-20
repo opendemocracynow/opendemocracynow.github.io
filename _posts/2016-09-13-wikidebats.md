@@ -12,7 +12,7 @@ sociallink1: 'http://wikidebats.org'
 socialtext1: Site web
 published: true
 active: true
-socialmatter2: pad
+socialmatter2: file
 sociallink2: 'https://annuel.framapad.org/p/wikidebats_ODN'
 socialtext2: Pad bilan ODN 4
 ---
