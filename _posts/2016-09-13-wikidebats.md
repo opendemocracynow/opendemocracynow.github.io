@@ -15,9 +15,9 @@ active: true
 socialmatter2: file
 sociallink2: 'https://annuel.framapad.org/p/wikidebats_ODN'
 socialtext2: Pad bilan ODN 4
-socialmatter2: twitter
-sociallink2: 'https://twitter.com/WikiDebats'
-socialtext2: Compte twitter
+socialmatter3: twitter
+sociallink3: 'https://twitter.com/WikiDebats'
+socialtext3: Compte twitter
 
 ---
 
