@@ -15,6 +15,10 @@ active: true
 socialmatter2: file
 sociallink2: 'https://annuel.framapad.org/p/wikidebats_ODN'
 socialtext2: Pad bilan ODN 4
+socialmatter2: twitter
+sociallink2: 'https://twitter.com/WikiDebats'
+socialtext2: Compte twitter
+
 ---
 
 Pour ceux qui veulent se forger une opinion sur un sujet donné. Pour ceux qui cherchent à connaître les différentes positions d’un débat, sans passer des heures à rechercher des arguments éparpillés sur la toile.
