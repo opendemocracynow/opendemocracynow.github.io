@@ -8,7 +8,7 @@ moment: 17 novembre 2016
 place: Dock Pullman
 img: hack5.jpg
 eventurl: 'https://www.eventbrite.fr/e/billets-hackathon-open-democracy-now-5-28821373504'
-nextevent: true
+nextevent: false
 published: true
 ---
 
