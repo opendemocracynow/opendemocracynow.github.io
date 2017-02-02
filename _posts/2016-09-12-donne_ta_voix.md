@@ -6,6 +6,7 @@ tag: Ateliers
 rep: "Olivier Buchotte"
 img: "Bandeau-DTV.jpg"
 repmail: "donnetavoix@gmail.com"
+active: false
 
 ---
 
@@ -43,4 +44,3 @@ Préfiguration du dispositif
 - partenaires ;
 
 Anticiper une sortie en beauté !
-
