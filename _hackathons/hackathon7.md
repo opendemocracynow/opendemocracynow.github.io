@@ -22,6 +22,26 @@ Plus en élargissant la cible de nos événements, à d'autres villes et d'autre
 
 Mieux en sélectionnant et en orientant davantage les projets. Nous l'avons vu ces derniers mois, la civic tech ne manque pas d'initiatives. Elles doivent désormais gagner en qualité et en accessibilité pour toucher une population plus large.
 
+### Programme :
+
+#### Samedi
+
+9h pour un "tour des thématiques", l'occasion de se rencontrer et de brainstormer autour des problèmes et solutions pour chacune.
+
+10h : Session de Pitch.
+
+18h : Meetup vidéo avec les autres villes sur Appear.in.
+
+18h30 : Restitutions première journée.
+
+19h : Pot des participants.
+
+#### Dimanche
+
+9h : Session de Pitchs.
+
+18h : Restitutions
+
 **Nous vous donnons rendez-vous pour l'événement parisien le weekend du 4 et 5 mars au Square Paris, 100 rue Amelot pour expérimenter ce nouveau format !**  
 
 #### Aidez-nous à organiser la Nuit du Code citoyen : <a href="https://nuitcodecitoyen.rocket.chat/channel/orga-paris" class="btn btn-primary">Rejoignez le rocket chat</a>
