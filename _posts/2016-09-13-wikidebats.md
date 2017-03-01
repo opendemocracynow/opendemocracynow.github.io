@@ -18,6 +18,9 @@ socialtext2: Pad bilan ODN 4
 socialmatter3: twitter
 sociallink3: 'https://twitter.com/WikiDebats'
 socialtext3: Compte twitter
+socialmatter4: facebook
+sociallink4: 'https://www.facebook.com/wikidebats/'
+socialtext4: Page Facebook
 
 ---
 
@@ -33,16 +36,21 @@ Le site fonctionne selon le principe d’un wiki. Collaboratif, libre de droits,
 
 <br>
 
-##### L'atelier dans le cadre de ODN
+##### Les ateliers dans le cadre de la Nuit du code citoyen
 
-L’encyclopédie est en ligne mais le projet est encore en cours de lancement. Le but de ce premier atelier sera alors avant tout de présenter Wikidébats afin de recueillir différents avis et conseils qui serviront à l’élaboration finale du site.
+Samedi après-midi, un débat sera organisé avec [AgoraLabTV]("/AgoraLabTV") pour tester un dispositif novateur : la #LiveAgora. Retransmis en direct sur Facebook, et retranscrits sous forme de tweets, les échanges permettront de constituer une trame qui servira à créer une nouvelle page de Wikidébats. L’objectif est qu’à la fin du week-end, cette page contienne une bonne partie des arguments et objections du débat retenu lors de la LiveAgora.
 
-En particulier, les besoins sont les suivants :
+Dimanche après-midi, une présentation du projet Wikidébats sera faite afin de décrire les motivations, les spécificités et les enjeux du projet.
 
-- Une piste envisagée est de présenter les arguments d’un débat donné sous forme d’un sommaire où chaque titre correspond à une section déroulante. Cette présentation est-elle suffisamment intuitive ? Comment l’améliorer ?
+*Les besoins*
+Avis aux âmes charitables pour :
 
-- Dans cette optique, il serait judicieux de présenter, dans la version mobile du site, tous les titres et sous-titres d’une page sous forme de sections déroulantes. L’extension Mobile Frontend, qui permet justement d’afficher cette version mobile, ne propose malheureusement pas par défaut d’afficher les sous-titres sous forme de sections déroulantes, mais le permet pour les titres. Il s’agirait d’étendre cette fonction aux sous-titres en modifiant le code de Mobile Frontend, qui est écrit en langage PHP. 
+- développer une fonction permettant d’afficher l’aperçu d’une page du site au survol d’un lien (compétences requises en PHP) ;
 
-- Enfin, le logo principal du site, la bannière de la page d’accueil ainsi que différents logos représentant un argument pour, un argument contre et une objection sont à dessiner. L’aide d’un designer serait la bienvenue.
+- développer une fonction automatisant la création d’un tableau « pour »/« contre » reprenant le titre des arguments contenus dans le sommaire (compétences requises en HTML) ;
 
-Pour ceux qui seraient intéressés par le projet, RDV dimanche 18 septembre après-midi dans le cadre du quatrième Hackathon.
+- prendre en charge la communication du projet ;
+
+- fournir une salle pour un groupe d’étudiants stagiaires sur une durée de 7 à 10 jours (non consécutifs) ;
+
+- fournir des conseils juridiques afin de rédiger les « Avertissements généraux » du site.
