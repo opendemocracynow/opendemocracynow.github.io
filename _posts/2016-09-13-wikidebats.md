@@ -38,11 +38,12 @@ Le site fonctionne selon le principe d’un wiki. Collaboratif, libre de droits,
 
 ##### Les ateliers dans le cadre de la Nuit du code citoyen
 
-Samedi après-midi, un débat sera organisé avec [AgoraLabTV]("/AgoraLabTV") pour tester un dispositif novateur : la #LiveAgora. Retransmis en direct sur Facebook, et retranscrits sous forme de tweets, les échanges permettront de constituer une trame qui servira à créer une nouvelle page de Wikidébats. L’objectif est qu’à la fin du week-end, cette page contienne une bonne partie des arguments et objections du débat retenu lors de la LiveAgora.
+Samedi après-midi, un débat sera organisé avec [AgoraLabTV](AgoraLabTV) pour tester un dispositif novateur : la #LiveAgora. Retransmis en direct sur Facebook, et retranscrits sous forme de tweets, les échanges permettront de constituer une trame qui servira à créer une nouvelle page de Wikidébats. L’objectif est qu’à la fin du week-end, cette page contienne une bonne partie des arguments et objections du débat retenu lors de la LiveAgora.
 
 Dimanche après-midi, une présentation du projet Wikidébats sera faite afin de décrire les motivations, les spécificités et les enjeux du projet.
 
-*Les besoins*
+###### Les besoins
+
 Avis aux âmes charitables pour :
 
 - développer une fonction permettant d’afficher l’aperçu d’une page du site au survol d’un lien (compétences requises en PHP) ;
