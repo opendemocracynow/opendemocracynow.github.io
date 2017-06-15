@@ -8,7 +8,7 @@ moment: 4 et 5 mars 2017
 place: Le Square
 img: hackathon7-nuit_du_code_citoyen.png
 eventurl: 'https://www.eventbrite.fr/e/billets-hackathon-nuit-du-code-citoyen-paris-31635291007'
-nextevent: true
+nextevent: false
 published: true
 ---
 
