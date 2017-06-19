@@ -5,7 +5,7 @@ title: 'Wikidébats, une encyclopédie de débats'
 tag:
   - Logiciels
 img: banniere-debapedia.jpg
-rep: Manu Reilhac
+rep: Manu
 repmail: contact@wikidebats.org
 socialmatter1: home
 sociallink1: 'http://wikidebats.org'
