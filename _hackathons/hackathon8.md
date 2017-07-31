@@ -1,6 +1,6 @@
 ---
 layout: post-hackathon
-title: Soirée Open Democracy Now! Let's build a new democracy together
+title:  Apero Open Democracy Now! Let's build a new democracy together
 excerpt:
 start-date: {}
 end-date: {}
@@ -8,7 +8,7 @@ moment: 4 Juillet 2017
 place: Volumes Coworking
 img: soiree-odn.png
 eventurl: 'https://www.eventbrite.fr/e/billets-soiree-open-democracy-now-lets-build-a-new-democracy-together-35404233014'
-nextevent: true
+nextevent: false
 published: true
 ---
 
