@@ -9,10 +9,8 @@ customjs:
   - /js/locales/fr.js
 published: true
 ---
-
-        <div class="parallax-container-top" data-parallax="scroll" data-position="top" data-bleed="10" data-image-src="/img/abs9.jpg" data-natural-width="1476" data-natural-height="705"></div>
-
-
+<!-- hero section -->
+        <div class="parallax-container-top" data-parallax="scroll" data-position="top" data-bleed="10" data-image-src="/img/abs9.jpg" data-natural-width="1476" data-natural-height="900"></div>
         <div class= "container">
             <div class="punchline text-center">
                 <h2>Développer ensemble des solutions <br>open source<a href="#" data-toggle="tooltip" data-placement="down" title="*transparentes, modifiables et libres pour tous!"><b>*</b></a>
@@ -30,25 +28,15 @@ published: true
                     {% if hackathon.nextevent %}
 
                     <div class="ribbon-red"><span> Prochain événement</span></div>
-
+                        <h4 style="color:#fff;">{{ hackathon.title }}</h4>
                         <p><i class="fa fa-calendar" aria-hidden="true"></i> {{ hackathon.moment }} <i class="fa fa-map-marker" aria-hidden="true" style="padding-left:10px"></i> {{ hackathon.place }}</p>
-
-                        {% if hackathon.img %}
-                         <div><a href="{{ hackathon.url }}"><img src="img/hackathons/{{hackathon.img}}"> </img></a></div>
-                        {% else %}
-                        <div class='rectangle-box'>
-                            <a href="{{ hackathon.url }}"><div class='rectangle-content'><div><span>{{hackathon.title}}</span></div></div></a>
-                        </div>
-                        {% endif %}
-
-                    <br>
-                    <br>
-                    {% if hackathon.nextevent %}
-                                    <a href="{{ hackathon.eventurl }}" class="btn btn-success btn-md btn-fill" target="_blank"><b>Inscription</b></a>
-                                    {% endif %}
-
-                                    {% if hackathon.notes %} <a href="{{ hackathon.notes }}" style="float:center" class="btn btn-warning btn-md btn-fill" target="_blank"><b>Compte rendu</b></a>
-                                    {% endif %}
+                        <div><a href="{{ hackathon.url }}"><img src="img/hackathons/{{hackathon.img}}"> </img></a></div>
+                        <br>
+                          {% if hackathon.nextevent %}
+                            <a href="{{ hackathon.eventurl }}" class="btn btn-success btn-md btn-fill" target="_blank"><b>Inscription</b></a>
+                          {% endif %}
+                          {% if hackathon.notes %} <a href="{{ hackathon.notes }}" style="float:center" class="btn btn-warning btn-md btn-fill" target="_blank"><b>Compte rendu</b></a>
+                          {% endif %}
 
                                     <a href="{{ hackathon.url }}" class="btn btn-info btn-md btn-fill"> <b>Détails</b> <i class="fa fa-chevron-right" style=" vertical-align: middle;"></i> </a>
                     <br>
@@ -57,16 +45,14 @@ published: true
                     {% else %}
 
                     <div class="ribbon"><span>événement terminé</span></div>
-
-                        <p><i class="fa fa-calendar" aria-hidden="true"></i> {{ hackathon.moment }} <i class="fa fa-map-marker" aria-hidden="true" style="padding-left:20px"></i> {{ hackathon.place }}</p>
+                      <h4 style="color:#fff;">{{ hackathon.title }}</h4>
+                      <p><i class="fa fa-calendar" aria-hidden="true"></i> {{ hackathon.moment }} <i class="fa fa-map-marker" aria-hidden="true" style="padding-left:20px"></i> {{ hackathon.place }}</p>
 
                     <div>
                     <a href="{{ hackahton.url }}"><img src="img/hackathons/{{hackathon.img}}"> </img></a>
                     </div>
                     <br>
-                    <br>
                     <a href="{{ hackathon.url }}" class="btn2 btn-bs btn-lg">Détails et compte rendu</a>
-                    <br>
                     <br>
 
                     {% endif %}
@@ -80,13 +66,9 @@ published: true
             <br>
             <br>
         </div>
+<!-- end of hero section -->
 
-
-
-
-
-
-    <!--  Section Presentation-->
+<!--  Presentation Section -->
 
 
 
@@ -135,37 +117,36 @@ published: true
             </div>
         </div>
     </div>
+<!-- end of presentation  -->
 
 
 
+<!--  thematics section-->
 
-<!--  Section Timeline-->
-
-            <div class="section section-gray section-clients">
+            <div class="section section-gray section-clients" id="thematics">
                 <div class="container text-center">
                     <h3>6 Thématiques portées par une équipe de référents</h3>
-                    <p>
-                        Le nouveau cycle d'événements de Open Democracy Now sera ryhtmé par deux types d'événements : <br>
-                        les meetups thématiques, organisés fréquemment ils permettent de suivre les projets<br>
-                        et les hackathons, plus espacés ils rassemblent toute la communauté <br>
-                    </p>
+                    <p>Le nouveau cycle d'événements de Open Democracy Now sera ryhtmé par deux types d'événements :</p>
+                    <ul style="list-style-type: none;">
+                      <li>Les <b>meetups thématiques</b>, organisés fréquemment ils permettent de suivre les projets</li>
+                      <li>Les <b>hackathons</b>, plus espacés ils rassemblent toute la communauté </li>
+                    </ul>
                 </br>
                 </div>
                 <div class="container">
                   <!-- blockhain -->
                   <div class="row" id="blockchain">
                     <div class="col-sm-12 col-md-6">
-                      <center>
-                      <h5>Coordinateurs :</h5>
-                      <div class="col-md-4">
 
+                      <center><h5>Coordinateurs :</h5></center>
+                      <div class="col-md-4">
+                        <center>
                           <img src="/img/people/virgile.jpg" class="img-circle">
                           <br>
                           <p><b>Virgile Deville</b></p>
                           <p><a href="https://twitter.com/VirgileDeville"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;<a href="mailto:vir@democracy.earth"><i class="fa fa-envelope"></i></a></p>
-
+                        </center>
                       </div>
-                      </center>
                       <div class="col-md-4">
                         <center>
                           <img src="/img/people/louis-margot-duclot.jpg" class="img-circle">
@@ -200,17 +181,17 @@ published: true
                       <p>Plusieurs projets se rapprochent de l’objectif de constituer un véritable “Git de la loi” permettant aux citoyens de suivre les débats parlementaires et de participer à l’écriture de la loi en temps réel. Nous atteindrons ce but en soutenant des technologies libres.</p>
                       <a href="" class="btn btn-primary">Voir les événements</a>
                     </div>
-                    <div class="col-sm-12 col-md-6">
-                    <center>
-                        <h5>Coordinateur :</h5>
-                        <div>
+                    <div class="col-md-2">
+                      <center>
+                          <h5>Coordinateur :</h5>
+                          <div>
 
-                            <img src="http://www.opensourcepolitics.eu/img/team/3.jpg" class="img-circle" width="150px" height="150px">
-                            <br>
-                            <p><b>Valentin Chaput</b></p>
-                            <p><a href="https://twitter.com/ValentinChaput"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;<a href="mailto:valentin@opensourcepolitics.eu"><i class="fa fa-envelope"></i></a></p>
-                        </div>
-                    </center>
+                              <img src="http://www.opensourcepolitics.eu/img/team/3.jpg" class="img-circle" width="150px" height="150px">
+                              <br>
+                              <p><b>Valentin Chaput</b></p>
+                              <p><a href="https://twitter.com/ValentinChaput"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;<a href="mailto:valentin@opensourcepolitics.eu"><i class="fa fa-envelope"></i></a></p>
+                          </div>
+                      </center>
                     </div>
                     <hr>
                   </div>
@@ -218,7 +199,9 @@ published: true
                   <p>&nbsp;</p>
                   <!-- Charte éthique -->
                   <div class="row" id="charte">
-                    <div class="col-sm-12 col-md-6">
+                    <div class="col-md-4 xs-hidden">
+                    </div>
+                    <div class="col-md-2">
                       <center>
                       <h5>Coordinateur :</h5>
                       <div>
@@ -248,7 +231,7 @@ published: true
                       <p>En lien avec de nombreux mouvements citoyens, nous utiliserons les outils de cartographie collaborative pour mettre en relation les initiatives citoyennes locales qui partagent nos valeurs de collaboration, de participation et de transparence.</p>
                       <a href="" class="btn btn-primary">Voir les événements</a>
                     </div>
-                    <div class="col-sm-12 col-md-6">
+                    <div class="col-md-2">
                       <center>
                       <h5>Coordinateur :</h5>
                       <div>
@@ -267,7 +250,9 @@ published: true
                   <p>&nbsp;</p>
                   <!-- consultation -->
                   <div class="row" id="consultation">
-                    <div class="col-sm-12 col-md-6">
+                    <div class="col-md-4 xs-hidden">
+                    </div>
+                    <div class="col-md-2">
                       <center>
                       <h5>Coordinateur :</h5>
                       <div>
@@ -296,7 +281,7 @@ published: true
                       <p>L’ouverture des données budgétaires locales et nationales est au centre de projets présents depuis l’origine de nos hackathons. Nous renforcerons cette dynamique pour introduire en France les meilleurs référentiels européens.</p>
                       <a href="" class="btn btn-primary">Voir les événements</a>
                     </div>
-                    <div class="col-sm-12 col-md-6">
+                    <div class="col-md-2">
                       <center>
                       <h5>Coordinateur :</h5>
                       <div>
@@ -313,12 +298,13 @@ published: true
                   <!-- fin budget -->
                 </div>
             </div>
+<!-- end of thematics -->
             </div>
 
 
 
 
-<!--  Section Logos-->
+<!--  Partners section-->
 
             <div class="section section-features">
                 <div class="container">
@@ -376,64 +362,36 @@ published: true
                 </div>
 
             </div>
+<!-- end of partners section -->
 
 
+<!-- Agenda section -->
+        <div class="section-gray" style="margin-bottom:-20px;">
+           <div class="container-agenda">
+                  <br>
+                  <center>
+                    <h2>L'agenda des événements Open Democracy Now</h2>
+                    <br>
+                    <p>Participez à l'animation de la communauté : <a href="https://openagenda.com/open-democracy-now/addevent" class="btn btn-warning btn-fill">Proposer un événement</a></p>
 
+                  </center>
 
-           <div class="parallax-container" data-parallax="scroll" data-position="top" data-bleed="10" data-image-src="/img/abs1.jpg" data-natural-width="1473" data-natural-height="704"></div>
-
-                <div class= "container text-center">
-
-                    <div class="punchline punchline-bottom">
-                                <h2>Retrouvez les derniers événements ODN!</h2>
-                            </br>
-                        </br>
-                        </br>
-                        </br>
-
-
+                  <br>
+                  <div class="row">
+                    <div class="col-md-9">
+                        <iframe style="width:100%;" frameborder="0" scrolling="no" allowtransparency="allowtransparency" class="cibulFrame cbpgbdy" data-oabdy src="//openagenda.com/agendas/46721496/embeds/75961130/events?lang=fr"></iframe><script type="text/javascript" src="//openagenda.com/js/embed/cibulBodyWidget.js"></script>
                     </div>
-
-
-                        <div class="row">
-
-                            {% for hackathon in hackathons limit:3 %}
-
-                        <div class="col-md-4">
-
-                            <div class="card-bottom">
-
-                                    <h3> {{hackathon.title}} </h3>
-
-                                    <i class="fa fa-calendar" aria-hidden="true"></i> {{ hackathon.moment }} <i class="fa fa-map-marker" aria-hidden="true" style="padding-left:10px"></i> {{ hackathon.place }}
-
-                                      <br>
-                                       <br>
-
-
-                                    {% if hackathon.nextevent %}
-                                    <a href="{{ hackathon.eventurl }}" class="btn btn-success btn-sm btn-fill" target="_blank"><b>Inscription</b></a>
-                                    {% endif %}
-
-                                    {% if hackathon.notes %} <a href="{{ hackathon.notes }}" style="float:center" class="btn btn-warning btn-sm btn-fill" target="_blank"><b>Compte rendu</b></a>
-                                    {% endif %}
-
-                                    <a href="{{ hackathon.url }}" class="btn btn-info btn-sm btn-fill"> <b>Détails</b> <i class="fa fa-chevron-right" style=" vertical-align: middle;"></i> </a>
-                            </div>
-
-                        </div>
-
-                            {% endfor %}
-
-                        </div>
-
-                        <div class="btn-bottom">
-                        <a href="{{ site.baseurl }}/hackathons/" class="btn2 btn-bs btn-lg">Voir tous les hackathons</a>
-                        </div>
-
-
-
-                </div>
+                    <div class="col-md-3">
+                      <h5>Trouvez votre événement</h5>
+                      <br>
+                      <div class="cbpgsc cibulSearch" data-oasc data-cbctl="46721496/75961130|fr" data-lang="fr">&nbsp;<i class="fa fa-search"></i></div><script type="text/javascript" src="//openagenda.com/js/embed/cibulSearchWidget.js"></script>
+                      <br>
+                      <h6>Thématiques</h6>
+                      <div class="cbpgct cibulCategories" data-oact data-cbctl="46721496/75961130" data-lang="fr"></div><script type="text/javascript" src="//openagenda.com/js/embed/cibulCategoriesWidget.js"></script>
+                      <br>
+                      <div class="cbpgcl cibulCalendar" data-oacl data-cbctl="46721496/75961130|fr" style="width:100%;" data-lang="fr"></div><script type="text/javascript" src="//openagenda.com/js/embed/cibulCalendarWidget.js"></script>
+                    </div>
+                  </div>
             </div>
-
-            </div>
+          </div>
+<!-- end of agenda section -->
